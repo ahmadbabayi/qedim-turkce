@@ -282,19 +282,20 @@ ağırladaçı @ ehtiram göstərən, hörmət edən
 
 ağırlamak @ ehtiram göstərmək, hörmət etmək
 
-ağırlanmak @ culbar və ehtiram göstərmək, hörmət etmək
+ağırlanmak @ etibar və ehtiram göstərmək, hörmət etmək
 
 ağırlatmak @ hörmət etdirmək
 
 ağırlığ @ qiymətli
 
-авлл уб @ һалә
+ağ/ı/rl/ı/ğ @ hamilə
 
 ağıs @ ağız
 
 ağız @ ağız
 
 ağız yal @ bir növ ağız xəstəliyi
+
 ağlağı @ zərif, incə, yumşaq
 
 ağlak @ zərif
@@ -305,16 +306,15 @@ ağlıq @ xəzinə
 
 ağlık @ boş ve izsiz yer
 
-ağmak -- yüksəlmək, qaixmaq, yuxarıya çıxmaq
+ağmak @ yüksəlmək, qalxmaq, yuxarıya çıxmaq
 
-ağnamak @ ağnamaq, yerə
-sürtünmək (arxası üstdə)
+ağnamak @ ağnamaq, yerə sürtünmək (arxası üstdə)
 
-адгав – ağrı, xəstəlik
+ağraq @ ağrı, xəstəlik
 
 ağrığ @ ağrı, xəstəlik
 
-ağrığlanmak @ halı pis olan, ağrüları artmağ, xəstələnmək
+ağrığlanmak @ halı pis olan, ağrıları artmağ, xəstələnmək
 
 ağrığlığ @ xəstəlik
 
@@ -322,8 +322,7 @@ ağrık @ ağrı, xəstəlik
 
 ağrımak @ ağrımaq, xəstələnmək
 
-ağrınmak -—— 1. sıziamaq, göynəmək: 2. yalvarmaq, nönkür-hönkür ağlamaq, 3. eh-
-üram etmək, əhəmiyyət vermək
+ağrınmak @ 1. sızılmaq, göynəmək: 2. yalvarmaq, hönkür-hönkür ağlamaq, 3. ehtiram etmək, əhəmiyyət vermək
 
 ağrıtmak @ ağrıtmaq
 
@@ -337,8 +336,7 @@ ağtaru @ cəld, təcili
 
 ağtarılmak @ əyilmək, dönmək
 
-ağtırımak @ çıxmaq, minmək, ata
-minmək .
+ağtırımak @ çıxmaq, minmək, ata minmək
 
 ağtuk bolmak @ həlak olmaq
 
@@ -350,17 +348,17 @@ ağumak @ zəhərləmək
 
 ağukmak @ zəhərlənmək
 
-ağzanmak @ söyləmək, danışmas
+ağzanmak @ söyləmək, danışmaq
 
-ај ay
+аi @ ay
 
-alğ @ söz
+aiğ @ söz
 
 aiku @ söz, ayə, surə
 
 ainç @ qorxu
 
-ak @ İ. ağı 2.pis, fona
+ak @ 1. ağı 2.pis, fəna
 
 aka @ böyük qardaş
 
@@ -369,74 +367,72 @@ akaş @ göy
 ak bi @ qır at, ağ ai
 
 akdarılmak @ axtanılmaq
-аҝа @ согләгд, 1234
 
-akığ @ 1.ахзу, ахиз6, 2. дӧ2 уаӱи
+akı @ comərd, igid
 
-akığlığ - axan, axıçı
+akığ @ 1.axış, axıntı, 2. göz yaşı
 
-akiğsiz -- axmaz, axmayan, axımnlısız
+akığlığ @ axan, axıçı
 
-akınçsiz @ sabit, möhkəm, sağlam
+akığsız @ axmaz, axmayan, axıntısız
+
+akınçsız @ sabit, möhkəm, sağlam
 
 akırlamak @ hörmət etmək
 
-akıtmak @ axmaq
+akıtmak @ axıtmaq
 
-akışmak saymaq, sözünün
-üstündə durmamaq
+akışmak @ caymaq, sözünün üstündə durmamaq
 
-aklağuçı @ gücü çatmayarı
+aklağuçı @ gücü çatmayan
 
 aklamak @ gücü çatmamaq
 
 akmak @ axmaq
 
-akru yavaş
+akru @ yavaş
 
 aktardaçı @ 1. axtaran, 2. tərcümə edən, tərcüməçi
 
 aktarılmak @ axtarılmak, devrilmək, başaşağı çevirmək
 
-aktarmak @ 1.çevirmək, tərcümə
-etmək: 2. axtarmaq, dönmək
+aktarmak @ 1.çevirmək, tərcümə etmək: 2. axtarmaq, dönmək
 
 aktınmak @ suya batmaq, axmaq
 
-akturmak -- 1. yüksəitmək, 2. axıldırmaq
+akturmak @ 1. yüksəitmək, 2. axıldırmaq
 
-akuluğ ağılı, zəhərli
+akuluğ @ ağılı, zəhərli
 
 akuru akuru @ yavaşca, səssizcə
 
-akürü turkürü @ doğru
+akürü turkuru @ doğru
 
 Aqnidiş @ tonanim, ölkə adı
 
-al 1. alt, 2. al (rəng): 3.yol, vasilə, üsul, çarə: 4. al, hiylə, aldatma
+al @ 1. alt, 2. al (rəng): 3.yol, vasitə, üsul, çarə: 4. al, hiylə, aldatma
 
-ala 1, cüzam (xəstalik):
-2, qonur (at)
+ala @ 1, cüzam (xəstalik); 2, qonur (at)
 
-alakırlamak @ 1.bağırmaq, çığırmaq, hirsli /qızğın
-danışmaq, 2. söhbət etmək, danışmaq
+alakırlamak @ 1.bağırmaq, çığırmaq, hirsli /qızğın danışmaq, 2. söhbət etmək, danışmaq
 
 alakırışmak @ bağırışmaq, çığırışmaq
 
 alanğadturmak @ anqlamaq, zəlfləmək
 
-alanğumak --— yorulmaq
+alanğumak @ yorulmaq
 
-alakırmak -- bağırmaq, nərildəmək
+alakırmak @ bağırmaq, nərildəmək
 
-alarmak @ soxmaq
+alarmak @ soxmaq 
+
 alaçu @ alaçıq
 
 alaçuk @ alaçıc
 
-alban @ xidmət etməklə ödənən
-vergi adı, 
-alçak -—— alçaq, rəzil
+alban @ xidmət etməklə ödənən vergi adı.
+
+alçak @ alçaq, rəzil
 
 aldağ @ çarə, üsul
 
@@ -444,68 +440,62 @@ aldı @ aldı
 
 aldun @ qızıl, alfun
 
-alğıl @ ај
+alğıl @ al
 
-alğınmak -- qeyb olmaq
+alğınmak @ qeyb olmaq
 
 alğu @ bütün, hamısı
 
-alğuni @ hamsın:
+alğunı @ hamsını
 
-alıkmak --. azarlamaq, xəstələnmək, bitirmək, tükənmək, sona yetmək.
+alıkmak @ azarlamaq, xəstələnmək, bitirmək, tükənmək, sona yetmək.
 
 alılmak @ özü üçün almaq
 
 alım @ borc
 
-afımla @ alma (meyve adı)
+alımla @ alma (meyve adı)
 
 alımçı @ borc verən
 
 alın @ 1. alın, 2.6n tərəf, qabaq
 
-ahınç @ alan, əldə edən
+alınç @ alan, əldə edən
 
-alınçsız @ tutulmayan, əldə
-edilməyər:
+alınçsız @ tutulmayan, əldə edilməyən:
 
-alınmak @ əldə etmək, özü üçün
-aimaq
+alınmak @ əldə etmək, özü üçün almaq
 
 alın @ aciz, gücsüz
 
 alınlığ @ alınlı, alın olan
 
-alış @ alış, alış-veriş, ücarət, bir
-vergü növü
+alış @ alış, alış-veriş, ticarət, bir vergü növü
 
-alış-biriş @ alış-veriş, al-ver, ticarər
+alış-biriş @ alış-veriş, al-ver, ticarət
 
 alışmaq @ almaq, əldə etmək
 
-alkağ @ İuzaq: 2, geniş
+alkağ @ 1.uzaq: 2, geniş
 
 alkama @ tərifləmək
 
-alkanmak @ 1. təriflənmək, şöhrətlənmək, 
-2. yemək (heyvanlar üçün):
+alkanmak @ 1. təriflənmək, şöhrətlənmək, 2. yemək (heyvanlar üçün); 3. saldırmaq, yox etmək
 
-3. saldırmaq, yox etmək
-
-alkansık @ /zörü sözü ilə)
-tərifləmak
+alkansık @ /törü sözü ilə) tərifləmak
 
 alkar @ təhsin
 
-alkaşmak @ yardım etmək, arxa
-olmaq
+alkaşmak @ yardım etmək, arxa olmaq
 
-alkat @ tərif madh, sitayiş
+alkat @ tərif mədh, sitayiş
+
 alkatmak @ təriflətmək
 
-alkğuçi @ oğru
+alkğuçı @ oğru
 
-alkığ - - 1. uzaq, 2. geniş
+alkığ @ 1. uzaq, 2. geniş
+***burda
 
 alkımak @ əl çalmaq, alqışlamaq
 
