@@ -1,4648 +1,12 @@
-e @ nida
+о @ nida
 
-eb @ ev
-
-ebin @ 1. taxıl, toxum, 2. adət
-
-ebir @ dolanmaq (bir şeyin ətrafında)
-
-eçbi @ qadın
-
-eçə @ böyük qardaş, əmi
-
-eçi @ böyük qardaş, əmi
-
-eçü @ 1. sələf, 2. əcdad
-
-ed @ maddə, mülk, sərvət
-
-edədmək @ 1. maddələşmək, böyümək, 2. varlanmaq
-
-edərmək @ aramaq, təqib etmək, axtarmaq
-
-ediz @ oğuz qəbilələrindən birinin adı
-
-edigmək @ 1, kömək etmək; 2. qiymətləndirmək
-
-ediş @ qabqacaq, çölmək
-
-edgü @ yaxşı, üstün
-
-edgüləmək @ yaşılıq etmək
-
-edgüli @ yaxşı, üstün
-
-edgülüg @ yaxşı, yaxşılıq, münasib, uyğun, üstünlük
-
-edgülük @ yaxşı, yaxşılıq, münasib, uyğun, üstün
-
-edgüti @ yaxşıca
-
-edüz @ oğuz qəbilələrindən birmin adı
-
-egdiş @ çölmək, qabqacaq.
-
-egidmək @ tərbiyə etmək, böyütmək, yüksəltmək
-
-eki @ iki (say)
-
-ekin @ ikisinin
-
-ekinti @ ikinci
-
-ekün @ cüt, iki, ikisinin
-
-ekşər @ heca
-
-ekdilənmək @ tərbiyə etmək, böyütmək, yüksəltmək
-
-e1 @ el
-
-elig @ elli
-
-elçi @ 1. elçi, 2. antroponim, şəxs adı
-
-em @ çarə, əlac, vasitə
-
-emdi @ indi
-
-emsiz @ çarəsiz, əlacsız, vasitəsiz
-
-enin @ çiyin, kürək, arxa, bel
-
-enitgəli @ enməli, düşməli
-
-enitmək @ enmək, endirmək, düşmək (aşağı)
-
-enmək @ enmək, sallanmaq
-
-erdə @ ertə
-
-erdəçi @ olmalı, olacaq
-
-erig @ 1. öyüd, nəsihət, 2.qüdrət, iradə
-
-erigləmək @ öyüd vermək, nəsihət vermək
-
-eriglig @ öyüdlü, güclü
-
-erigmə @ tapılan
-
-erik @ 1. güclü, qüvvətli, iradə; 2. öyüd, nəsihət
-
-erikləmək @ öyüd vermək, nəsihət vermək
-
-erikli @ mövcud olan
-
-erilmək @ çevilmək, dini dəyişdirmək, dönmək
-
-ergüzmək @ etdirmək
-
-ergürmək @ etdirmək
-
-ergüsmək @ etdirmək
-
-erin @ dodaq
-
-erinmək @ üşənmək, tənbəlləşmək
-
-erinc @ şübhəsiz, mütləq
-
-eriş @ dönmə, çevrilmə, iş-güc, hal hərəkət
-
-Erivadi @ ulduz adıdır
-
-erkəç @ cavan təkə
-
-erkəçlənmək @ çətin keçilən yerlə getmək
-
-erkək @ erkək
-
-erki @ er naqis felindən əmələ gəlmişdir, təxminən-dır, dir şəkilçisinə bərabərdir.
-
-erkin @ olan
-
-erklig @ qüdrətli
-
-ermək @ 1. 7di, imişnaqis felinin kökü, 2. olmaq; 3. mövcud olmaq, var olmaq; 4. baş vermək, 5. aid olmaq
-
-ertə @ ertə
-
-ertəgü @ fövqəladə, son dərəcə, qanunla
-
-ertimlig @ fanilik, puçluq, keçicilik
-
-ertgülüg @ keçici
-
-ertmək @ ötmək, keçmək
-
-ertürmək @ etdirmək, tamamlamaq, işləmək, ifa etmək, qəbul etmək
-
-erttürmək @ tamamlamaq, keçirtmək
-
-erüş @ çevrilmə, dönmə
-
-eş @ 1. dost, 2. qardaş, xanım, arvad, 3. şahzadə (qız)
-
-eşək @ eşşək
-
-eşəlik @ mühüm
-
-eşəliksiz @ mühüm olmayan
-
-eşi @ 1. dost, 2. qadın, xanım, arvad, 3, şahzadə (qız)
-
-eşidmək @ eşitmək
-
-eşidilmək @ eşidilmək
-
-eşidüt @ eşitmə
-
-eşitilmək @ eşidilmək
-
-eşitmək @ eşitmək
-
-eşitməklig @ eşitməli
-
-eşittürmək @ eşitdirmək
-
-eşkək @ eşşək, ulaq, uzunqulaq
-
-eşük @ örtü
-
-etgü @ yaxşı, üstün
-
-etig @ bəzək
-
-etikmək @ meydana gətirmək, hazır etmək
-
-etilmək @ edilmək
-
-etin @ coşma, kükrəmə
-
-etinəmək @ coşmaq kükrəmək
-
-etinlig @ 1. kükrəyən, özündən çıxan, cinlənən, 2. bəzəkli
-
-etinmək @ bəzonmək
-
-etizmək @ cinlənmək
-
-etləmək @ etmək, eləmək
-
-etmək @ etmək, eləmək
-
-etöz @ vücud, öz, adam, şəxs, gövdə cisim
-
-etüz @ gövdə, vücud, fərd, şəxs
-
-etüzlüg @ gövdəli, vücudlu, cisimli
-
-etük @ ayaqqabı, çəkmə, çust, Şapşap
-
-ev @ ev, çadır
-
-evçi @ qadın
-
-evin @ 1. adət, 2. taxıl, toxum, 3. sıx,gur
-
-evinlig @ hamilə
-
-evin @ yabançı, yad
-
-evinliun @ incil
-
-evir @ dair, çevrə, mühit
-
-evirdəçi @ 1. dövrə vuranş 2. çevirən, tərcümə edən, tərcüməçi
-
-evirmək @ 1. dövrə vurmaq, çevirmək, 2. tərcümə etmək
-
-evitmək @ titrəmək
-
-evrig @ qaba, tərs, sarsaq
-
-evrik @ qaba, fors, sarsaq, abdal
-
-evrilinesiz @ sarsılmaz, sabit, sağlam
-
-evrilmək @ dinin dəyişmək, çevrilmək, dönmək
-
-evrilməmək @ çevrilməmək, dönməmək
-
-evriş @ dönmə, çevrilmə, hərəkət, iş-güc, məşğələ, hal
-
-evrişmək @ məşğul olmaq
-
-evürmək @ çevirmək, işləmək
-
-ey @ ey(nida)
-
-eyin @ beləcə, buna görə
-
-ədirəm @ igid, güc, fəzilət, qabiliyyət
-
-ədlig @ zəngin, dövlətli, sərvət sahibi
-
-ədligsiz @ kasıb, dövlətsiz, qiymətsiz
-
-ədrəm @ igid, güc, fəzilət, qabiliyyət
-
-ədrəmlig @ güclü, qabiliyyətli, fozilətli
-
-ədsiz @ lazımsız, lüzumsuz, istifadəsiz
-
-əçkü @ keçi
-
-əgdilətmək @ torbiyo etmək, böyütmək
-
-əgdü @ əyri bıçaq
-
-əgərmək @ əyirmək, çevirmək
-
-əgim @ hissə, parça
-
-əgin @ otuz
-
-əgirgü @ əyirən, çevirən
-
-əgirgülüg @ əyirilmiş nə isə
-
-əgirmək @ əyirmək, çevirmək
-
-əgirtmək @ əyirtmək, çevirtdirmək
-
-əgmək @ əymək
-
-əgri @ əyri
-
-əgrik @ 1. burulğan; 2. dolambac
-
-əgrilmək @ əyilmək
-
-əgsük @ əoksik
-
-əgsüksüz @ əksigsiz
-
-əgsümək @ əksilmək, azalmaq
-
-əkə @ böyük bacı
-
-əkir @ bitki kökü
-
-əkirtmək @ bağırtmaq
-
-əkmək @ əkmək
-
-əksidmək @ əksiltmək, azaltmaq
-
-əksinmək @ qəsb etmək
-
-əksük @ əksik
-
-əksüklüg @ əksiklik
-
-əksüksüz @ əksiksiz, nöqsansız
-
-əksümək @ əksilmək, azalmaq
-
-əksütmək @ azaltmaq, əksiltmək
-
-əkşəbi @ ?
-
-əkü @ buğum, oynaq, bənd
-
-əlig @ əlli
-
-əligçi ər @ mərmur
-
-əlitmək @ gətirmək
-
-əlgəmək @ sıxışdırmaq; eləmək; araya bir şey qoymaq
-
-əlmək @ yaxınlaşmaq
-
-əlp @ alp, igid, nəhəng, qüdrətli, cəsur, qüvvətli, yenilməz
-
-əm @ dərman
-
-əmçi @ həkim, təbib
-
-əmçin @ həkim, təbib
-
-əmdi @ indi
-
-əmək @ əmmək
-
-əməri @ başqaları, bəziləri
-
-əmirtğurmak @ təskinlik vermək
-
-əmig @ məmə, döş
-
-əmitmək @ əymək, əyilmək
-
-əmizmək @ əmizmək, əmizdirmək
-
-əmgədmək @ əziyyət vermək
-
-əmgək @ əziyyət, əzəb, zəhmət, acı, iztirab
-
-əmgəklik @ əziyyətli, əzablı, zəhmətli, iztirablı
-
-əmgəksiz @ rahat, zəhmətsiz, əziyyətsiz, əzabsız
-
-əmgəngümüg @ zərər
-
-əmgənmək @ əziyyət çəkmək, əzab çəkmək
-
-əmgətmək @ əziyyət vermək, əzab vermək
-
-əmgətməksiz @ əziyyətsiz, əziyyət vermədən
-
-əmkək @ əmgəg
-
-əmləmək @ müalicə силәк
-
-əmrak @ əziz, sevimli
-
-əmraklığ @ əziz olan
-
-əmrü @ daimi, əbədi, davamlı
-
-əmsimək @ əmmək
-
-əmtərmək @ toplamaq, yığmaq
-
-əmti @ indi
-
-ənətkək @ hind, hindli, Hindistan
-
-ənətkəkçə @ hindcə
-
-ənkəbüş @ göy
-
-əngin @ otuz
-
-əntkək  @ hind, hindli, Hindistan
-
-ənüg @ heyvan balası
-
-ənük  @ heyvan balası
-
-ənükləmək @ balalamaq
-
-ən @ 1. ov, 2. ən (ədat)
-
-ən,ək @ çənə
-
-ən,gilmək @ əyilmək
-
-ən,iz @ sahə ölçüsü vahididir
-
-ən,im @ hissə, parça
-
-ən,in @ otuz
-
-ən,irmək @ 1. əyirmək, 2. təqib etmək, çevirmək
-
-ən,itmək @ əyirtmək
-
-ən,mək @ əymək
-
-ən,rək @ barmaq
-
-ər @ 1. kişi, adam, igid, ər, döyüşçü; 2. bəy, şahzadə, 3. ər (arvadın əri)
-
-ər at @ 1. igid adı, 2. insan dəstəsi, gələbəlik
-
-ərbiş @ bitig @ müqavilə sənədi
-
-ərdəm @ qabiliyyət, fozilət, igid, güc
-
-ərdəmlig @ qabiliyyədl, fəzilətli, güclü
-
-ərdəni @ cövhər, qiymətli əşya
-
-ərdini @ cövhər, qiymətli oşya, cavahir, gövhər
-
-ərdinilig @ dəyərli, qiymətli, cavahirlə bəzədilmiş
-
-ərdni @ cövhər, cavahir, qiymətli əşya, gövhər
-
-ərdnilig @ dəyərli, qiymətli, cavahirlə bəzədilmiş
-
-ərən @ ər, igid, qəhrəman
-
-ərgü @ 1. ev, qonaq, iqamətgah; 2. qüvvətli, güclü
-
-ərgülük @ evli, iqamətgaha aid olan
-
-ərk @ qüvvət, qüdrət, güc
-
-ərki @ 1. yaxşı, artıq, 2. bəlkə
-
-ərkimcə @ istəyimcə, arzumca
-
-ərklig @ bəzəkli, qüdrətli, bahadır
-
-ərkligin-ərksizin @ istər-istəməz
-
-ərksiz @ gücsüz, qüvvətsiz
-
-ərksinmək @ qüvvətlənmək, güclənmək
-
-ərksintürmək @ hakimiyyət sürdürmək
-
-ərli @ ərli, əri olan
-
-ərməkürmək @ tənbəlləşmək, avaralanmaq
-
-ərməgü @ tənbəl, avara
-
-ərməgürmək @ tənbəlləşmək, avaralanmaq
-
-ərnqək @ barmaq
-
-ərpəlmək @ biçilmiş, törpülənmiş, kəsilmiş
-
-ərsimək @ iyrənmək
-
-ərsinmək @ iyrənmək
-
-ərslan @ aslan
-
-ərtigli @ ölümlü, keçici, fani
-
-ərtimlig @ ölümlü, keçici, fanilik
-
-ərtingü @ son dərəcə, fövqəladə
-
-ərtini @ cövhər, qiymətli əşya, cavahir, gövhər
-
-ərtmək @ keçmək, işləmək, davam etdirmək
-
-ərtukrak @ fövqəladə
-
-ərük @ ərik
-
-ərüş @ saysız, hesabsız
-
-ərzi @ şahzadə adıdır
-
-əsən @ 1, sağ, 2. sülh, əmin amanlıq
-
-əsəngü @ sağlıq, səhhət, kamillik, sağlamlıq
-
-əsəngü bitig @ sağlamlıq haqqında sənəd
-
-əsəngülük @ sağlamlıq, sağlıq, salamatlıq, rahatlıq
-
-əsin @ yel, rüzgar
-
-əsirmək @ sərxoş olmaq
-
-əsizgəmək @ əsirgəmək
-
-əsizgənçsiz @ əsirgöomədən
-
-əsiç @ qazan, çölmək
-
-əski @ əski, köhnə
-
-əskimək @ köhnəlmək
-
-əskirmək @ köhnəltmək
-
-əsri @ xəstəlik adıdır
-
-Əsri @ iki rəngli
-
-əsringü @ 1. rəngli, ala, ala-bula, 2. qarışıq
-
-əsrük @ sərxoş
-
-əstəmək @ istəmək
-
-əstup @ sandıq
-
-əşringü @ yaxşı qoxusu olan
-
-ət @ ət
-
-ətçi @ qəssab
-
-ətlig @ ətli, kök, ətlik
-
-ətlik @ sallaqxana, heyvan kəsilən yer
-
-əyəgü @ yan, tərəf
-
-əymənç @ qorxu, utancaqlıq
-
-əymənmək @ utanmaq, qorxmaq
-
-əzmək @ çəkmək
-
-əzük @ yalan, saxta
-
-əzükləmək  @ yalan danışmaq, aldatmaq, saxtalaşdırmaq, xəta etmək
-
-əzüksiz @ yalansız, qüsursuz, xətasız.
-
-ğatığ @ qatı, sərt, sağlam
-
-ğılınç @ iş, əməl
-
-ğılmak qılmaq
-
-ğın @ dərd, kədər, qəm, sıxıntı
-
-ğırğılmak @ ağarmaq (saç üçün)
-
-ğırza @ ?
-
-ğız @ qız
-
-ğızzüt @ möhnət, əziyyət
-
-ğormuzta  @  hormuzta
-
-ğök @ kül
-
-ğonağ @ qonaq
-
-ğorğınçsız @ qorxunc olmayan
-
-ğormak @ qurmaq (yayı)
-
-ğoşti @ müəllim, öyrədən
-
-ğriçantri @ Hariçanira (antroponim, şəxs adı)
-
-ğrostağ @ ?
-
-ğuan @ günalı, suç, qəbahət
-
-Ğulsabadi @ antroponim, şəxs adı
-
-ğunçuy @ xanım
-
-ğuru @ müəllim, öyrədən
-
-ğuvrağ @ camaat, məclis, qələbəlik
-
-farinibran frinibran @ nirvanın ən yüksək dərəcəsi
-
-fərzənd @ övlad
-
-forzind @ övlad
-
-fərişti @ mələk
-
-fişailig @ ağıllı
-
-frinibran @ bax; farinibran
-
-futsi @ müdrik, ustad, alim
-
-futsi @ ustad
-
-xadaş @ yoldaş, qohum
-
-xalığ @ hava, atmosfer
-
-xalın @ qalın
-
-xalıtmak @ qaldırmaq
-
-xaltı @ nə zaman (ki)
-
-xan @ xan, hökmdar
-
-xansız @ atasız
-
-xanyu @ hansı, kim
-
-xanturmak @ inandırmaq
-
-xara huş @ qartal, qara quş
-
-xarğa @ qarğa
-
-xarı @ qoca, qarı
-
-xarımak @ qocalmaq, qarımaq
-
-xarın @ qarın
-
-xasğanmak @ qazanmaq
-
-xast @ ulduz adı
-
-xat @ qat, təbəqə
-
-xata @ dəfə, Кәrә
-
-xatağlanmak @ çalışmaq
-
-xatığ @ möhkəm
-
-xatığrak @ sağlam
-
-xatalanmak @ birləşmək, qarışmaq
-
-xatun @ xatun, xanım
-
-xavsadılmak @ birləşdirmək
-
-xavsurmak @ qovuşmaq
-
-xayu @ hər kimmsə
-
-xayusina @ hər birinə
-
-xayuta @ hər hansı bir yerdə
-
-xazğanç @ qazanc
-
-xviştim @  @  1. rütbə (manixeylərdə), 2, müəllim, tərbiyəçi
-
-xıl @ qıl
-
-xılınç @ iş, əməl, hərəkət
-
-xılmak @ etmək
-
-xınmak @ sabit, sağlam, möhkəm
-
-xıska @ qısa
-
-xıvlığ @ bəxdi, xoşbəxt
-
-xız @ 1. saçaq; 2. qız, 3, xəsis
-
-xiv @ 1. bəxt, xoşbəxtlik, səadət, 2. ayaqqabı
-
-xobuz @ qobuz, saz
-
-xok @ toz, torpaq, pislik
-
-xol @ qol, əl
-
-xolmak @ istəmək, arzılamaq
-
-xonuz @ böcək
-
-xorkınç @ qorxunc
-
-xoruğ @ allah adı
-
-xoyın @ 1. qoyun, 2. on iki illik siklli türk təqvimində il adı 3. köks, qoyun
-
-xua @ çiçək adı
-
-xualığ @ hua çiçoyilə bəzənmiş
-
-xuastuanift @ xuastuanift
-
-xuaşin @ dəyişən vücud
-
-xudatmış @ rütbə
-
-xul @ qul, kölə
-
-xulğak @ qulaq
-
-xunçuy @ 1. xanım, şahzadə; 2. ləqəbdir
-
-xunyun @ 1. xanım, şahzadə, 2. ləqəbdir
-
-xunmak @ oğramaq
-
-xundaçı @ oğru
-
-xurkak @ quru
-
-xurmuzta @ Hormuzta, Hürmüz
-
-xursadılmak @ çevirmək
-
-xurtulmak @ qurtulmaq
-
-xuş @ quş
-
-xut @ bəxt, səadət
-
-xutadmak @ xoşbəxt olmaq
-
-xutğarmak @ qurtarmaq
-
-xutrulmak @ qurtulmaq
-
-ı @ kol, ağac, bitki, əkin, meşə
-
-ıçanğu @ çəkinmə, diqqət yetirmə
-
-ıçanmak @ çəkinmək, diqqət yetirmək
-
-ıçğunğuçi @ itirən
-
-ıçğunmak @ dağılmaq, itmək, yox olmaq
-
-ıçğınmak @ dağılmaq, itmək, yox olmaq
-
-ıçın @ fənər, məşəl
-
-ıçkınmak @ dağılmaq, itmək, yox olmaq
-
-ıçlayu @ (paltar) astar
-
-ıda @ qərib
-
-ıdalamak @ əl çəkmək, son vermək, buraxmaq, vaz keçmək
-
-ıdduk @ müqəddəs, əziz, mübarək, bəxtli, xoşbəxt, göndərilmiş
-
-ıdı @ fövəladə, kəskin olaraq
-
-ıdık @ müqəddəs, əziz, mübarək, xoşbəxt, göndərilmiş
-
-ıdık kut @ rütbə
-
-ıdılmak @ göndərilmək
-
-ıdım @ zərurət, ehtiyac, təhlükə
-
-ıdımak @ zənginləşmək
-
-ıdıtmak @ iyləmək, qoxulatmaq
-
-ıdmak @ göndərmək, yaymaq, nəşr etmək, qaçırmaq
-
-ıdturunmak @ gizlətmək
-
-ıduk @ müqəddəs, əziz, mübarək, bəxtli, xoşbəxt, göndərilmiş
-
-ı-ığaç @ ağac
-
-ığaç @ ağac
-
-ığaççı @  @  dülgər, döşəmə tikən
-
-ığaççı bəg @ məmur dərəcəsidir, meşəbəyi (?)
-
-ığlamak @ ağlamaq
-
-ığlaşmak @ ağlaşmaq
-
-ığmak @ durğunlaşmaq, tıxanmaq, zəif sürətlə axmaq
-
-ıkurmak @ tıxanmaq
-
-ılınçğa @ yapışıqlı
-
-ımak @ göndərmək
-
-ımğa @ dağ keçisi
-
-ımrak @ sevimli, əziz
-
-ınağ @ ümid, sığınaq, sığmacaq
-
-ınağsız @ ümidsiz, siğınacaqsız
-
-ınak @  @  dost, inanılan adam
-
-ınağ @ inam
-
-ınal @ rütbə adı;
-
-ınanmaq @ inanmaq
-
-ınanç @ 1. vəzir, vəkil, 2. inam, inanılan; 3 . rütbə adı
-
-ınanç @ 1, inam, inanılan; 2, rütbə adı; 3. layiq, ləyaqətli
-
-ınanç buyruk @ inanılan daxil məmur, ləyaqətli məmur
-
-ınançu @ rütbə
-
-ınaru @ irəli, buraya, (bir şeydən) başqa
-
-ınaru barı @ irəli-geri, var-gəl
-
-ınça @ belə, beləcə
-
-ınçak @ qəmli, qayğılı, kədərli
-
-ınçıklamak @ hıçqırmaq, inləmək, hıçqıraraq ağlamaq, fəryad etmək
-
-ınçıp @ beləcə
-
-ınğaru @ irəli, buraya,(bir şeydən) başqa
-
-ır @ 1. nəğmə, şərqı, mahni, 2, şimal
-
-ırab @ tanrı, allah
-
-ırak @ iraq, uzaq
-
-ırğak @ çəngəl, tilov, qırmaq
-
-ırğalmak @ sallanmaq, silkinmək
-
-ırk @ işarə, fal, falçı
-
-ırkalmak @ yığalanmaq
-
-ırklamak @ 1. fal açdırmaq; 2. darta-darta bayıra çıxarmaq
-
-ırlamak @ nəğmə oxumaq, mahnı oxumaq
-
-ısığ @ 1. xalta, yorğan, 2. mahiyyət; 3. hərarət, qızdırma
-
-ısırmak @ qapmaq
-
-ısıtmak @ isitmək
-
-ış @ iş
-
-ışbara @ yüksək rütbə adıdır
-
-ışığ @ işiq, od
-
-ışırka @ planet(?)
-
-ıt @ it
-
-ıtalamak @ dağıtmaq
-
-ı tarığ @ əkin
-
-ıtarmak  @ uzaqlaşdırmaq
-
-ıtım @ zərurət, ehtiyac, təhlükə
-
-ıtmak @ göndərmək, yaymaq, nəşr etmək, qaçırmaq
-
-ıya @ sahib, sahibkar
-
-ıyın @ 1. yavaş-yavaş, 2. görə
-
-ıyınç @ təzyiq, basqın, təqib, qovmaq
-
-ıymak @ basmaq, əzmək
-
-iç @ iç(bir şeyir içi), daxil
-
-içəgü @ 1ç, daxil
-
-içi @ böyük qardaş
-
-içiglik @ içki
-
-içikmək @ girmək, daxil olmaq, tabe olmaq, itaət etmək
-
-içim @ duru yemək
-
-içgək @ şeytan, vampir, qəzəbli ruh
-
-içgəri @ 1, içəri, 2. sarayını daxili
-
-içgərmək @ nüfuz
-
-içgərməklig @ nüfuzulu
-
-içgərülüg @ saraya, xaqana məxsus
-
-içgirmək @ bir şeyin içinə girmək
-
-içgi @ içki
-
-içkək @ şeytan, vampir, kinli ruh
-
-içkü @ içki
-
-içkirmək @ girmək, daxil olmaq, tabe olmaq, itaət etmək
-
-içkərü @ içəri, daxilə
-
-içlig @ gəbə
-
-içmək @ içmək
-
-içrə @ içrə, içəridə, içində
-
-içrəki @ 1. saray adamları, 2. rütbə
-
-içtin @ iç, içdən
-
-içtirti @ içəri doğru
-
-içürmək @ içirmək
-
-idər @ yəhər
-
-idərmək @ aramaq, axtarmaq, təqib etmək
-
-idi @ 1. sahib, sahibkar; 2. büsbütün, tam, hər hansı
-
-idig @ sahibli
-
-idiglik @ sahiblik
-
-idikut @ türk qəbilələrindən basmılların başçılarının rütbəsidir
-
-idilmək @ bəzənmək, bəzədilmək
-
-idimək @ toplamaq, yığmaq
-
-idiş @ qabqacaq, qazan, çölmək
-
-idiş ayak @ mətbəx qabqacağı (güman ki, burada ayaq sözü "qədəh" mənasini ifadə edir), 
-
-idiz @ uca, yüksək
-
-idmək @ qeyb olmaq, yetmək, sona çatmaq
-
-iz @ iz
-
-izdəmək @ istəmək (izləmək mənasını ifadə edə bilməzmi?)
-
-izdətmək @ araşdırmaq, istəmək (izlətmək ola bilməzmi?)
-
-iə @ sahib, sahibkar
-
-ig @ xəstəlik
-
-igə @ 1, sahib, sahibkar, bəy, 2. pori, ruh
-
-ig ağrığ @ xəstəlik
-
-igdəyü @ hiylə, al, aldanış
-
-igdəmək @ hiylə, dolama
-
-igdilə @ dərman, dəyişdirilən əşya
-
-igdiləmək @ yaxşı bəslənmək
-
-igdüləmək @ bəslənmək, iztirab vermək; uzatmaq
-
-igid @ 1. igid, cəsur, qəhrəman, 2. yalançı, hiyləgər, yanlış, 3. yüksəltmə, şişirtmə
-
-igidmək @ 1, bəsləmək, yetişdirmək, baxmaq; 2. yüksəltmək, şişirtmək, 3. aldatmaq
-
-igidinom @ uydurma qanun
-
-igil @ 1. nişanlı, adaxlı, 2. bayağı
-
-igit @ 1. igid, cəsur, 2. yalan, hiylə; 3. şişirtmə
-
-igitilmək @ bəsləmək, baxılmaq
-
-igləmək @ xəstələnmək, xəstə olmaq
-
-iglig @ xəstə
-
-iglig yatğu ev @ xəstəxana
-
-1512 @ sağlam (hərfən; xəstəsiz)
-
-igtüləmək @ bəsləmək; iztirab vermək; uzatmaq
-
-ik @ kənar
-
-ikapintrak @ toponim; hərfi tərcüməsi; "tanrı diyarı"
-
-ikəgü @ iki-iki, ikişər
-
-iki @ iki (say)
-
-igid @ 1. igid, cəsur, qəhrəman, 2. yalançı, hiyləgər, yanlış, 3. yüksəltmə, şişirtmə
-
-ikikü @ iki-iki, ikişər
-
-ikigü @ iki-iki, ikişər
-
-ikil @ nişanlı, adaxlı
-
-ikilə @ iki dəfə, yenidən, təkrar
-
-ikiləyi @ ikiləşdirərək, yenidən, təkrar, ikinci (dəfə)
-
-ikin @ ikisinin; yenidən, təkrar
-
-ikin ara @ ikisinin arasında
-
-ikindi @ ikinci
-
-ikinti @ ikinci
-
-ikintisiz @ ikincisiz, bənzəri olmayan, təkrar olunmayan
-
-ikirər @ iki-iki, ikişər
-
-ikit @ 1, igid, cəsur, qəhrəman, 2, yalançı, hiyləgər, yanlış; 3, yüksəltmə, şişirtmə
-
-ikiçü @ şübhə, tərəddüd, çətinlik, narahatlıq
-
-ikşu @ şəkər qamışı
-
-il @ el, dövlət və xalq, ölkə və xalq, vətən, dövlət
-
-il @ şahzadələrin adının qabağına qoyulan ləqəb
-
-ildinmək @ yayılmaq
-
-ildişmək @ müharibə etmək, vuruşmaq, döyüşmək
-
-il ebi @ hökumət qonağı
-
-ilənmək @ 1, şahlıq etmək, 2. sadiq olmaq, 3. ehtişam, səltənət, görmək
-
-ilgək @ ilgək
-
-ilgəmək @ hücum etmək
-
-ilgərü @ irəli, şərq, iroliyə doğru, irəliyə, şərqə
-
-ilgü @ irəli
-
-ilgünmək @ təsir etmək
-
-ilgürmək @ sağaltmaq
-
-ilik @ 1. şah, hökmdar; 2. el (əsirlik halda); 3. asılmış ilişik, 4. ilk, birinci, 5. bütöv, tam
-
-iliksiz @ elsiz
-
-ilktürmək @ asdırmaq, ilişdirimək, taxdırmaq
-
-ilig @ 1. şah,hökmdar; 2. el (təsirlik haldır); 3. asılmış, ilişmiş
-
-ilig bəg @ şah, şahzadə
-
-ilig kan @ şah, şahzadə
-
-ilinmək @ yapışmaq, asılmaq, ilişmək, taxılmaq
-
-ilinçü @ əyləncə
-
-ilitmək @ götürmək, rəhbərlik etmək; sövq etmək
-
-iliş @ ilişmə, taxma, yapışma
-
-ilk @ ilk, birinci, başlanğıc
-
-ilkəvüslənmək @ ilkövüslənmək (?)
-
-ilki @ ilk, birinci, başlanğıc
-
-ilkin @ ilk, birinci, başlanğıc
-
-ilkisiz @ ilki olmayan, başlanğıcsız, əsassız
-
-ilmək @ basmaq, üzərinə atılmaq
-
-il tatğu @ rütbə adıdır
-
-iltingüçi @ sövq edən (adam)
-
-iltinmək @ sövq edilmək
-
-iltişmək @ münaqişəyə girmək, müharibə etmək
-
-iltmək @ sövq etmək, rəhbərlik etmək
-
-ilttəçi @ sövq edən
-
-il tutmış @ ləqəbdir
-
-iltu @ oraya
-
-il türgüg @ rütbə adıdır
-
-iltürmək @ göndərmək, götürmək
-
-im @ əm, dərman
-
-imək  @ arxasınca getmək, ardınca düşmək
-
-imərigmə @ çevrilmiş olmaq
-
-imərmək @ çevirmək, çəkmək
-
-imirt sögüt @ ağac növüdür
-
-imiti @ dərman bitkisinin adı
-
-imrənmək @ arzulamaq, arzu etmək
-
-inç @ sülh, sakit, sakitlik, rahat, sükut, sükunət, hüzur
-
-inç kəlmək @ sakit gəlmək, səssiz gəlmək, gizli gəlmək, yavaş gəlmək
-
-inç kılmaq @ sakinləşdirmək
-
-inç turmaq @ dinc durmaq, sakit durmaq, rahat olmaq
-
-inçə @ belə, beləcə, buna görə, bu surətlə
-
-inçək @ beləcə
-
-inçip @ beləcə
-
-inçkə @ incə, zərif
-
-inçkü  @  @ hüzur, barışığ, sükunət
-
-inçkülüg @ 1. sükunətli, hüzurlu, 2. təskinlik
-
-inçgə @ incə, zərif
-
-inçgü @ hüzur, barışığ
-
-inçgülüg @ sükunət
-
-inçip @ lakin, əmma, ancaq, fəqət, sonra
-
-inçsiz @ narahat, hüzursuz
-
-inçsirətmək @ boğaza yığmaq, narahat etmək, həyəcanlandırmaq; səy göstərmək
-
-inçü @ 1. dövlət torpaqları; 2. kölə, 
-
-indin @ sərhəd, hüdud
-
-inək @ xaya, daşşaq
-
-inərü @ irəli, (bir şeydən) etibarən
-
-ingək @ inək
-
-ingü @ 1. enmə, düşmə, 2. ayrılma, 3. eniş
-
-ini @ kiçik qardaş
-
-inkək @ inək
-
-inməgü @ 1. enməmə, düşməmə; 2. ayrılmama, 3. yoxuş
-
-inmək @ enmək, düşmək
-
-inşi @ şahzadə (qadın)
-
-intin @ qətiyyən
-
-intradanu @ İndrasın yayı
-
-intürmək @ endirmək, düşürmək, salmaq, əzmək, yıxmaq (taxtdan), basdırmaq
-
-inyana @ bilik
-
-ir @ 1. daş; 2. cənub; 3. on qəbilədən ikincisi
-
-İravadi @ ulduz adıdır
-
-irbiç @ porsuq
-
-irbiz @ bars, pələng
-
-irig @ iri
-
-irin @ 1. kənar, 2. dodaq
-
-irinç @ fəlakət, səfillik
-
-irinç yarlığ @ səfillik, səfil həyat sürən
-
-irinçkəmək @ acımaq (hala), mərhəmət etmək
-
-irinçkənçüçi @ şəfqətli, mehriban, mərhəmətli, acıyan (hala)
-
-irinçləmək @ bədbəxt olmaq
-
-irinçü @ günah, qüsur, xəta, qəbahət, qəzəb, çirkin, yanlış, çirkab
-
-irinçülük @ günahkar, suçlu
-
-irinq @ irin, yara
-
-irinz @ fəlakət, səfillik
-
-irinmək @ 1. bədbəx olmaq, 2. irinləmək, 3. qızmaq, qəzəblənmək
-
-irintürmək @ bədbəxt edilmək, fəlakətə sürükləmək
-
-irintmək @ xarablaşmaq, korlanmaq
-
-irinük @ tənbəllik
-
-İriz @ antroponim, şəxs adı
-
-irintüksiz @ tənbəl olmama, zirək
-
-irişmək @ irişmək
-
-iritmək @ iyrənmək
-
-İrivadi @ ulduz adıdır
-
-iriz @ igid, cosur
-
-yriz @ antroponim, şəxs adı
-
-iritmiş @ iyrənc
-
-irgürmək @ 1. davranmaq; 2. müqavimət göstərmək
-
-irk @ qoyun
-
-irkək @ erkək
-
-irkəklənmək @ kişilənmək, erkəkləşmək
-
-irkən @ rütbədir, şəxs adı kimi də işlənir
-
-irkik @ erkək
-
-irkləmək @ çıxmaq (bir şeyin üstünə)
-
-irklətmək @ əldə etmək, zorlamaq, nail olmaq
-
-irləmək @ nəğmə oxumaq, mahnı oxumaq
-
-irmək @ 1. ərimək, 2. naqis irmək feli, 3. qarşı gəlmək, müqavimət göstərmək, dirənmək, 4. nəfsinə mağlub olmaq
-
-irpək @ bıçğı
-
-irpəkləmək @ biçmək, kəsmək, doğramaq
-
-irpəkləşmək @ kəsişmək
-
-irpiç @ vaşaq
-
-irpiz @ pişikkimilər fəsiləsində "şağ" adlanan heyvan
-
-İrpiz kudruğu @ ulduz adıdır
-
-irsi @ pəri, şahə
-
-irt @ vergi
-
-irt-birt @ dini vergi (xums-zəkat kimi)
-
-ir tan @ hərf adıdır
-
-irtə @ erto, erkən, səhər erkən
-
-irtəkən @ erlə, erkən, ertədən
-
-irtəki @ ertəki, ertədən
-
-irtəkün @ sabah, səhər, ertə
-
-irtmək @ davam etmək
-
-ir-tzi @ hərf adıdır
-
-irtsiz @ vergisiz
-
-ir-ur-uk @ hərf adidir
-
-iri @ işarə, əlamət, nişan
-
-irünçülüg @ qüsurlu, xətalı, qəbahətli, qəzəbli
-
-irülüg @ uyğun. münasib, müvafiq
-
-irünçü @ günah, qüsur, qəzəb, xəta, qəbahət, yalnız
-
-irvanq @ hərf adıdır
-
-is @ dost
-
-isak @ hərf adıdır
-
-isi @ 1, qadın, xanım, xatun, arvad, 2. şahzadə (qız)
-
-isidmək @ isitmək
-
-isiz @ qəzəb, qaba, fəna
-
-isig @ 1, isti, qızdırma, hərarət, 2. mülayim, xoş
-
-isig isiglig @ qrzdırma (xəstəlik)
-
-isiglig @ isti, qızdırmalı, hərarətli
-
-isig-öz @ badən, vücud
-
-isilmək @ əksilmək, azalmaq
-
-isimək @ isitmək
-
-isinmək @ 1. isinmək, titrətmək, qızdırmaq, 2, qiymət qoymaq, hörmət etmək
-
-isirgəmək @ acımaqğ(hala), mərhəmətə gəlmək
-
-isirgənmək @ mərhəmət etmək, əsirgəmək
-
-isirkəgü @ mərhəmət, xəsislik
-
-isirkənmək @ mərhəmət etmək, əsirgəmək
-
-isitmək @ isitmək
-
-isiç @ qazan
-
-iskənmək @ didmək
-
-isləmək @ 1. aramaq, axtarmaq; 2. iyləmək, qoxulamaq
-
-isman @ dərman adı
-
-ismək @ raz; olmaq
-
-issiz @ dərman bitkisinin adı
-
-istəm  @ arzu, dilək, istək
-
-istəmək @ istəmək, arzu etmək, aramaq, axtarmaq
-
-istətmək @ istətmək
-
-isürmək @ sərxoş olmaq
-
-iş @ 1. dost, 2. iş
-
-iş küç @ iş-güc, əmək
-
-işgiti @ "Diba" adlı ipək qumaş
-
-işgirti @ ipəok, qumaş
-
-işgirti @ "Diba" adir ipək qumaş
-
-işi @ 1. qadın, xanım, xatın, dost, arvad, 2. şahzadə (qız)
-
-işidigdəmək @ eşitmək istəmək
-
-işidmək @ eşitmək
-
-işidilmək @ eşidilmək
-
-işig @ qadın ləqəbi
-
-işik @ eşik
-
-işin @ saç hörgüsü, hörük
-
-İşirə @ antroponim, şəxs adı
-
-işitilmək @ eşidilmək
-
-işitmək @ eşitmək
-
-İşkərə @ antroponim, şəxs adı
-
-işlədmək @ işlətmək
-
-işləmək @ işləmək, çalışmaq
-
-işləməsik @ işlənməsi qadağan olunan iş
-
-işlətmək @ işlətmək
-
-işmək @ içmək
-
-iştilmək @ eşidilmək
-
-iştilmək @ eşidilmək
-
-işirüşmək @ hekayə söyləmək
-
-iş tüş @ yoldaş
-
-iştürmək @ anlatmaq, bildirmək, hekayə etmək
-
-işuyazd @ İsa peyğəmbər
-
-it @ it köpək
-
-itburnu @ itburnu (çiçək)
-
-itdürmək @ etdirmək
-
-itərçi @ qolunda şahin aparan ovçu
-
-itərmək @ təqib etmək, arxasınca getmək
-
-iti @ iti, kəskin
-
-itig @ 1. itik, 2. bəzək, 3. təşkilat, təsisat, qurum, 4. musiqi aləti
-
-itiglig @ 1 hərəkətli, 2. bəzədilmiş
-
-itigsiz @ 1. hərəkətsiz, işsiz, 2. bəzəksiz
-
-itilmək @ bəzədilmək, düzəldilmək
-
-itimək @ yığmaq, toplamaq
-
-itinmək @ bəzənmək, hazırlanmaq
-
-itizmək @ musiqi çalmaq
-
-itlinmək @ qeyb olmaq, itmək
-
-itmək @ 1. etmək, bəzəmək, hazırlamaq, 2. itmək
-
-it üzümü @ it üzümü
-
-itüg @ dilək
-
-it yılı @ on iki il siklli türk təqvimində ən birinci il
-
-ivin  @ yavaş-yavaş, sırası ilə
-
-ivinki @ sıradakı
-
-ivmək @  @  basmaq, əzmək, sıxışdırmaq, təzyiq göstərmək
-
-iyə @ sahib, yiyə
-
-iyi @ dövlət, sərvət, mülk, əmlak, mal-dövlət, mal-mülk
-
-iyin @ görə, dolayısı ilə
-
-iymək @ basmaq, əzmək
-
-iyinmək @ basılmaq, əzilmək, təzyiq göstərmək, sıxışdırmaq
-
-iyinç @ təqib, qovmaq
-
-keçərgə @ keçid, çayın dayaz yeri
-
-ked @ 1. son, nəhayət, 2. çox, 3. sağlam, qüvvətli, zorlu, 4. şöhrət, 5. alim
-
-kedgirmək @ şaxə qalıxmaq
-
-kedgü @ geyim, üst geyim, paltar
-
-kedgürmək @ geymək, geyindirmək
-
-kedilmək @ geyilmək, geyindirilmək
-
-kedimək @ yetişmək, yetkinləşmək
-
-kedimlig @ geyimli, zirehli
-
-kedin @ 1, arxadan, qərb, sonra; 2. kətan
-
-kedki sonrakı
-
-kedkizmək səndələmək
-
-kedmək @ geymək
-
-kedürmək @ geydirmək, geyinmək, geymək, geyindirmək
-
-keg @ kin, niyrət, düşmənlik
-
-kegd @ kağız
-
-kegdə @ kağız
-
-kegəd @ kağız
-
-kegine @ cavab
-
-keimək -.- geymək
-
-kek @ kin, nifrət, düşmənlik
-
-keklig @ mənfur
-
-kekük @ ququ quşu
-
-kenzə @ nimdaş
-
-ketilmək @ geyilmək, geyindirilmək.
-
-ketmək @ getmək, davam etmək
-
-kevmək kövşəmək
-
-keyiz 1, dilənçi kasası, 2. xalça
-
-keyik @ 1. keyik, 2. vəhşi heyvan
-
-keyikçi @ 1. ovçu, 2. (xüsusilə)
-
-keyik ovçusu
-
-keymək @ geymək
-
-Кәс̧— ?
-
-kək mirəot, kin, düşmənlik
-
-kəkəlik @ kəklik
-
-КәКәп xəstəlik adıdır, vəba, epidemiya
-
-kəkətrün @ diş ağrısı, səs və döş
-
-(sinə) tutulmasma qarşı işlədilən
-
-dərman
-
-kəklig mənfur
-
-kəknəmək @ qorxutmaq, xəstələnmək, təhdid etmək, təkdir etmək
-
-kəkük @ ququ quşu
-
-kəkrə @ dərman bitkisi, güman
-
-ki, kəklik otu, kəkotu
-
-kəkrəmək @ nifrət etmək, düşmənlik etmək; diksinmək
-
-kəkşürmək @ hiddətləndirmək, qəzəbləndirmək, nifrət
-
-oyatmaq
-
-kələn @ kərkədan
-
-kələm @ qələm
-
-kəlig @ xəyal, gəliş
-
-kəlin—gəlin
-
-kəlinləmək @ evlənmək, gəlin
-
-gətirmək
-
-kəlirmək @ gətirmək, gətirtmək
-
-kəliş gəliş
-
-kəlkim @ xəndək (?)
-
-kəlmək @ gəlmək
-
-kəltürmək @ gətirmək
-
-kəlürmək @ gətirmək, doğmaq, dünyaya gətirmək
-
-kəm @ 1, ağrı, zəhmət, xəstəlik, iztirab, 2. nöqsan, əksik
-
-kəmi @ gəmi, qayıq
-
-kəmiçi @ gəmiçi
-
-kəmismək @ atmaq, ftrlatmaq, düşürmək, huraxmaq
-
-kəmişilmək @ atılmaq
-
-kəmişmək  @ atmaq, firlatmaq, düşürmək, buraxmaq
-
-kəmlig @ azarlı, xəstə (sifət kimi)
-
-kəmsiz @ sağlam, gümrah, azarsız
-
-kən @ sonra, açıqca
-
-kənç @ 1, gənc, cavan; 2. sevgili, 3. uşaq
-
-kənçkiyə @ sevgili
-
-kənç oğlan @ gönc, gənc oğlan
-
-Kənç Tenqrim @ bir şahzadənin
-
-ləqəbidir
-
-kəndir @ kəndir, kotan
-
-kəndi @ öz
-
-kənənmək @ özünü yaxşı hiss
-
-etmək, razı qalmaq, məmnun
-
-olmaq
-
-kənkəşmək @ müzakirə etmək, müşavirə etmək, danışıq
-
-aparmaq
-
-kənt @ şəhər
-
-kənti @ öz
-
-kəntik @ sinc
-
-kəntir @ kəndir, kotan
-
-kəntü @ öz
-
-kəntün @ özü-özünə
-
-kən-—- 1. gen, geniş; 2. uzaq
-
-kənçi @ sonbeşik, son övlad
-
-Кәпәз @ müzakirə, müşavirə, danışıq, gənəşmə
-
-kenəşmək @ müzakirə etmək, müşavirə etmək
-
-kəniş @  @  danışıq, müşavirə
-
-kənlig @ genişlik
-
-kənşəmək @ məsləhətləşmək
-
-kərək @ gərək, lazım, ehtiyac, zəhmət
-
-kərəkü @ çadır
-
-kərgək @ gərək, lazım, ehtiyac, zəhmət
-
-kərgək @ gərək, lazım, ehtiyac, zəhmət
-
-kərgəkləmək @ lazım olan, ehtiyac olmaq, hiss etmək
-
-kərgəklig @ gərəkli, lazımlı
-
-kərəgsiz @ lüzumsuz, gərəksiz
-
-kərgəmək @ əksik olmaq, əksilmək
-
-kərgəfmək @ sərhəd qoymaq, hüdud qoymaq
-
-kərgü @ qabar, döyənək
-
-kərik @ zoncir
-
-kərilmək @ gərilmək, şimşək
-
-kərinçsiz @ dostsuz, üstün
-
-kəriş @ çəkişmə, vuruşma, müharibə; nizə
-
-kərmək @ gərmək, genişləndirmək
-
-kərpiç @ kərpic
-
-kərti @ dünyəvi, süni
-
-kərtkünc @ mamlı
-
-krtü @ 1. doğru, gerçək, səhih; 2.
-
-mamlı, mömin
-
-krü @ geri
-
-kəsigcə @ təyin edilən
-
-kəsilmək @ kəsilmək
-
-kəsişmək @ kəsişmək, uyuşmaq
-
-kəsk @ dərman adı
-
-kəsküləmək @ kiçik parçalara
-
-bölmək
-
-kəsmə @ qıyma, yemək
-
-kəsmək @ 1. kösmək, qırmaq, 2. təyin etmək, qoymaq
-
-kəsməlik @ kəsilmiş, kəsməli
-
-kət @ çox, artıq, güclü, qüvvətli
-
-kətkirə @ sürüklənərək, qovalanaraq
-
-kətkirmək @ qovmaq, qovalanmaq, atmaq
-
-kətürmək @ gətirmək
-
-kəyirgənçik @ üsyan, qarışıqlıq
-
-kəz —— 1. sonra, başqa, 2. səfil, bədbəxt
-
-kəzə @ 1, yavaş-yavaş, sıra ilə, 2. gəzərək
-
-kəzək @ dərman adı
-
-kəzig @ 1, düzgün, məntəzəm, sıra, 2. qızdırma
-
-kəzig tizig @ sülalə, xonədan
-
-kəziklig @ növbəli, növbəsi çatan
-
-kəzinçə @ düzgün, düzgüncə
-
-kəzmək @ gəzmək, dolaşmaq
-
-ki @ arxa
-
-ki @ bir az
-
-kibərmək @ yırulmaq, partlamaq
-
-kiç @ gec
-
-kiçmədin @ dərhal təkrar
-
-kiçmək @ keçmək
-
-kid @ son, nəhayət
-
-kidərmək @ 1. göndərmək, uzaqlaşdırmaq; 2. tohqir etmək
-
-kidin @ 1. sonra, qərb, 2. kətan
-
-kidirti @ qərbdə
-
-kidişmək @ ayılmaq
-
-kidmək @ getmək
-
-kidiz @ keçə
-
-kiginç @ cavab
-
-kigürmək @ ifa etmək, gətirmək, soxmaq
-
-kigürsük törü @ bağışlama kağızı, qanunu
-
-kikət @ cəmi, yekun
-
-kikinç cavab, nəticə, izahat
-
-kikir @ ləkə
-
-kikirsiz @ ləkəsiz
-
-kikşürmək @ hiddətlənmək, qəzəblənmək
-
-kigən @ xəstəlik, vəba
-
-kilən @ 1. kərkədən; 2. əfsanəvi
-
-təkbuynuzlü heyvan
-
-kilimbi @ şeytan adı
-
-kim 1, ki (bağlayıcı), 2. kim, 3. kimsə, 4. əgər, şayəd
-
-kimbağ @ təbəqə halında qızıl
-
-kimi @ gəmi
-
-kinı-mə @ kim olursa-olsun
-
-kin 1, son, sonra, 2. müşk
-
-qoxusu, yaxşı iy, 3. ipək
-
-qumaş; 4. istiqbal, gələcək
-
-kin arığlığ @ çoxalma orqanı
-
-kinçuman @ on iki siklli nücum
-
-elmi silsiləsi
-
-kindik @ göbək
-
-kinintə @ istiqbalda, gələcəkdə
-
-kinki @ sonrakı, sondakı
-
-kinləmək @ əritmək, aşındırmaq
-
-kinlənmək @ dönmək, çevrilmək
-
-kinsük @ kinsük(?)
-
-kintrik @ sis, duman, bulud
-
-kintimək @ qaşovla tomizləmək
-
-kin, @ 1. eyni, bonzər, tam, 2. en, genişlik
-
-kin,əşmək @ müşavirə etmək, danışıq aparmaq
-
-kin,əşinmək @ müşavirə etmək, danışıq aparmaq
-
-kin,rənmək —— miri)danmnaq
-
-kin,türmək @ genişləndirmək
-
-kin,ürü @ 1. eyni, bənzər, tam, 2.
-
-en, geniş, 3. təfərrüat, töfsilat
-
-kip @ şəkil
-
-kir @ kir, pislik
-
-kirik @ giriş, girmə
-
-kiriksəmək @ girmək istəmək
-
-kirit @ tac
-
-kiriş @ kiriş (ox üçün)
-
-kirkəlmək @ girmək
-
-kirlənmək @ kirlənmək
-
-kirləşmək @ kirləşmək
-
-kirlig @ kirli
-
-kirmək @ girmək
-
-kirpi kirpi
-
-kirpik @ kirpik
-
-kirsiz @ təmiz, kirsiz, çirksiz, arı, ləkəsiz
-
-kirtgünç @ iman, inanılan, inanmalı, etiqad
-
-kirtgünçlük @ inanılan
-
-kirtgünçsiz @ inamsız, ctiqadsız
-
-kirtgünmək @ inanmaq, etiqad etmək
-
-kirtgürmək @ inanmaq
-
-kirt-kirt —— xəfif
-
-kirtkünmək @ inanmaq, etimad etmək
-
-kirtkürmək @ inanmaq
-
-kirtü @ 1. doğm, səhih, gerçək, 2. mömin, imanlı, etiqadlı
-
-kirtülüg @ mömim, dindar, inanmış
-
-kirü @ geri, cənub
-
-kisari @ aslan
-
-kisi @ adam, kişi, canlı
-
-kisik @ gəzinti
-
-kisləgüg @ gizlənən, gizlədilən, saxlanan
-
-kisrə @ sonra
-
-kisrəki @ sonrakı
-
-kişəmək @ bağlamq, bənd etmək
-
-kişən @ bağüfip)
-
-kişi @ 1. kişi, adam, insan, məxluq, yaranmış, 2. sevgili
-
-qadın; 3. qul, kölə, 4. şahzadə
-
-kişilənmək @ evlənmək
-
-kişisiz @ adamsız, adam olmayan
-
-(yer), insan yaşamayan yer
-
-kit @ son, nəhayət
-
-kitab @ kitab
-
-kitərmək @ ləğv etmək, aradan
-
-götürmək, uzaqlaşdırmaq
-
-kitgüsi @ ləğv edilməsi lazım olan
-
-kitişmək @ ayrılmaq
-
-kitmək @ getmək
-
-kitmən @ kətmən, bel, əyri bel
-
-kivan @ Saturn
-
-kivan ymnu @ cüməertəsi
-
-kiyə @ kiçiltmə ədatıdır
-
-kiyik @ keyik
-
-kiz @ qab
-
-kizik @ səyahət, gəzinti
-
-kizləmək @ gizləmək, saxlamaq
-
-kizlədülük —; saxlanan, gizlənən
-
-Куә с хә
-
-Кпә – – уепә, ҹә
-
-kö @ şöhrət
-
-köb @ köp
-
-köbik @ köpük
-
-köbrük @ körpü
-
-köbrüg @ körpü
-
-köbük @ köpük
-
-köç @ köç
-
-köçəmək @ köçmək
-
-köçmək @ köçmək
-
-köçürmək @ köçürmək ködən
-
-müsafir, qonaq
-
-ködəmək @ bağırmaq
-
-ködrünç @ çəkinmə, qorxma, utanma
-
-ködünçsüz @ utanmaz
-
-ködüg @ ticarət, alış-veriş, iş-güc
-
-ködün ymak @ cənub
-
-ködürmək @ götürmək, qaldırmaq, yüksəltmək
-
-köfənç @ qürur, iftixar, təkəbbür
-
-köfənçlig @ məğrur, qürurlu, tokəbbirlü
-
-kög @ 1. göy; 2. nəğmə, şərqi, mahnı, türki, 3. şöhrə
-
-kögədmək @ mədh etmək, tərifləmək
-
-kögüz @ 1. köks, 2. qəlb
-
-kögürmək @ yaymaq, genişlondirmək
-
-kögürçkən @ göyərçin
-
-kögürçgün @ göyərçin
-
-kögürçün @ göyərçin
-
-kögüs @ 1. köks, 2. qəlb
-
-Kök @ antroponim, şəxs adı
-
-kök @ 1, göy, mavi, 2. göy, səma, 3, gecə
-
-kökədmək @ yüksəltmək, öymək, tərifləmək
-
-kökədtürmək @ təriflətmək, öydürmək, mədh etdirmək
-
-kökləmək @ xoş gəlmək
-
-kökrəmək @ kükrəmək, bağırmaq, böyürmək
-
-köküz @ köks
-
-köküzlüg @ qiymətli, ürəyə yaxın
-
-köl @ göl
-
-köligə @ kölgə
-
-köligəlik @ kölgəlik
-
-kölitmək @ kölgələmək, kölgə etmək
-
-kölük @ yük heyvanı
-
-kölüg @ ahəngli, ahəngdar
-
-kölümək @ kölgələmək, kölgə
-
-etmək
-
-kölüngü @ nəqiliyyat, araba
-
-kömək @ gömmək, basdırmaq
-
-kömən @ xəyal, sehir, aldanış
-
-kömmək @ gömmək, basdırmaq
-
-kömülmək @ gömülmək, basdırılmaq
-
-kön @ gön, dəri
-
-Ҝӧпә @ (suvı sözü ilə) civə
-
-könək @ 1. vedrə, 2 gövrək
-
-köni @ 1. doğru, dürüst, səhih, səmimi, sadiq; 2. bərabər, 3. tam, 
-
-bütöv, bütün, 4. vedrə
-
-könilig @ adil, ədalətli, dürüst
-
-köntülmək @ dürüst idarə etmək, doğrultmaq
-
-könükmək @ tam yanmaq. bütöv
-
-yanmaq
-
-könüksü gümüş suyu
-
-könürmək @ dağlamaq, yandırmaq, yanmaq
-
-köynək @ vedrə
-
-könləmək @ xatırlamaq, düşünmək
-
-könül @ könül, ürək, qəlb; fikir, idrak, töfökkür, arzu, istok
-
-könülkərmək düşünmək, mühakimə yürütmək
-
-könüllüg @ ağıllı, düşüncəli, Torasətik, müdrik, sevilən, könülə yaxın
-
-könülsüz @ könülsüz, ürəksiz, ağılsız, idraksız, mənasız
-
-köp çox, bol
-
-köpig  @  @ köpük
-
-köplüg @ şiş, şişlik
-
-köprüg @ 1. körpü; 2. təbil
-
-köpüg @ köpük
-
-körk @ gözəllik, əndam, nişan, biçim, qiyafət, rosm, görkəm
-
-körkdaş @ gözəl, gözədəyən, diqqəti cəlb edən (gözəlliyə
-
-görə)
-
-körkətmək @ göstərmək
-
-körkitdəçi göstərən, bələdçi
-
-körkitmək @ göstərmək
-
-körklə @ gözəl, dilbər
-
-körklamək @ gözəlləşmok
-
-körklüg @ gözəl
-
-körkməklig @ görmə
-
-körksüz @ çirkin, kifir, yaraşıqsız
-
-körkürmək @ göstərmək
-
-körkütmək @ göstərmək
-
-körg @ gözəllik, gözəl, görünüş, əndam, biçim, qiyafət, rəsm.
-
-körglə @ gözəl, dilbər
-
-körglüg @ görünən, gözəl, mənzərəli
-
-körgürmək @ göstərmək
-
-körməz @ kor
-
-körmək @ görmək
-
-köröksəmək @ görmək istəmək
-
-körtil @ görünən, dünyavi olan, fani olan
-
-körtkürgüçi @ göstərən (adam)
-
-körtgürmək @ göstərmək
-
-körtürtmək @ göstərmək
-
-körtlə @ 1, gözəl, dilbər,  2. şahzadə ləqəbi
-
-körtrək @ daha gözəl
-
-körtük @ 1. qar yığımı, qar
-
-topası, qar sahəsi, 2. çöl;
-
-3. aşiq, sevən
-
-görüg  @ 1. gözəl, gözəllik, 2. görüş, 3. casus
-
-körügsəmək @ görmək istomək
-
-körük @ 1. gözəllik, gözəl, 2. görüş; 3. casus
-
-körüksəmək @ görmək istəmək
-
-körügüçi görən, başa düşən, anlayan
-
-körülmək @ görülmək, sayılmaq, körüm @ 1. yuxu, röya, gömüş, 2. baxım, nöqteyi-nəzər; baxış
-
-körümçı @ kahin, falçı, astranom, münəccim, ulduza baxan
-
-köçünç @ 1. pyes, tamaşa, baxılmalı, görüləcək; 2.
-
-görünüş, mənzərə
-
-körünçləmək @ nümayış
-
-etdirmək, sərgiyə qoymaq
-
-körünçləgülük @ nümayişə layiq, göstərməyə layiq
-
-körünçləgülüg @ nümayişə layiq, göstərilməyə layıq
-
-körünçlük @ üzərində əşya
-
-göstərilən rəf
-
-körünçlüg @ üzərində əşya
-
-göstərilən rəf
-
-körüngü -— @  görünüş
-
-körüngüçü @ seyirçi, tamaşaçı
-
-körünmək @ görünmək
-
-körüşmək @ görüşmək
-
-kös @ köz
-
-kösəmək @ arzu etmək, diləmək, istəmək
-
-kösənçik @ arzu edilən, istənilən
-
-kösünmək @ 1. görünmək; 2, qəbul edilmək, 3. hazır, mövcud, indiki
-
-kösüş @ arzu, dilək, istək
-
-kösüşlüg @ arzulanan, dilənən, istənilən
-
-köşitmək @ örtmək, qapatmaq
-
-köşün @ görünən
-
-kötimək @ yüksəlmək, çıxmaq, qalxmaq, minmək
-
-kötki @ yayla
-
-kötlür mək @ qaldırmaq, yüksəltmək, götürülmək
-
-kötrülmək @ qaldırılmaq, yüksəldilmək, götürülmək
-
-kötü @ böyük
-
-kötük @ iş, ticarət, iş-güc, alış-
-
-veriş
-
-kötüg @ iş, ticarot, iş-güc, alış-
-
-veriş
-
-kötürmək @ götürmək, yüksəlmək, qaldırmaq
-
-kötürülmək @ götürülmək
-
-kötüşmək @ götürülmək
-
-kötüşmək @ böyümək
-
-kövəz @ lovğa, məğrur
-
-kövənç @ qürur, əzəmət, güvənç, lovğalıq, təkəbbür
-
-kövənçən @ qürurlu, əzəmətli, lovğalanan, təkəbbürlənən
-
-kövrüg —— 1. təbil; 2, körpü
-
-kövşək @ zərif, gözəl, şux, yumşaq
-
-kövtün @ bədən, vücud, gövdə
-
-köydürmək @ yanmaq, yandırmaq, yaxmaq
-
-köymək @ yanmaq, qovrulmaq
-
-köytrilmək @ yandırılmaq, yaxılmaq
-
-köyük @ yanmış, qovrulmuş
-
-köyürmək @ yandırılmaq, yaxılmaq
-
-köz @ göz
-
-közəmək @ istəmək, arzulamaq
-
-Közəmiş @ antroponim, şəxs adı
-
-közətmək @ gizləmək, gözləmək, saxlamaq, mühafizə etmək
-
-közətçi @ gözətçi
-
-közkişmək @ görüşmək
-
-köznək @ oks, inikas, əks-səda
-
-közsüz @ gözsüz, kor
-
-közün @ güc, qüvvət
-
-közünç @ şöhrəti, şanlı, məşhur
-
-közüngü @ güzgü
-
-közünlüg @ güclü, qüvvətli
-
-közünmək @ 1. görünmək, 2. qəbul edilmək, 3. hazır, indiki, mövcud
-
-közünür @ müasir
-
-közünürdəki @ indiki, görünən, hüzurda olan
-
-közüş @ arzu, istək, dilək
-
-krbirdə @ ağac növüdür
-
-kü @ şölrət, gurultu; səs, küy
-
-küb @ çölmək
-
-kübəz @ məğrur, qürurlu
-
-küç @ güc, qüvvət, zor
-
-küçədmək @ gücləndirmək, qüvvətləndirmək
-
-küçək @ giiclü, qüvvətli
-
-küçəmək @ zorlamaq
-
-küçənmək @ gücənmək, zorlamaq, qüvvətlənmək
-
-küçətmək @ gücləndirmək, qüvvətləndirmək
-
-küçləndürmək @ gücləndirmək, qələbə çaldırmaq
-
-kücləntirmək @ gücləndirmək, qələbə qaldırmaq
-
-küçlüg @ güclü, qüvvətli, qüdrətli
-
-küçsirəmək @ zəifləmək, gücdən
-
-düşmək, gücünü itirmək
-
-küçsüz @ gücsüz
-
-küdəgü @ kürəkən
-
-küdəmək  @ . bağırmaq, çağırmaq, gürültü salmaq
-
-küdən @ 1. qonaq, müsafir, 2. (4g
-
-sözü ilə) yoğun bağırsaq
-
-xəstəliyi
-
-küdənlik @ qonağa məxsns ev, qonaq otağı
-
-küdmək @ güdmək
-
-küg @ 1. göy, soma, 2. noğmə, şərqi, 3. şöhrət
-
-kügəttürmək @ mədh etmək, tərifləmək, öydürmək
-
-küidun @ vücud
-
-küimək @ yaxmaq
-
-küin @ lülə halında bükülmüş
-
-kitab
-
-kük @ 1. göy, mavi; 2. nəğmə, şərqi, mahni, 3. şöhrət
-
-kükrəmək @ kükrəmək, bağırmaq, böyürmək
-
-kükülmək @ tanınan, təqdis
-
-edilmiş
-
-kül @ kül; kişi adı kimi də işlənir
-
-külçirmək @ gülümsənmək
-
-küləmək @ torifləmək, mədh
-
-etmək, öymək
-
-küldi @ yüz min
-
-külmək @ gülmək
-
-kültürmək @ güldürmək
-
-külüg @ məşhur
-
-külüngü @ araba
-
-külünmək @ gülüşmək
-
-külüşmək @ gülüşmək
-
-külüşük @ gülüş
-
-külüşüg @ gülüş
-
-kümək @ qorumaq, mühafizə
-
-etmək
-
-kümüş @ gümüş
-
-kümüşlüg @ gümüşlü
-
-kün @ 1, günəş; 2. gün, 3.
-
-cənub, 4, vaxt, zaman; 5. ada
-
-qoşulan
-
-sözdür; 6. il gün @ millət, xalq
-
-kün @ həromxana
-
-kün ay @ allah adıdır
-
-kün batsıkınqaru- @ qərb, günəşin batdığı yev
-
-künçi @ dərman bitkisinin adıdır
-
-künçit küncüt, küncüt yağı
-
-künəyingi @ qısqanc, günüsü
-
-olan, həsəd aparan
-
-kündəm @ 1. günəşli, 2. günəşə
-
-bənzər
-
-kündin @ 1. conub, 2. gözəl
-
-kündini @ cənub
-
-kündüri @ cənubda
-
-kündüz @ gündüz
-
-küni @ 1. qısqanclıq; 2. günü
-
-küniçi @ |. qısqanc, 2. günüsü
-
-olan
-
-künikəki @ hər gün, daimi
-
-küniləmək @ qısqanmaq
-
-küninfə @ hər gün, sürəkli, daimi, davamlı
-
-kün küningə @ hər gün
-
-kün ortu @ cənuba doğru
-
-küntəki @ hərəmxana
-
-küntəkü @ boyunbağı, həmayıl
-
-küntəmək @ hər gün
-
-kün tenri @ allah adıdır; günəş
-
-allahı
-
-küntki @ horəmxana
-
-küntüz @ gündüz
-
-künük @ gümüş
-
-künük suv @ gümüş suyu
-
-kün @ qarabaş, kəniz
-
-künzədmək @ kəniz olmaq, qarabaş olmaq
-
-küp —— küp
-
-kür @ hiylə, al, fəsad; qandırma
-
-kürdüş kürdüş
-
-kürətmək @ aldatmaq, aldanmaq
-
-küri @ 1. litr, ölçü, 2. kürək
-
-kürnlik @ desilitr
-
-kürkün @ zəfəran
-
-kürləmək @ aldatmaq, tovlamaq
-
-kürlüg @ hiylə, yalan, hiyləli, hiyləgər, yalançı, aldadıcı
-
-kürsüz @ hiyləsiz, yalansız
-
-kürüç @ zirə
-
-küs @ payız
-
-küsədmək @ güdmək
-
-küsədük @ istək, dilək
-
-küsəmək @ arzulamaq, diləmək, istəmək
-
-küsəmiş @ loğəbdir
-
-küsənç @ istok, arzu, dilək
-
-küsənçig  @ — arzu edilmək, istənilən
-
-küsi @ müşk, aloc ağacı, yananda
-
-xoş qoxu verən bir şey
-
-küsin @ güc, qüvvət
-
-küskü @ 1. siçan, 2. on ikt il
-
-siklli toqvimdə il adı
-
-küsmək @ 1. küsmək; 2. istəmək
-
-küsün @ güc, qüvvət
-
-küsüngü @ güzgü, ayna
-
-küsünlüg @ güclü, qüvvətli
-
-küsünsüz @ gücsüz, qüvvətsiz
-
-küsüş @ arzu, dilək, istək
-
-küşalın @ kusovəti
-
-küşi @ müşk, aloc ağacı, günlük, yandırdıqda xoş iy verən bir şey
-
-küşitmək @ gizlətmək
-
-küşti @ dərman bilkisinin adıdır
-
-küşüş @ arzu, istək, dilək
-
-kütə turmak @ güdmək
-
-kütəçi @ güdən, casus, qoruqçu, qoruyan
-
-kütidmək @ göstərmək, ifadə
-
-etmək
-
-kütmək @ 1. güdmək, baxmaq, qorumaq, 2. gözləmək
-
-küü @ şöhrət, ad-san, gurultu
-
-küülüg —— şöhrətli, adlı-sanlı
-
-küün @ 1. mum, 2. Şam
-
-küvəz @ məğrur, qürurlu
-
-küvəzləngülüg @ fəxr edilməli, gürurlanmalı, iftixar edilməli
-
-küvəzlənmək @ qürurlanmaq, iftixar etmək, fəxr etmək
-
-küvənç @ qürur, iftixar, təkəbbür, güvənmə
-
-küvənçin @ məğrur, təkəbbürlü, qürurlu
-
-küvənçlig @ qürurlu, moğrur, təkəbbürlü
-
-küvənmək @ güvənmək
-
-küvrə @ çürümüş
-
-küydürmək @ yandırmaq
-
-küyi @ müşk, aloc ağacı, günlük, yananda xoş qoxu verən bir şey
-
-küymək @ yanmaq
-
-küyürmək @ yanmaq, yandırmaq;
-
-yaxmaq
-
-küz @ payız
-
-küzəç @ qazan, çölmək, çanaq, səhəng, bardaq
-
-küzədgülüg @ riayət etmə, gözətlənmə
-
-güzədmək @ güdmək
-
-küzədtəçi @ güdən, gözətləyən
-
-(adam)
-
-küzənçik @ arzulanmaq
-
-küzənmək arzulamaq
-
-küzət @ qoruma, mühafizə etmə
-
-küzətçi @ gözətçi
-
-küzətdürmək @ yerinə yetirmək, yerinə gotirmək
-
-küzətmək —— mühafizə etmək, saxlamaq, gözətləmək
-
-küzgü @ siçan
-
-küzi @ müşk, aloc ağacı, günlük, yananda xoş qoxu verən bir şey
-
-küzlüg @ payız, payızlıq
-
-küznək @ kölgə
-
-ka @ dost, qohum
-
-kab @ 1. torba (ölçü vahidi); 2. dəri torba
-
-kabak @ 1. qonaq; 2. göz qapağı
-
-kaban @ tabaq, hövsər
-
-kabarmak @ qabarmaq
-
-kabın @ vergi adıdır
-
-kabşamak @ tərəddüd etmək
-
-kabşurmak  @ qovuşmaq
-
-kabuçak @ boşluq, mağara, koğuş, yuva
-
-kaç @ neçə, nə qədər
-
-kaçan @ haçan, nə vaxt, nə zaman
-
-kaçan @ neçə dəfə, o qədər
-
-kaçığ 1. duyğu üzvü; 2. qaçaq, düşgün; 3. keçid
-
-kaç kata çox dəfə
-
-kaçma @ qaçma
-
-kaçmak qaçma
-
-kadağ @ 1. günah, qüsur, qəbahət, suç, 2. qatı, sağlam, 3, qatışıq
-
-kadak @ 1. günah, qüsur, qəbahət, 2. qatı, sağlam
-
-kadar qədər
-
-kadaş- @ dost, qohum
-
-kadğu qayğı, dərd
-
-kadğuluğ @ qayğılı, dərdli
-
-kadğunluk @  @  qayğılı, dərdli
-
-kadğurmak @ qayğılı olmaq, dərdli olmaq, kədərlənmək
-
-kadığ @ 1. qatı, sağlam, cəhd; 2. pislik; 3. katışıq, qarışıq
-
-kadın @ 1, ölkə adı, 2. qayın
-
-kadınmak @ peşman olmaq
-
-kadır @ sərt, hiddətli, qızğın, yırıcı
-
-kadırmak @ bükmək, əymək
-
-kadıs @ darçın
-
-kadıtmak @ çevirmək, endirmək, döndərmək
-
-kadız @ darçın
-
-kadir @ qədir
-
-kadmak @ 1. çatmaq, uzatmaq; 2. şərtləndirmək, 3. qarışdırmaq
-
-kadun @ xatun, xanım, qadın
-
-kadurmak @ peşman olmaq
-
-kağadaş @ qohum-əqrəba
-
-kağal – qırmanc, qamçı
-
-kağan @ xaqan
-
-kağantır @ qatır
-
-kağda @ kağız
-
-kağıl @ qırmanc, qamçı
-
-kağınmak @ peşman olmaq
-
-kağuk @ sidik kisəsi
-
-kağun @ qovun, yemiş
-
-kağurmak @ qovurmaq
-
-kağuşmak @ qovuşmaq
-
-kai @ 1. açmaq, 2. bir tayfaya
-
-mənsub
-
-kainat @ qaynatmaq
-
-kaiftsi @ parlamaq
-
-kak @ haqq
-
-kakaç @ pislik
-
-kakakasi @ kakakasi (mənası
-
-qaranlıqdır)
-
-kakalan @ vergi adıdır
-
-kakani @ dəri xəstəliyi
-
-kak tau @ dərman kimi işlədilən
-
-bir meyvə
-
-kakız @ cosur, qəhrəman
-
-kakınmak @ peşman olmaq
-
-kakmak —— vurmaq, basmaq, qaxmaq
-
-kal @ dəli, divanə, qudurmuş
-
-kala @ qala, şəhər
-
-kalak @ qala, göy
-
-kalan @ torpaq vergisi
-
-kalançı @ torpaq vergisini
-
-—...
-
-kalanğurmak @ atılmaq, oynamaq, rəqs etmək, sıçramaq
-
-kalan keyik @ kərkədan
-
-kalanlığ @ torpaq vergisi
-
-mükəlləfiyyəti
-
-kalı @ artıq, qalıq
-
-kalığ @ 1. göy, səma, qat, 2. tavan
-
-Каһк @ 1. göy, səma, yuxarı qat, 2. tavar, 3. qeyb
-
-kalılığ —— yanaq
-
-kalın @ çox, saysız, six, qələbəlik
-
-kalın böz @ qalın və qaba parça
-
-kalınçsız @ qalıqsız, bütün, tamam
-
-kalınçu @ 1. arüq qalan, arlıq, 
-
-. zığ; 2. yığın, qələbəlik, 
-
-kalınmak @ 1. üzüm tənəyi, 2. asma meynəlik
-
-kalısız @ qalıqsız, tam
-
-kahtmak @ sıçratmaq
-
-kalkan @ qalxan
-
-kalmak @ qalmaq
-
-kalp @ zaman, dövr, çağ
-
-kaltı @ necə, əgər, ki
-
-kalu @ zahid, tərkdünya
-
-kam @ şaman, sehirbaz
-
-kamağ @ hamı, hamısı, bütün
-
-kamağan @ hamısı, bütün, başdan
-
-başa
-
-kamağlarını @ hamısını
-
-kamağlık @ ümumi
-
-kamağu @ birlikdə
-
-kamağun —— bütün
-
-kamak @ hamısı, bütün
-
-kamğağ @ hamısı, bütün
-
-kamğak @ sarımsaq
-
-kamğun @  @  bütün
-
-kamıç @ çömçə, qaşıq
-
-Kamığ @ hamı, hamsı, bütün
-
-kamığlığ @ hamılı
-
-kamığu @ birlikdə
-
-kamılmak @ 1. devrilmək, sralanmaq; 2. fırladılmaq
-
-kamıtmak @ əymək
-
-kamış @ qamış, saz
-
-kamışlığ @ qamışlı, sazlı
-
-kamızun @ bütün
-
-kamçı @ qamçı
-
-kamkı @ pambıq parça ölçüsü
-
-kammak @ firlatmaq
-
-kamrakttı @ ləqəbdir
-
-kamuğ @ hamısı, bütün
-
-kamuş @ qamış, saz
-
-kamşamak @ tərpətmək, titrəmək, hörəkətə gətirmək
-
-kamşatmak @ titrotmək, tərpətmək, sallatmaq
-
-kan -.. 1, xam, hökmdar, şah, xaqan, 2. qan, 3. antroponim, şəxs adı
-
-kanağ @ qan alma
-
-kanamak @ qan almaq, qanamaq
-
-kanamlağ @ doymuş, tox, gözütox
-
-kanamlığ @ doymuş, tox, gözütox
-
-kanarmak @ qan almaq
-
-kanat @ qanad
-
-kanç @ nə qədər
-
-kança @ haraya
-
-kanda @ harada, haçan
-
-kanğu @ görkəm
-
-kanğusuz @ görkəmsiz
-
-kanınçsız @ qanacaqsız, qanmayan, doymayan
-
-kanyu @ hansı, kim
-
-kanya @ ulduz adı
-
-kanlığ @ qanlı, xanlı
-
-kanlık @ xanlara aid vergi
-
-kanmak @ qanmaq, qandırmaq, inandırmaq
-
-kanta @ harada
-
-kantikar @ bitki adıdır
-
-kanturğu @ qanacaq
-
-kanturmak @ qandırmaq, razı
-
-salmaq, təskin etmək
-
-kan, @ 1. ala, 2, Qanq çayı
-
-kan,lı @ araba
-
-kan,lıçı arabaçı
-
-kao-çao @ qurban üçün ruh
-
-çağırmaq
-
-kap @ 1, qara, 2. zireh; 3. qab, torba
-
-kapağ @ qapı
-
-kapağçı @ qapıçı
-
-kapak qapaq, göz qapağı
-
-kaparınak @ qabarmaq
-
-kapçuk kətan torba
-
-kapığ  @ qapı
-
-kapışmak qarış durmaq, asmaq
-
-kaplan @ qaplan
-
-kapmak @ qapmaq, yaxalamaq, örtmək
-
-kar @ 1. qar, 2. omuz
-
-kara 1. qara; 2. (bodun sözü
-
-ilə) xalq, millət, 3. yılkı kara-
-
-heyvan sürüsü; 4. heyvanat
-
-karabaş @ qarabaş, qul, kölə
-
-karç @ xərc
-
-karçlığ @ xərclik
-
-karağ @ göz bəbəyi
-
-karağu @ qaraul, gözətçi
-
-karak göz bəbəyi, baxış
-
-karaklığ @ güc, qüvvəl, iqtidar
-
-kara kulak @ tarla siçanı
-
-karakuş @ qaraquş
-
-karamak @ baxmaq
-
-karanğu @ qaranlıq
-
-karanku @ qaralmaq
-
-kararmak @ qaranlıq
-
-kararıq @ qaranlıq
-
-kararık @ qaranlığ
-
-karaza-ton @ rahib paltarı, cübbə
-
-karba @ dərman bitgisinin adı
-
-karğa @ qarğa
-
-karğam @ xəndək
-
-karğamak @ qarğamaq, qarğış
-
-etmək
-
-karğatmak qarğış etdirmək
-
-karğıçuğun @ dərman növü
-
-Кагх @ bürc
-
-Кат- @ 1. hörmətli, möhtərəm,  2. qoca, qarı, yaşlı, ixtiyar
-
-karıç @ ölçü
-
-karığ @ yaşlı, qoca, qarı, ixtiyar
-
-karılmak @ qarışmaq
-
-karim @ çuxur, yalaq
-
-karımak @ qocalmaq, 
-
-ixtiyarlaşmaq
-
-karılmak @ qocalmaq, 
-
-ixtiyarlaşınaq
-
-karımaklığ @ qocalmaqlıq
-
-karın @ qarın
-
-karındaş @ qardaş
-
-karınlığ @ qarınlı
-
-karınlığ @ 1. hərəkət etmək, düşmək, enmək, 2. əclaflıq
-
-karıp @ qərib
-
-karış @ məkik ipliyi, arğaç
-
-karışmak @ qarışmaq, düşmən
-
-kəsilmək, məğlub olmaq
-
-karkanadus @ qusma xəstəliyi
-
-karkandus @ qusma xəstəliyi
-
-karlığaç @ qaranquş
-
-karmak @ qarışdırmaq
-
-karmaksız @ qarışıqsız
-
-karmaput @ əməl, iş və
-
-quruculuq yolları
-
-kart @ 1. çiban, yara, çibanlı; 2. qart, qoca
-
-karşı @ 1. qarşı, 2. saray, 
-
-3. qovğa, dava, müharibə
-
-karşısız @ qovğasız, davasız
-
-karşu @ 1. qarşı, 2. saray, 
-
-3. qovğa, dava, müharibə
-
-kas @ 1. qaş, 2. qovuq
-
-kasanığ @ sidik
-
-kasığ @ qarının aşağı hissəsi
-
-kasık @ qabıq
-
-kasınçığ @ qorxulu, qorxunc
-
-kaskuk @ kol
-
-kasmak @ qazmaq (fel)
-
-kasuk @ mix, mismar
-
-kasuy @ Daxili Monqolustanın
-
-karvan tacirləri
-
-kaş @ 1. qaş; 2. təpə, 3. qaş, qiymətli daş
-
-kaşak @ kamış, saz
-
-kaşanığ @ korxulu, qorxunc
-
-kaşanmak @ işəmək
-
-kaş kapak @ qaşqabaq
-
-kaşuk @ qaşıq
-
-kat @ 1, qat, dəfə; 2. mifolofi bir
-
-heyvan, 3. arxa
-
-kata @ dəfə, kərə, sıra
-
-katağ @ 1. qatı, sağlam, 2. cəhd, епетјр, 3. qeyrət
-
-katağlanmak @ cəhd etmok, qatlanmaq
-
-katağlığ @ qatı
-
-katak @ 1. günah, qüsur, qəbahət, 2. qatı, sağlam
-
-katamak @ ?
-
-katarmak @ çevirmək
-
-katas @ dost, qohum
-
-katçığ @ xassə
-
-kataş @ əqrəb
-
-katği @ qatı, sərt, sağlamı, sıxı
-
-katğu @ qayğı
-
-katğuruşmak @ sos çıxarmaq
-
-katı @ qarışıq
-
-katığ @ 1. qatı, sağlam, cəhd, 2. pislik, 3. qatışıq, qarışıq
-
-katığ Кзуа @ bərk, çox sərt
-
-katığlanmak @ cəhd etmək, möhkəmlənmək, zəhmət
-
-çəkmək
-
-katuğlanturmak @ cəhd
-
-etdirmək, düşündürmək
-
-kafılmak @ qatılmaq, qarışıq
-
-katın .. xatun, xanım, şahzadə
-
-katmmak @ sağlamlaşmaq, səriləşmək, qatılaşmaq
-
-Кабг @ sağlam
-
-Капгдап @ akasiyaya bənzər ağac
-
-katır katığ @ müdhiş, dəhşəti
-
-katır yavlak @ müdhiş, dəhşətli
-
-katmak @ 1. qatmaq, 2. şərtləşmək, qatılaşmaq, 3, qarışdırmaq
-
-katnamak @ qatlamaq
-
-katun @ xatun, xanım, qadın
-
-şahzadə
-
-katunmak @ şərtləşmək, qatlaşmaq
-
-katurmak @ qüvvətlənmək
-
-kaula @ səbzə
-
-kav @ kiçik ölçü vahididir
-
-kavağu @ İtil, qaytan
-
-kavalığ @ əkinin adı
-
-kavira @ qısaca
-
-kavırmak @ 1. basmaq, tozyiq
-
-göstərmək, 2. qovurmaq
-
-kavışmak @ qovuşmaq, birləşmək
-
-kavışurmak @ qovuşdurmaq, birləşdirmək
-
-kavi @ şer
-
-kavişki @ indra allahın ləğəbidir
-
-kavıtmak @ çarpışmaq, vuruşmaq
-
-kavarığ @ 1. ağrı, növbə; 2. həbs, 3. çılğın sevgi, ehtiras, 3. qulluqçu
-
-kavrığsız @ baxımsız, müstəqil, sərbəst
-
-kavrılmak @ qovrulmaq
-
-kavrışmak @ döyüşmək, müharibə etmək
-
-kavuk @ qovuq
-
-kavurmak @ 1. basmaq, təzyiq
-
-göstərmək, 2. qovurmaq
-
-Кауи( @ bəxt, səadot, görkəm, şövkət
-
-kavşadılmak @ birləşdirilmək, qovuşdurulmaq
-
-kavşamak @ qaynaşmaq
-
-kavşatılmak @ qarışmaq, sarsıdılmaq, həyəcanlanmaq
-
-kavşatmak @ çevirmək, sıxlaşmaq
-
-kavşurmak @ birləşdirmək, qovuşdurmaq, qatlamaq
-
-kavzadılmak @ çevrilmiş olmaq
-
-kavzamak @ dayandırmaq, sıxışdırmaq, sixlaşdırmaq
-
-kay @ 1 açmaq; 2. bir taylaya
-
-mənsub, tayfa
-
-kaya @ 1. geri ;2. qaya
-
-Кауди qayğı, dərd
-
-kayət @ qayət, son dərəcə
-
-kayınamak qaynamaq
-
-kayınturmak @ qaynatmaq
-
-kaymak @ meyl etmək, sürüşmək, yönəlmək
-
-kayu @ hansı, kim
-
-kaz 1. qaz; 2. qovuq
-
-kazğanç @  @  qazanc
-
-kazğanmak @ qazanmaq, toplamaq, birikdirmək, birləşdirmək, vrtmaq, zəbt
-
-etmək
-
-kazğuk 1 kol, 2. paya
-
-kazmak qazımaq (el)
-
-kazkuük @ 1, kol; 2. paya
-
-kazuk @ 1, kol, 2. payakı @ nida
-
-sözü
-
-kia @ və
-
-kiç @ 1. zaman, 2. qıç, ayaq
-
-kıçığ @ qazıntı
-
-kiçmiğ @ atom
-
-kıçmın @ qazıntı
-
-kıçurğiçi @ qmayan (adam)
-
-kuçurmaq @ qınamaq, töhmət
-
-vurmaq
-
-kığ @ qığ (qoyun qığı) təzək, gübrə
-
-kidatmak @ dilzəltmək, yaxşılaşdırmaq
-
-kıdiğ @ hüdud, sərhəd, qıraq, kənar
-
-kifirkanmak @ xəsislik etmək, simiclik etmək
-
-kifrak @ tamahkar, xəsis, simic
-
-kik @ gübrə, çör-çöp, nəcis
-
-kıkırmak @ çağırmaq, səsləmək, bağırmaq
-
-krkuruşmak @ bağırışmaq
-
-kil @ qil, saç
-
-kılğu @ düzəldilən
-
-kılğuluğ @ düzəldilmiş
-
-kuldurmak @ qıldırmaq, endirmək
-
-kılıç @ qılınc
-
-kiliğ —— (sahığ sözü ilə) vergi
-
-növüdür
-
-kilik @ xasiyyət, əxlaq, xarakter
-
-kılilmak @ qılmmaq, edilmək
-
-kılmsinmak @ məşğul kimi
-
-olmaq
-
-kilinç @ iş, əməl
-
-kilinçliğ @ işli, işgörən, işçi
-
-kılınç tenrisi @ zəhmət allahı
-
-kilınmak @ məşğul olmaq, qılınmaq, edilmək
-
-kılmak @ qılmaq, etmək, düzəltmək, yaratmaq
-
-kılmaklağ @ qılman, edilən, icrası
-
-gərək
-
-kılmaklığ @ qılman, edilən, icrası
-
-gərək
-
-kılturmak @ qıldırmaq, etdirmək, yaratdırmaq, düzəltdirmək
-
-kimsiz @ qumsuz
-
-kin @ 1. ; cəza, işgəncə, azar, 2. əngəl
-
-kmağuçi @ işgəncə verən, əzab
-
-verən, cəza verən, qinayıcı
-
-kmamak @ cəzalandırmaq, qınamaq
-
-kmdirmak @ minnət çəkmək, müztərib olmaq
-
-kınığ @ şiddətli arzu
-
-kinik @ sağlam, qüvvətli, sərt
-
-kinlik @ həbsxana
-
-kmmak @ arzulamaq, arzu etmək, istəmək
-
-kınturmak @ zəhmətə qatlanmaq
-
-kin, @ çəpgöz
-
-kipkizil @ qıpqırmızı
-
-Карс̧иг @ vergi növüdür
-
-kır @ üz
-
-kira @ tarla, əkin yeri
-
-kirağı @ 1. şeh, 2. qırov, 3. şaxta
-
-kırğın @ qarabaş, kəniz
-
-kirk @ qırx (say)
-
-kırkin @ 1.. qarabaş, kəniz? 2. izürab, azar
-
-kırkmak @ qırxmaq
-
-kırmalaşmaq @ qırmaq, sındırmaq, parçalamaq
-
-Кагаз @ bəniz, üzün rəngi, gözəl
-
-üzlü
-
-kirtişliğ —— gözəl üzlü
-
-kısağ @ dar, daraldılmış
-
-kisamuk @ qızılça
-
-kisğa @ – qısa, az
-
-kısğaç @ qısqac, maşa, kəlbətin, məngənə
-
-kisiğ @ dar, daraldılmış
-
-kısığsız @ dərdsiz
-
-kisil @ dərə, vadi, dar keçid, çuxur
-
-kisilmak @ qısılmaq, daralmaq, daraltmaq
-
-Кабили @ bitki adidir
-
-kıskanmaq @ qısqanmaq
-
-kıskaç @ qısqac, maşa, kəlbətin, məngənə
-
-kismak @ qısmaq, sixişdirmaq, çimdikləmək
-
-kismik @ yarğan
-
-kiş @ qış
-
-kişlamak @ qışlamaq
-
-kişlik @ qışlıq
-
-kitiğ @ sahil, qıraq, kənar, hüdud, sərhəd
-
-kitik @ pambıq
-
-kitikliğ @ pambıqlı
-
-kiv @ İ, bəxt, səadət; 2. ayaqqabı
-
-kivadmak -.- təbrik etmək, hönmnət etmək, alqışlamaq, saymaq
-
-kivirkak @ tamahkar, xəsis, Ziqqı, simiç
-
-kıvirkaklanmak @ xəsislik
-
-etmək, simiclik etmək
-
-kıvirkanmak @ tamahlanmaq
-
-kıvliğ @ xoşbəxi, boxtiyar
-
-kun @ cəza, əziyyət, zəhmət
-
-kunçi @ cəza verən, cəza kəsən, cəllad (2)
-
-kunlik @ həbsxana
-
-kiy @ hüdud, sərhəd
-
-kiyand @ kərgədan
-
-kiyik @ öyri, köndələn
-
-kiyılğu @ qıylma
-
-kiyilğulüğ @ qıyılması
-
-kiyilmak @ qıyılmaq
-
-Кзулп @ cəza, tənbeh
-
-kiyirkak @ tamahkar, xəsis, ziqqi, simic
-
-kıyınlık @ həbsxana
-
-kıyınçı @ cəza verən, cəllad
-
-kiyırkalanma kk @ xəsislik etmək, simiclik etmək
-
-kız @ 1, qızş 2. qızmaq, istilik, 3. Xəsis
-
-kız-kiz @ qız (övlad), qırğızca; kiz
-
-bala
-
-kızamuk @ qızılça
-
-kızartmak @ qızartmaq, qarmızılaşdırmaq
-
-kızaşı @ toy, toy-düyün, ziyafət
-
-kizğak @ xosis, simic
-
-kızğanmaq @ xəsislik etmək, simiclik etmək, qızırqanmaq
-
-kizğaç @ qısqanc, maşa, kəlbətin, məngənə
-
-kızğut @ əziyyət, zəhmət, cəfa, iztirab
-
-kızığ @ dar, daraldılma
-
-kızıl-— qırmızı, qızıl, al
-
-kızkıl @ qırmızı
-
-kızkut  @ - əziyyət, zəhmət, iztirab, cəfa
-
-kizmak @ xəzinə
-
-kizsiz @ toxluq, gözütox
-
-kobçur @ vergi adı
-
-kobı @ 1. miras payı, 2. boş
-
-kobik 1, kəhrəba; 2. köpük
-
-kobratmak @ toplamaq
-
-kobuz  @ —- kobuz
-
-koburğa @ bayduş
-
-köç @ qöç
-
-Кос̧каг @ Кос̧
-
-koçmak @ sarılmaq, qucaqlamaq
-
-koçu @  @  qoçu
-
-koçunğar @ qoç
-
-koçüşmak @ qucaqlaşmaq
-
-kodr @ 1. aşağı, adi, 2. sağlam.
-
-yaxşı, çox
-
-kodikarmak @ aşağı qoymaq
-
-kodrkarturmak @ endirmək, aşağı qoydurmaq, qiymətdən
-
-salmaq
-
-kodikı @ aşağıdakı
-
-kodmak @ 1. qoymaq. buraxmaq, tərk etmək, yerləşdirmək, 2. ayırmaq, çıxarmaq
-
-kodturmak @ qoydurmaq, yerləşdirmək
-
-kodur @ qotur
-
-koduru @ tamamilə, büsbütün
-
-koğ @ 1. toz, 2, atom, 3. zərrə
-
-koğlamak @ qovlamaq, qovmaq
-
-koğşak @ zəif
-
-koğşamak @ zəifləmək, zəifləşmək
-
-koğu @ ququ quşu
-
-koğulğu @ parlaq
-
-koğurşak @ qurşaq
-
-koğus koğuş, boş, bomhoş
-
-koğuş —— tüklü heyvan dərisi
-
-koin @ qoyun
-
-КоҜ —— töz, torpaq, nöcis
-
-kokmak @ azalmaq, kiçilmək
-
-kokpu @ pambıqlı qumaş
-
-kol 1 qol; 2, çay
-
-kolbiç @ qoltuqaltı
-
-kolğak @ qulaq
-
-kolğarmak @ yalvarmaq, yalvarıb
-
-yaxarmaq
-
-kolğuçi @ dilənçi
-
-koliçak @ qolçaq
-
-КоЖаҝ @ qulaq
-
-kolmak @ xahiş etmək, istomək, diləmək
-
-kolhqa @ zoğ
-
-koltğuçi @ dilənçi
-
-koht @ 1. saysız, hesabsız, hədsiz, 2. milyon
-
-koltuk @ qoltuq
-
-kolu @ dövrə
-
-koludiı @ antroponim, şəxs adı
-
-kolulamak @ düşünmək, fikrə
-
-getmək, müşahidə etmək
-
-kolunğuç; @ dilənçi
-
-kolunç @ dilək arzu
-
-koluna @ zoğ
-
-kolunluğ @ mərhəmətli
-
-kolunmak @ diləmək, yalvarmaq, xahiş etmək
-
-kohisuz @ 1, vaxisız, vədəsiz, 2. saysız, hesabsız
-
-koluş @ vergi növüdür
-
-komsoluk @ anbar
-
-konak @ darı
-
-konğu @ iqamətgah, gecolomə
-
-yeri
-
-konmak @ qonmaq, gecələmak
-
-konrağı @ zəng
-
-konrulmak @ sallanmaq, qanrılmaq
-
-konşı @ qonşu
-
-konuk @ qonaq, miüsalir, geconi
-
-keçirilən yer
-
-konukluk @ müsafirlik, qonaqlıq, mənzil
-
-konuz @ qurd, böcək
-
-kool @ qol
-
-kooş @ cüt
-
-kop @ çox, bol
-
-kopan @ bütün
-
-kopçır @ vergi növüdür
-
-kopmak @ qalxmaq, qopmaq
-
-koptin -— @  hər yerdən, hər tərəfdən
-
-kor @ zərər, ziyarı
-
-koramak @ 1. çıxarmaq, qaldırmaq; 2. azalmaq, əksilmək
-
-kəş @ cüt
-
-korımak @ qorumaq
-
-korki @ sürət, sima, qiyafə
-
-korkinç @ qorxunc
-
-korkinçiğ @ qorxunc
-
-korkinçik @ qorxunc
-
-korkinçliğ @ qorxunc
-
-korkinçsiz @ qorxusuz, qorxunç
-
-olmayan
-
-korkitmak @ qorxutmaq
-
-korkmak @ qorxmaq
-
-korku @ qorxu
-
-korkune @ qorxunc
-
-korkunçluğ @ qorxunc
-
-korkunçsuz @ qorxusuz, qorxunc
-
-olmayan
-
-korkusuz @ qorxusuz
-
-korluğ @ zərərli
-
-korsuz @ zərərsiz
-
-korukmak @ qorxmaq
-
-kərüş @ çağırma
-
-korçu @ inamsız
-
-koşmak @ qoşmaq, bağlamaq, ayırmaq, 2. qarışdırmaq
-
-koşuklük @ 1. qoşulu, qoşulmuş, qoşulmalı
-
-koşulmak @ qoşulmaq
-
-kotdurup almak @ ələ keçirtmək, almaq
-
-koti 1, aşağı, adi, 2. sağlam, əsaslı
-
-kotiki @ aşağıdakı, alçaqdakı, basik
-
-kotmak @ 1. qoymaq, tərk etmək, 2. ayırmaq, çıxarmaq
-
-kotur @ qotur
-
-Коут 1. boş, oyuq; koğuş, 2. bədbəxt, bəxtsiz
-
-kovitmak @ təhqir etmək, yandırıb yaxmaq
-
-kovlamak @ qovmaq, qovalamaq, qovlamaq.
-
-kovuk @ qovuq, içi boş
-
-kovuşaak @ düzlomək
-
-koy @ qoyun
-
-koyın @ 1, qoyun, 2. on iki il
-
-siklli türk təqvimində 1lin adı
-
-koymak @ qoymaq
-
-koyn —— qoyun
-
-koyun @ qoyun (insanın qoynu)
-
-koyunçi @ kəniz, qadın qul
-
-koz @ 1. qoz, 2. od, alov, köz, atoş, qor
-
-kozı @ quzu
-
-kozluğ @ 1. qozlu; 2. odlu, alovlu, közlü, qorlu
-
-kpra @ ağac cinsi
-
-kra @ qara
-
-krarığ @ qaranlıq, zülmət
-
-krarmak @ qaralmaq
-
-krmapt @ əməl, iş
-
-krmaput @ əməl, iş
-
-krmşulhn @ bağışlama, günahından keçmə
-
-krüç @ zirə
-
-ksanti @ tövbə, tövbə duası
-
-ksudra @ kiçik
-
-kşan @ an, ləhzə
-
-kşanti @ tövbə, tövbə duası
-
-kşatrik @ əskər zümrəsinə
-
-mənsub olmaq
-
-kşi @ kişi
-
-ktpi @ bitki adıdır
-
-ku @ çiçək adı
-
-kua @ çiçək adı
-
-kubratmak @ toplamaq
-
-kuçmak @ qucmaq, qucaqlamaq
-
-kuçülmak @ quculmaq, qucaqlamaq
-
-kuçüşmak @ qucaqlaşmaq
-
-kud @ bəxt
-
-kudadmak @ xoşbəxt etmək, səadət vermək, bəxtiyar etmək
-
-kudatmak @ xoşbəxt etmək, səadət vermək, bəxtiyar etmək
-
-kudaz @ döst, qohum-əqrəba
-
-kudmak @ gücünü itirmək, tələf
-
-olmaq
-
-kudruğ @ quyruq
-
-kudruk @  quyruq
-
-kuduğ @ quyu, bulaq, dəniz
-
-kudulmak @ tökülmək, şırıldamaq, süzülmək
-
-kuduru @ tamamilə, büsbütün
-
-kuduz @ quyu suyu
-
-kuin @ kitab vərəqi
-
-kul @ qul, kölə
-
-kulaç @ qulac
-
-kulak @ qulaq
-
-kulğak @ qulaq
-
-kulkak @ qulaq
-
-kulliğ @ qullu, qul olan, əsir
-
-sahibi, xidmətçi
-
-kulluğ qullu, qulu olan, əsir
-
-sahibi, qul sahibi, xidmətçi
-
-kulsuz @ qulsuz, qulu olmayan
-
-külün @ 1. çiçək adı, 2. qulun
-
-kulunlamak @ qulunlamaq, atın
-
-doğması, day vermək
-
-kum qum
-
-kumaru @ vida, ayrılma
-
-kuma yağı çətənə yağı
-
-kumluğ @ qumluq, qumlu
-
-kumsuz @ qumuz
-
-kukpdaçı @ oğnı
-
-kunçi @ ayın bir hissəsi
-
-Кипс̧и küncüt
-
-Кипс̧иу @ xanım, xan (xaqan)
-
-arvadı
-
-kunxauçi @ musiqiçi
-
-Кипс̧иуји2 @ xanımlıq
-
-kunduz @ qunduz
-
-kunku @ musiqi aləti, arfa
-
-kunmak @ oğurlamaq, çalmaq
-
-küntüz. @ qunduz
-
-kun kam @ müsiqi
-
-kunkau @ müsiqi aləti, arfa
-
-kunkauçı @ arfa çalan
-
-kur @ 1. kəmər, qayış, toqqa, 2. sira, silsilə
-
-kuratmak @ toplamaq, yığdırmaq
-
-Кигбап @ qurban
-
-kurğağ @ qara, torpaq
-
-kurğak .— qara, torpaq
-
-kurğan @ kurqan
-
-kurğurmak @ gerçəkləşdirmək, qürurlanmaq
-
-kur; @ bayram toplanışı
-
-kurikan @ 1. çadır, 2. türk
-
-qəbilələrinin birinin adı
-
-kuriltay @ qurultay
-
-КигипаК @ qurumaq
-
-kuritmak @ qurutmaq
-
-kurkağ @ quru, quraq
-
-kurla @ sıra
-
-kurmak @ qurmaq, görmək
-
-kurşamak @ sarmaq, çevirmək, qurşaq bağlamaq
-
-kurt @ 1. qurd, böcək, 2. pendir
-
-kurta @ qarı, qoca arvad
-
-kurtadılmak @ çevirmək
-
-kurtğarmak @ qurtarmaq
-
-kurt konsüz @ böcək
-
-kurtulmak @ qurtulmaq, xilas
-
-olmaq
-
-kuruğ @ quru
-
-kuruğsak @  qursaq
-
-kuruğsuz @ hər şey
-
-kurumak @ qurumaq
-
-kurunluğ @ qurumiu
-
-kurut @ qurut; vergi adı
-
-kusallın @ kardamon
-
-kusmak @ qusmaq
-
-kuüsrr @ üç rəngli
-
-kusuğ @ qusmaq
-
-kuş @ quş
-
-kuşanmak @ kuvşaq bağlamaq, qurşanmaq
-
-kuşavati @ nə isə addır
-
-küşçi @ quüşçü; quş övuçüsu
-
-kuşdi @ kökü dorman kimi
-
-işlədilən bitkinin adı
-
-kuüşti @ dərman bitkisinin adı
-
-kuştr @ müəllim
-
-kşan @ mənası qaranlıqdır, ar
-
-kimi törcümə etmək olar
-
-kşanti @ nə isə dini ayindir
-
-kşatrik @ hərbi, ösgəri
-
-kut @ 1. bəxt, səadət, xoşbəxtlik, bəxtiyarlıq, ruh) 2. həzrət, əzəmət, 3. ünsür, antroponim
-
-kutadmak @ səadət vermək, xoşbəxt etmək, bəxtiyar etmək
-
-kutğarkalmak @ qurtarmaq, xilas
-
-olmaq
-
-kutğarmak @ qırtanmaq
-
-kutğurmaklığ @ qurtarmaqlığ
-
-Киҝфигтак @ səadət vermək, xoşbəxt etmək, uğur vermək
-
-kutiki —— aşağı
-
-kurtirmak @ səadət vermək
-
-kutkarmak @ qurtarmaq
-
-kutluğ @ bəxtli, məsud, uğurlu
-
-kutmak @ gücünü ilirmək, taqətsizləşmək, tələf olmaq
-
-kutrulğu @ qurtuluş
-
-kutrulmak @ qurtulmaq
-
-kutsuz @ bəxisiz, uğursuz, səadətsiz, bədbəxt
-
-kuturmak @ qudurlmaq, dəli
-
-olmaq
-
-kututmak @ bəxtiyar etmək, səadət vermək, xoşbəxt etmək
-
-kuu təhlükə
-
-kuun @ hərəmxana
-
-kuva @ çiçək adı
-
-kuvak @ kəndlinin sahibdara
-
-məcburi xidməti
-
-kuvirmak @ çöməlmək, bükülmək, qıvrılmaq
-
-kuvlamak @ qovlamaq, qovalamaq, təqib etmək
-
-kuvrağ @ camaat, qələbəlik, kütlə
-
-kuvrak @ camaat, qələbəlik, kütlə
-
-kuvramak @ toplanmaq
-
-kuvranmak @ toplatmaq
-
-kuvratmak @ toplamaq
-
-kuyanığ @ dovşan
-
-kuyaş @ günəş
-
-kuykor @ dəri
-
-kuzalavaks @ nə isə dini
-
-mərasimin adıdır
-
-kuzğun @ quzğun, qarğa
-
-kuzğutmak @ yandırmaq, yaxmaq
-
-kuzişay mntrax @ nilufər
-
-kuzmak @ qusmaq
-
-qantarvi @ göy musiqiçisi
-
-qaudam @ qəbilə adıdır
-
-qot @ kərtənkələ
-
-la @ yük heyvamı güman ki, qatır
-
-(çincə; 1o-qatır)
-
-lab @ sağlam
-
-laçın @ laçın, şahin
-
-lağzın @ donuz
-
-Laksma @ allah adı
-
-lakşan @ gözəllik ölaməti
-
-1ala @ qatır
-
-lalamak @ əzmək, toz halına
-
-salmaq
-
-lan @ göz xəstəliyinin adı
-
-lanğan @ mərz
-
-Lınxua @ lotos çiçəyi
-
-likçir @ təqvim
-
-lim @ daim qırışı
-
-limçin @ ulduz adı
-
-linha @ lotos çiçəyi
-
-linxua @ lotos çiçəyi
-
-lisip @ bəlğəm
-
-lisi @ bəlğom
-
-Liusun @ ulduz adı
-
-liv @ qurban yeməyi
-
-livan, @ bitki adı
-
-İodur @ bitki adı
-
-lon, @ oğdaha, timsah
-
-lotr @ bitki adı
-
-lu @ əfdaha, timsah
-
-luo @ oldaha, timsah
-
-lurzi @ töppüz
-
-һил  oydaha, timsah
-
-lüvan— bitki adı
-
-Ни @ әјдаһа
-
-Lükçün @ toponim
-
-ma və; da, də
-
-madar @ şeytan
-
-magirt @ car
-
-mağ @ mağ
-
-mağamat @ Məhəmməd
-
-peyğəmbər
-
-mahişvri @ dini kitabın adıdır
-
-maxarurat @ toponim, cəhənnəm
-
-adı
-
-makaraç maharaca (titul)
-
-Nlakasmaç sürə adıdır
-
-maqaraç @ maharaca (titul)
-
-mama @ qadın
-
-man @ dolu, dolmuş
-
-mana @ bitki adı
-
-mançak @ yalaq
-
-mandaspont @ ünsür (antroponim
-
-kimi də işlənir)
-
-manırt @ qasid, çapar
-
-manisttan @ dayanacaq, düşərgə, Mamətgah
-
-mansız @ müti, rəzil
-
-mantal @ sehir, tilsim
-
-mantra söz, sehir
-
-manu @  @  yabanı heyvan, çöl keçisi
-
-man @ 1. yavaş qaçmaq, addımlamaq; 2. löhrəm
-
-mana @ mənə
-
-manalamak  @ —- addımlamaq, addım atmaq
-
-manastar @ monastır
-
-mançı @ ovçu, lopirçi
-
-manğl @ 1. ad, şan, şöhrət; 2, soadət, xoşbəxtlik
-
-mani @ sehir, tilsim
-
-manlamak @ addımlamaq
-
-manrağal @ dini mərasim
-
-manramak @ bağırmaq, çığırmaq, inləmək
-
-mar @ müəllim, tolimçi
-
-marım @ üzv, əza
-
-maru @ etibarən
-
-matana @ fl
-
-mati lun @ lumu
-
-mayak @ pislik; nəcis, gübrə
-
-mayak amak @ sərhəd işarəsi
-
-qoymaq
-
-mçnk @ yataq
-
-mğaraç @ maharaca
-
-mən; @ mən
-
-mənin @ mənim
-
-mən @ 1. mən, hal, 2. tərz, 3. yem
-
-mənə-aş @ ov? taxıldan hazırlanan
-
-xörək
-
-məni @ 1. nəşə, sevinc, sevinmə, keyf; 2. əbədi, daim, ölməz;
-
-məniləgülük @ nəşəlilik
-
-məngü @ əbədi, sonsuz, əzəli
-
-məngülüg @ sonsuz, əbədi oları
-
-məngüsüz @ ölümlü, əbədi
-
-olmayan
-
-məngigü @ 1. əbədi, ölümsüz, 2. soadət, sevinc
-
-məniləmək @ sevinmək, nəşələnmək, əylənmək
-
-mənilətmək @ sevindirmək, əyləndirmək
-
-mənilik @ bəxtli, xoşbəxt, nəşəli
-
-məniz @ bəniz, görünüş
-
-məni,zlik—bənizli, yaraşıqlı; üzü
-
-rongli
-
-mədizsiz @ soluq, rongi qaçmış
-
-bənizsiz
-
-mənləmək əbədiləşmək, ölməzləşmək
-
-mənrəmək @ bağırmaq
-
-mənsətinək @ bönzətmək
-
-mənzətgülüg @ bəzədilməli, bənzər, müqayisə edilməli, bənzəyişli
-
-mənzətmək @ bənzətmək, qarşılaşdırmaq
-
-mərçi @ yabanı, vəhşi, barbar
-
-mxaçmos @ dinin surənin adı
-
-mina @ beləcə
-
-mın @ min (say)
-
-mir @ bal
-
-mirç @ bibər
-
-midik @ sahil, yabanı; Budda
-
-dinində olub təriqətə girməyən
-
-min @ 1. mən, 2. un, 3. şorba
-
-mina @ ulduz adı
-
-mingiz @ buynuz
-
-mini @  @ məni
-
-minmək @ minmək
-
-mintə @ məndə
-
-minti @ ar, ləhzə
-
-mintin @ məndən
-
-min, @ min (say)
-
-min,didə @ məndən
-
-min,lik @ minlik
-
-min,ü @ minik heyvanı
-
-mir @ bal
-
-miskiç @ pişik
-
-mitik dinsiz, cliqadsız
-
-miyi @ beyin
-
-mnsiz @ müti, rəzil
-
-mna @ mənə
-
-mnal @ ad, şöhrət, səadət
-
-mni @ əbədi, ölməz, nəşə, sevinc
-
-moğoç @ sehirbaz, kahin
-
-monğuk @ inci
-
-monğul @ 1. qəbilə adı, 2. laqqırtı, boş danışma
-
-moyağ @ baş keşiş
-
-möz @ boz
-
-mönrəmək @ bağırmaq, çığırmaq
-
-mu @ 1. sual ədatı, 2. bu
-
-mudur @ 1. damğa, möhür, 2.
-
-dində əlin müəöyyən qaydada
-
-qoyulması
-
-muxurt @ saat
-
-muiğa @ inad
-
-muiğak @ dişi keyik
-
-muimalmak @ şaşırmaq, çaşmaq
-
-mula təməl, kök
-
-munçulayu @ bu cür, belə
-
-mund @ yoruğ
-
-munda @ burada
-
-mundağ @ belə, bu cür, bunun
-
-kimi
-
-mundada @ bundan
-
-munğak @ dişi keyik
-
-munu @ bunu
-
-mumlayı @ beləcə, bunun kimi
-
-muni tək @ bunun tək
-
-munlayu @ beləcə
-
-munlar @ bunlar
-
-munmak @ avara
-
-munmiş @ sərsəri, səfil
-
-munta @ burada
-
-muntata @ 1. bundan, 2. burada
-
-muntirtin @ bundan başqa, bundan
-
-muntu @ bu, bura
-
-müntuda @ bundan
-
-muntur @ dolaşıq
-
-munturmaq  @  @ dolaşdırmaq
-
-munuk @ axmaq, səfeh, dəli
-
-murağm @ ikinci dərəcəli
-
-mun @ kədər, qayğı
-
-muna @ 1. buna, 2. munqo
-
-munadınçıq @ fövqəladə, heyrətamiz, qeyri-adi
-
-munadmak @ kədərlənmək, heyrətlənmək
-
-munadturmak -
-
-kədərləndirmək, heyrətə salmaq
-
-munar @ buna
-
-munkul bolmik— məntiqsiz olmaq
-
-munşuz dərdsiz, kədərsizZ, qayğıssız
-
-murç bibər
-
-muyata @ cəhalət
-
-muyğak @ dişi ceyran
-
-muyum @ şaşqın
-
-muz @ buz
-
-mün @ 1. suç, qəbahət, günah, fəlakət, 2. şorba
-
-münçik @ qadın mayası
-
-münəgü 1. təqdir edən, 2. günahkar
-
-münəgülüg @ 1. toqdir edilməli, 2. günahı olan
-
-münəmək @ təqdir etmək
-
-münmək @ 1. böyürmək, bağırmaq, 2. minmək
-
-münsüz @ günahsız, suçsuz;
-
-qüsursuz
-
-münürmək @ aşmaq. üzərindən
-
-keçmək
-
-mürən @ çay
-
-münrəmək @ böyürmək, bağırmaq
-
-münit at @ minik atı
-
-müyüz @ buynuz
-
-naqa —— əydaha, ilan padşahı
-
-Nağıd @ zöhrə ulduzu, çoban
-
-ulduzu, qütb ulduzu
-
-nağıd ymnu @ cümə günü
-
-nağram @ soğd ayının otuzuncu
-
-günü
-
-naivasiki @ yüksək ruh
-
-naivazikt @ yüksək ruh
-
-nakapuşp @ çiçək adı
-
-namo @ namaz; təzim, börməl
-
-namo but @  Buddaya hörmətlər
-
-olsun
-
-namo darm əqidəyə hörməllər
-
-olsun
-
-name san @ rahiblərə hörmətlər
-
-ölsün
-
-nara @ 1. nar (meyvə); 2. cəhənnəm
-
-naru @ o taya, ortaya
-
-narun @ ağaç növü
-
-navsrdiç @ soğdların ilk ayının
-
-adı
-
-nayvaziki @ xeyirxah ruh, yüksok
-
-ruh
-
-nayut @ çağ, zaman, vaxt, dövr
-
-nğoşak @ mani dininə mənsub
-
-olan
-
-пес̧ә пес̧ә @ hər, nə qədər
-
-nə @ nə, hansı
-
-nəçə (neçə) @ 1, лә qədər, neçə; 2. necə, hər hansı, harısı
-
-nəçəkə təgi @ hər no qədər
-
-nəçəkəti @ nədən, necə, hansı
-
-səbəbə
-
-nəçətə @ dərhal
-
-nəçük @ necə
-
-nəçükin @ necə
-
-nəçüklədi @ nədən, necə, hansı
-
-səbəbə
-
-nəçükləti @ nədən, necə, hansı
-
-səbəbə
-
-nəgü @ necə, hansı, nə üçün
-
-nəgüdə @ ondan başqa
-
-nəkdi @ ilan növü
-
-nəkə @ niyə, nə üçün
-
-nəkim @ bunun kimi
-
-nəgükə @ nə üçün, nə məqsədlə
-
-nəgül @ necə
-
-nəgülük @ nə üçün, necə
-
-nəgülüg @ nə üçün, necə
-
-nəgümə @ hər hansı
-
-nə nəgü @ hər hansı
-
-nəlük @ nə üçün, necə
-
-nəmə @ nə, hansı
-
-nəmən @ necə
-
-nən @ 1. əşya, şey, 2. əsla, heç
-
-cür
-
-nən inçip @ nə olursa olsun, mümkün olmayan
-
-nəpsiki @ pəri
-
-nərsə @ hər nə olsa
-
-nətəg @ necə, hansı, hər hansı
-
-nə üçün @ nə üçün
-
-mizvanı @ ehtiras, məftunluq
-
-nızvanılığ @ ehtiraslı
-
-ni-—- nə
-
-niğoşak @ mani dininə munsub
-
-olan
-
-niğusak @ şagird
-
-nikai @ toriqət, möktob
-
-nikişi @ nikişi (çiçək adıdır)
-
-nikü @ antroponim, xüsusi ad
-
-nirqrantha @ toplayan və
-
-toplanılan
-
-niluptal @ bilki adı
-
-nipur @ daş-qaş
-
-nirvan @ nirvana, dəyərsiz
-
-sükunət
-
-nirvana @ nirvana, dəyərsiz
-
-sükunət
-
-nirvanlığ @ nirvanaya aid olan
-
-nisan @ nişan, damğa, möhür, alamət
-
-nişan @ nişan, damğa, möhür
-
-əlamət
-
-nivaziki @ nivaziki
-
-nizbani @ ehtiras, məftunluq
-
-nizvani @ ehtras, məftunluq
-
-nizvanılığ @ ehtirasir
-
-nizvanısız @ chtirassız
-
-nmau @ namo, təhsin
-
-nom @ qanun, din, əqidə, dua, dini əsər, dini təlim
-
-nomça @ qanunca, qamına görə
-
-nomçı @ vaiz
-
-nomlalmak @ öyüd vermək, vəz
-
-etmək
-
-nomlamak @ öyüd vermək, dərs
-
-vermək, öyrətmək
-
-nomlaftılmak — @  öyrədilmək
-
-nomluğ @ qanuni, qanuna uyğun
-
-nomsuz @ qanunsuz
-
-noş @ 1, dad, iksir, 2. əbədi, ölümsüz
-
-nökər @ mənsubiyyət, mənsub
-
-olma
-
-nökür @ mənsubiyyət, monsub
-
-olma
-
-nukut @ noxud
-
-nuşadır @ nişatır
-
-о @ пуда
-
-obit @ həya
+obıt @ həya
 
 obratı @ mənasi məlum deyil
 
 oçak @ ocaq
 
-ос̧ик @ ocaq
+oçuk @ ocaq
 
 od @ od
 
@@ -4650,9 +14,7 @@ odğurak @ qəti, açıq, aydın
 
 odğurmak @ oyandırmaq
 
-odğuratı @ qəti anlamaq, tam
-
-anlamaq
+odğuratı @ qəti anlamaq, tam anlamaq
 
 oduğ @ oyanış
 
@@ -4664,7 +26,7 @@ odunmak @ oyanmaq(yuxudan), özünə gəlmək
 
 oduruğ @ ada
 
-oduz —— otuz
+oduz @ otuz
 
 oğan @ allah, tanrı
 
@@ -4674,25 +36,19 @@ oğlağu @ şəfqətli, zərif
 
 oğlak @ oğlaq, çəpiş, keçi balası
 
-oğlan @ 1. gənc adam; 2. oğlan
-
-(uşaq)
+oğlan @ 1. gənc adam; 2. oğlan (uşaq)
 
 oğincu @ uşaq kimi qavranılan
 
-oğrak @ möskən
+oğrak @ məskən
 
-oğramak 1. rastlaşdırmaq, qarşılamşaq, birləşmək, 2. arzu
-
-etmək, tərtib cimək, niyyət
-
-etmək
+oğramak @ 1. rastlaşdırmaq, qarşılamşaq, birləşmək, 2. arzu etmək, tərtib etmək, niyyət etmək
 
 oğrayu @ hələ
 
 oğrı @ oğru, quldar
 
-oğrin —— hiss, həvəs
+oğrın @ hiss, həvəs
 
 oğrınta @ uğrunda
 
@@ -4702,21 +58,19 @@ oğşamak @ oxşamaq
 
 oğul @ oğul
 
-oğulkiya @ 1. oğulciğaz, 2. uşaqcasına
+oğulkıya @ 1. oğulcığaz, 2. uşaqcasına
 
-oğulluğ @ oğullu, oğula aid, uşağa
-
-aid
+oğulluğ @ oğullu, oğula aid, uşağa aid
 
 oğulluk @ oğulluq, övladlıq
 
 oğur @ 1. zaman, vaxt; 2. səbəb, fürsət
 
-oğuramak @ niyyət etmək, istomək
+oğuramak @ niyyət etmək, istəmək
 
-oğurka  @ — onurğa, partiya
+oğurka  @ onurğa, partiya
 
-oğurlamak @  @  oğurlamaq, çalmaq
+oğurlamak @ oğurlamaq, çalmaq
 
 oğurluğ @ səbəbli
 
@@ -4736,15 +90,13 @@ oğuz @ ilk süd, ağız
 
 oğuzluğ @ ilk südlü, ağızlı
 
-ok @ 1, ox? 2, ədat
+ok @ 1, ox; 2, ədat
 
 okmak @ 1. oxumaq; 2. çağırmaq, davam etmək
 
-okitmak @ oxutmaq, ә2бәг
+okıtmak @ oxutmaq, əzbər söyləmək
 
-söyləmək
-
-okişmak @ biri-birini dovət etmək, biri-birini çağırmaq
+okışmak @ biri-birini dəvət etmək, biri-birini çağırmaq
 
 oklatmak @ paylaşmaq
 
@@ -4754,9 +106,9 @@ oksuz @ 1. oxsuz, 2. dəstəksiz
 
 okunç @ dəvət, çağırış
 
-okunçsızın @ dəvəlsiz, çağırılmadan
+okunçsızın @ dəvətsiz, çağırılmadan
 
-okuüs @ ilk süd, ağız
+okus @ ilk süd, ağız
 
 okusluğ @ ilk südlü, ağızlı
 
@@ -4770,25 +122,23 @@ okşatığsız @ oxşamayan, bönzəməyən, bənzəri olmayan, oxşarı olmayan
 
 okşatınç @ bənzər
 
-okşatınçsız @ bənzərsiz, bənzəri
-
-olmayan
+okşatınçsız @ bənzərsiz, bənzəri olmayan
 
 okşatmak @ oxşatmaq, bənzətmək
 
-о1— о
+оl @ о
 
-olar ——- onlar
+olar @ onlar
 
 olğurmak @ oturmaq, oturtmaq
 
 olğurtmak @ oturtmaq
 
-oltirik @ sütun
+oltırık @ sütun
 
 olturmak @ oturmaq
 
-ölür @ sap, gövdə
+olur @ sap, gövdə
 
 olurmak @ oturmaq
 
@@ -4796,7 +146,7 @@ olurtaçı @ oturası, oturan, oturacaq
 
 olursuk @ oturuş, oturma
 
-ölyük @ hadisə
+olyuk @ hadisə
 
 om @ ?
 
@@ -4806,41 +156,37 @@ ona @ bax, məhz
 
 onar @ ona
 
-oninç-. onuncu
+onınç @ onuncu
 
-önlük @ onluq
+onluk @ onluq
 
-onmak .. sağalmaq, şəfa tapmaq
+onmak @ sağalmaq, şəfa tapmaq
 
-опидс̧ @ önüncü
+onunç @ onuncu
 
-onçin @ xəstəlik ruhlar
+onçın @ xəstəlik ruhları
 
-on @ 1. sağ. 2. (çincə vazq-
-
-hökmdar) antroponim, şəxs adı
+on @ 1. sağ. 2. (çincə vaznhökmdar) antroponim, şəxs adı
 
 ona @ mətin, dəyanətli
 
 onalı @ bəlli, məlum, açıq
 
-onaltmak düzəltmək
+onaltmak @ düzəltmək
 
 onardğu @ asan, yüngül
 
 onardğumak @ asanlaşdırmaq, yüngülləşdirmək
 
-onarmak @ yaxşılaşdırmaq, yaxşı
+onarmak @ yaxşılaşdırmaq, yaxşı düzəltmək
 
-düzəltmək
-
-опаги @ sağa doğru
+onaru @ sağa doğru
 
 onay @ asan
 
 onun @ sağdan
 
-ondun  @ . sağdan
+ondun  @ sağdan
 
 onlium @ incil
 
@@ -4854,19 +200,17 @@ ooksuz @ 1. oxsuz, 2. dəktəksiz
 
 oot @ od, atəş, alov
 
-ootun @ sırtıq, hoyasız, utanmaz
+ootun @ sırtıq, həyasız, utanmaz
 
-ори @ çarx, burulğan, dolambac
+opu @ çarx, burulğan, dolambac
 
-or @ taxt (7); "qala" daha
-
-uyğundur.
+or @ taxt (?); "qala" daha uyğundur.
 
 ordu @ orda, saray, ordugah
 
 orğak @ oraq
 
-orin @ yer, mahal, məskən, taxt
+orın @ yer, mahal, məskən, taxt
 
 ormak @ qoymaq
 
@@ -4874,31 +218,27 @@ ornağ @ iqamətgah, taxt
 
 ornağlığ @ 1. sağlam, möhkəm, 2. taxtlı, iqamətgahlı
 
-ornağsız @ 1. 1ах1512, iqamətgahsız, 2. sağlam
+ornağsız @ 1. taxtsız, iqamətgahsız, 2. sağlam olmayan, xəstə, daimi olmayan
 
-olmayan, xəstə, daimi plmayan
-
-ornak -.. yer, mahal
+ornak @ yer, mahal
 
 ornanmak @ qanmaq, yerləşmək, sağlam olmaq
 
-ornaşmak @ yerləşmək, məskun
+ornaşmak @ yerləşmək, məskun olmaq
 
-olmaq
-
-огоһик @ balıq cinsinin adı
+оrоһtık @ balıq cinsinin adı
 
 orta @ orta
 
-örtü @ 1, orda, saray) 2. orta
+ortu @ 1, orda, saray; 2. orta
 
-örtük @ 1, ada, 2. orlaq
+ortuk @ 1, ada, 2. orlaq
 
-ortukliğ @ ortaqlı, ortaqlıq, döst
+ortuklığ @ ortaqlı, ortaqlıq, dost
 
-оггип @ олапса
+оrtun @ ortаnса
 
-orük @ yol, çarə, imkan
+oruk @ yol, çarə, imkan
 
 orun @ yer, mahal, məskən, taxt
 
@@ -4924,13 +264,13 @@ oskurdaçı @ xilaskar
 
 oskurmak @ qurtarmaq
 
-osküç @ qəssab şagirdi
+oskuç @ qəssab şagirdi
 
 osmak @ qurtulmaq, xilas olmaq, uzaqlaşmaq
 
 osuğ @ yol, üsul, tərz
 
-osuğluğ @ 1.... kimi, 2. yaradılmış, hazırlanmış, 3, üsullu
+osuğluğ @ 1.... kimi; 2. yaradılmış, hazırlanmış, 3, üsullu
 
 osulmak @ biçilmək
 
@@ -4940,17 +280,15 @@ oşadıkı @ gərəkli, lazımlı
 
 oşğançulamak @ aldatmaq
 
-оӱи @ о
+oşu @ o
 
-озиј @ о
+oşul @ о
 
 oşunluğ @ oxşar, bənzər
 
-ot @ od, atəş, ot, bitki, dərman
+ot @ od, atəş, ot, bitki, dərman bitkisi
 
-bitkisi
-
-ot çarə, vasitə, əlac
+ot @ çarə, vasitə, əlac
 
 otamak @ müalicə etmək
 
@@ -4962,7 +300,7 @@ otğurğah @ ortasındakı
 
 otlamak @ müalicə etmək, baxmaq
 
-otluğ @ odlu, atoşli
+otluğ @ odlu, atəşli
 
 ot öçüri @ atəş sönməsi
 
@@ -4970,9 +308,9 @@ orta @ orta
 
 otru @ ötrü
 
-otruğ @ ада
+otruğ @ аda
 
-otsuz @ 1, sağalmaz; 2. çarəsiz, əlacsız, Vasitosiz
+otsuz @ 1, sağalmaz; 2. çarəsiz, əlacsız, vasitəsiz
 
 otun @ sırtıq, həyasız, utanmaz
 
@@ -4980,17 +318,17 @@ otun @ odun
 
 oturuğ @ ada
 
-otuz @ oluz
+otuz @ otuz
 
-otuzar @ otuz-otluz
+otuzar @ otuz-otuz
 
-ot yəm @ dərman, ecza
+ot yəm @ dərman, əcza
 
-ot yığaç ot və ağac
+ot yığaç @ ot və ağac
 
-övüsüz @ tərbiyəsiz, utanmaz
+ovusuz @ tərbiyəsiz, utanmaz
 
-övut @ ədəb, əxlaq, həya
+ovut @ ədəb, əxlaq, həya
 
 ovutluğ @ həya, həyalı, əxlaqlı, utacaq, əxlaq
 
@@ -5004,29 +342,25 @@ oynamak @ oynamaq
 
 oyuğ @ 1. oyun, çalğı çalma, musiqi, rəqs; 2. oyuq
 
-öyün @ öyün
+oyun @ oyun
 
-oyunçi @ oöyünçü, çalğıçı
+oyunçı @ oyunçu, çalğıçı
 
 ozakı @ keçmiş
 
-ozalamak @ qaçmaq, qabağa
-
-keçmək, önə keçmək
+ozalamak @ qaçmaq, qabağa keçmək, önə keçmək
 
 ozğu @ xilas
 
-ozğuluğ  @ — qurtarası, qurtaracaq, xilas olma
+ozğuluğ  @ qurtarası, qurtaracaq, xilas olma
 
 ozğuluk @ qurtuluş, xilas olmaq, uzaqlaşmaq
 
-ozğurmak @ qurtarmaq, xilas
-
-olmaq
+ozğurmak @ qurtarmaq, xilas olmaq
 
 ozğu kurtulğu @ qurtulmuş olan, azad olan
 
-özmak @ qurhulmaq, xilas olmaq, uzaqlaşmaq
+ozmak @ qurtulmaq, xilas olmaq, uzaqlaşmaq
 
 ozkurmak @ qurtarmaq
 
@@ -5040,7 +374,7 @@ ozkurmak @ qurtarmaq
 
 öçlük @ kinli, xain ürəkli
 
-üçmək @ sönmək
+öçmək @ sönmək
 
 öçülmək @ məhv olmaq, bitmək
 
@@ -5056,9 +390,7 @@ ozkurmak @ qurtarmaq
 
 ödirək @ ördək
 
-ödki @ vaxtkı, vaxtda, zamanla
-
-əlaqədar
+ödki @ vaxtkı, vaxtda, zamanla əlaqədar
 
 ödkünmək @ ibrət götürmək
 
@@ -5066,21 +398,17 @@ ozkurmak @ qurtarmaq
 
 ödkürmək @ öyrətmək
 
-ödləmək @ nəsihət vermək, öyüd
+ödləmək @ nəsihət vermək, öyüd vermək
 
-vermək
-
-ödmək @ 1. çörək, taxıl, 2. keçib
-
-getmək, 3. xahiş etmək, diləmək, 4. kəskin olmaq, 5. qəbəlik olmaq
+ödmək @ 1. çörək, taxıl, 2. keçib getmək, 3. xahiş etmək, diləmək, 4. kəskin olmaq, 5. qəbəlik olmaq
 
 öd kolu @ zaman, dövr
 
 ödrülmək @ ayrılmaq, seçilmək, Torqlənmək
 
-ödsüz @ vaxİsiz, zamansız
+ödsüz @ vaxtsız, zamansız
 
-öd(üül @ öskürük
+öd(t)ül @ öskürük
 
 ödük @ öyüd
 
@@ -5090,7 +418,7 @@ getmək, 3. xahiş etmək, diləmək, 4. kəskin olmaq, 5. qəbəlik olmaq
 
 ödün @ vaxt, zaman
 
-ödürmək @ ayırmaq, seçmək, förqləndirmək
+ödürmək @ ayırmaq, seçmək, fərqləndirmək
 
 ödüş @ nəmli, yaş, rütubətli
 
@@ -5108,21 +436,19 @@ getmək, 3. xahiş etmək, diləmək, 4. kəskin olmaq, 5. qəbəlik olmaq
 
 ögdisiz @ tərifə layiq olmayan
 
-ögdü @ tərif, alqış, modh, öymə, təqdir
+ögdü @ tərif, alqış, mədh, öymə, təqdir
 
 ögdünki @ öndəki
 
 ögdüş @ paz
 
-ögə @ 1, müdrik, bilici, aqil, ağıl
-
-verən, tərbiyə verən; 2. nazir, vəkil, həkim; 3. şöhrət
+ögə @ 1, müdrik, bilici, aqil, ağıl verən, tərbiyə verən; 2. nazir, vəkil, həkim; 3. şöhrət
 
 Ögdəy @ antroponim, kişi adı
 
-ögək sevimli, can atan, düşündürən, dilbər
+ögək @ sevimli, can atan, düşündürən, dilbər
 
-ögəon  @  @ 1 dərə, 2. çay
+ögən @ 1 dərə, 2. çay
 
 ögərətik @ iəlim, tərbiyə, öyrətmə
 
@@ -5134,15 +460,13 @@ verən, tərbiyə verən; 2. nazir, vəkil, həkim; 3. şöhrət
 
 ögirtürmək @ sevindirmək
 
-ögitmək —1. öymək, tərifləmək, mədh etmək, 2. böyütmək, çoxaltmaq, artırmaq
+ögitmək @ 1. öymək, tərifləmək, mədh etmək, 2. böyütmək, çoxaltmaq, artırmaq
 
 ögləmək @ nəsihət vermək
 
 ögləndürmək @ nəsihət verilmək, ağlını başına toplamaq
 
-öglənmək @ ağıllanmaq, ağlını
-
-başma yığmaq
+öglənmək @ ağıllanmaq, ağlını başma yığmaq
 
 ögləntürmək @ nəosihəl vermək, ağlını başına yığmaq
 
@@ -5166,33 +490,27 @@ başma yığmaq
 
 ögrətig @ adət, təlim, bilik, alışma
 
-ögrətinmək @ öyrədilmək, tolim
+ögrətinmək @ öyrədilmək, təlim verilmək, təlim görmək
 
-verilmək, təlim görmək
-
-ögrətmək @ öyrətmək, təlim
-
-vermək
+ögrətmək @ öyrətmək, təlim vermək
 
 ögri @ vaxt, zaman
 
 ögrinçlig @ sevincli
 
-ögrünç -.- 1. sevinc; 2. antroponim, şəxs adı
+ögrünç @ 1. sevinc; 2. antroponim, şəxs adı
 
-ögrünçü @ sevincli, forəohli
+ögrünçü @ sevincli, fərəhli
 
 ögrünçüləgülüg @ sevinməli, əylənməli
 
 ögrünçüləmək @ sevinmək, əylənmək, şadlanmaq, fərəhlənmək
 
-ögrnünçülənmək @ sevinmək, əylənmək, şadlanmaq, forəhlənmək
+ögrnünçülənmək @ sevinmək, əylənmək, şadlanmaq, fərəhlənmək
 
-ögrünçülüg @ sevincli, forəhli
+ögrünçülüg @ sevincli, fərəhli
 
-ögrünçüligin @ sevinclə, sevinə-
-
-sevinə, fərəhlə
+ögrünçüligin @ sevinclə, sevinə-sevinə, fərəhlə
 
 ögsirəmək @ ağlını itirmək
 
@@ -5212,17 +530,13 @@ sevinə, fərəhlə
 
 ögünç @ sevic, fəoroh, nəşə
 
-ögür —. ilxı, sürü
+ögür @ ilxı, sürü
 
-ögürmək @ öyünmək, özünü
-
-öymək, qürrələnmək
+ögürmək @ öyünmək, özünü öymək, qürrələnmək
 
 ögüt @ öyüd, nəsihət
 
-ögütmək @ öymək, nəsihət
-
-vermək, öyüd vermək
+ögütmək @ öymək, nəsihət vermək, öyüd vermək
 
 ögüç @ anacıq
 
@@ -5232,7 +546,7 @@ vermək, öyüd vermək
 
 ökimək @ artmaq, böyümək, yüksəlmək
 
-ökləmək @ arimaq, çoxalmaq
+ökləmək @ artmaq, çoxalmaq
 
 ökmək @ öymək, tərifləmək, alqışlamaq
 
@@ -5256,7 +570,7 @@ vermək, öyüd vermək
 
 öküş  @ . çox
 
-öküşti  @ — bolluca, çoxluca, sıx-sıx
+öküşti  @ bolluca, çoxluca, sıx-sıx
 
 öküz @ öküz
 
@@ -5264,17 +578,13 @@ vermək, öyüd vermək
 
 ölən @ rütubətli yer, bataqlıq arası
 
-ölənlik @ otlaq, çomənlik
+ölənlik @ otlaq, çəmənlik
 
-ölgünlük @ can, çəkişən, can
-
-verən, ölüm ayağında olan
+ölgünlük @ can, çəkişən, can verən, ölüm ayağında olan
 
 ölmək @ ölmək
 
-ölmək əmgək @ ölüm, can
-
-çəkişmə (hərfən; ölmək ozabı)
+ölmək əmgək @ ölüm, can çəkişmə (hərfən; ölmək əzabı)
 
 ölməklig @ ölümlü, fani
 
@@ -5294,7 +604,7 @@ verən, ölüm ayağında olan
 
 ölürtmək @ öldürtmək
 
-ölüt @ öldürmə, qətl cünə
+ölüt @ öldürmə, qətl etmə
 
 ölütçi @ qatil, qanlı
 
@@ -5302,35 +612,27 @@ verən, ölüm ayağında olan
 
 öm @ alt paltar
 
-ömək @ xaltırlmıaq, düşünmək
+ömək @ xatırlamıaq, düşünmək
 
 ömək @ 1. xərçəng (xəstəlik); 2, sağalmaz dəri xastəliyi
 
 ömgəkləmək @ iməkləmək, sürünmək
 
-ömgən @ boğaz arteriyası, boyun
+ömgən @ boğaz arteriyası, boyun arteriyası
 
-arteriyası
+öndürmək @ böyütmək, yoluna qoymaq, alınacaqları toplamaq
 
-öndürmək @ böyütmək, yoluna
-
-qoymaq, alınacaqları toplamaq
-
-önəmək @  @  yüksəlmək
+önəmək @ yüksəlmək
 
 öngü @ bala, dayça
 
-önlamək @ inkişaf etmək, irəli
-
-getmək
+önləmək @ inkişaf etmək, irəli getmək
 
 önlük @ uca
 
 önmək @ çıxmaq, qalxmaq, yüksəlmək, yaymaq, törəmək, ucalmaq
 
-önmən @ sağalmaz bir dəri
-
-xəstəliyi
+önmən @ sağalmaz bir dəri xəstəliyi
 
 öntürmək @ göndərmək, uzaqlaşdırmaq
 
@@ -5342,7 +644,7 @@ xəstəliyi
 
 önüşlüg @ yüksəlişli, qalxılacaq, çıxrlacaq
 
-ün @ 1. rəng) 2. ön tərif, ön, şərqə qarşı
+ön @ 1. rəng; 2. ön tərəf, ön, şərqə qarşı
 
 önədəmək @ 1. dəyişmək, 2. yaxşılaşmaq, sağalmaq
 
@@ -5358,13 +660,11 @@ xəstəliyi
 
 öni @ artıq, fərqli, hər növ
 
-öni-öni @ 1. növ-növ, 2. parça-
-
-parça
+öni-öni @ 1. növ-növ, 2. parça-parça
 
 önişük @ fərqlənən (?)
 
-önlüg @ rongli
+önlüg @ rəngli
 
 önlük @ üz, çöhrə, sifət, sima
 
@@ -5378,13 +678,13 @@ parça
 
 önü @ əvvəlki, qabaqkı
 
-önüç @ boğaz, xiridək, qırtlaq
+önüç @ boğaz, xirtdək, qırtlaq
 
 önüki @ başqa
 
-öp @ дә
+öp @ də
 
-öpəlmək @ yanmaq, alevlanmaq, parlamaq
+öpəlmək @ yanmaq, alovlanmaq, parlamaq
 
 öpgü @ öpüş
 
@@ -5392,27 +692,25 @@ parça
 
 öpkə @ 1. kin, qəzəb; 2. ciyər
 
-öpkəçi  @ qəzəbli, kmli, hirsli
+öpkəçi  @ qəzəbli, kinli, hirsli
 
-öpüksəmək @ öpmək istomək
+öpüksəmək @ öpmək istəmək
 
 öpünmək @ hücum etmək
 
-öpüp  @ —- hop-hop quşu (əslində
-
-"Göp-öp" olmalıdır)
+öpüp  @ hop-hop quşu (əslində "öp-öp" olmalıdır)
 
 ördünmək @ örtünmək
 
 öri @ yüksək, vacib, ləyaqətli
 
-öritməgü @ bösləmə
+öritməgü @ bəsləmə
 
 öritməgüçi @ bəsləyən (adam)
 
 öritmək @ yüksəltmək, bəsləmək
 
-örgin @ daxt
+örgin @ taxt
 
 örgün @ taxt
 
@@ -5420,11 +718,11 @@ parça
 
 örki @ uca, yüksək, ali
 
-örlədmək  @ . incitmək, hiddətləndirmək, əsəbiləşdirmək
+örlədmək @ incitmək, hiddətləndirmək, əsəbiləşdirmək
 
-örləmək— 1. hiddətləndirmək, qəzəbləndirmək, gurlamaq; 2. yüksəlmək
+örləmək @ 1. hiddətləndirmək, qəzəbləndirmək, gurlamaq; 2. yüksəlmək
 
-örləfişmək @ qızışmaq
+örlətişmək @ qızışmaq
 
 örlətmək @ hiddətləndirmək, qəzəbləndirmək, incitmək
 
@@ -5440,7 +738,7 @@ parça
 
 örtən @ alov, yanğın
 
-örtənmək  @ — 1. alovlandırmaq, yandırmaq, qovurmaq; 2. kədərlənmək
+örtənmək  @ 1. alovlandırmaq, yandırmaq, qovurmaq; 2. kədərlənmək
 
 örtgü @ örtü, örtük
 
@@ -5468,7 +766,7 @@ parça
 
 örtüntəgsiz @ əlacsız
 
-örtürmək  @ . sürdürmək, yüksəltmək
+örtürmək  @ sürdürmək, yüksəltmək
 
 örü @ yuxarı, dik, yoxuş
 
@@ -5484,35 +782,33 @@ parça
 
 örüş @ yüksəliş, qalxma, yüksəlmə, çıxış
 
-0S @  ÖZ
+ös @ öz
 
 ösən @ iç, özək
 
-ӧзәк şişirtmək
+ӧsmək @ şişirtmək
 
 ösürmək @ qabartmaq, şişirtmək
 
-üşə @ qüsur
+öşə @ qüsur
 
 öşəlig @ qüsurlu
 
 öşəliksiz @ qüsursuz
 
-бы @ 1. öyüd, nəsihət, 2. öd
+öt @ 1. öyüd, nəsihət, 2. öd
 
 ötəg @ borc
 
-ötəgləmək bir iş görmək
+ötəgləmək @ bir iş görmək
 
 ötəgçi @ borclu
 
-ötək @ börc
+ötək @ borc
 
-ötəkşi  @ . borçlu
+ötəkşi @ borçlu
 
-ötəmək @ 1. ödəmək (borcu), 2. müraciət etmək, 3. nəşət
-
-etmək, çıxmaq
+ötəmək @ 1. ödəmək (borcu), 2. müraciət etmək, 3. nəşət etmək, çıxmaq
 
 ötkürmək @ işləmək
 
@@ -5524,7 +820,7 @@ etmək, çıxmaq
 
 ötgün @ ölgün, ötmüş, keçmiş
 
-ötgürmək- nüluz etmək, uğurlamaq
+ötgürmək @ nüfuz etmək, uğurlamaq
 
 ötgürü @ sonra, dolayısı ilə
 
@@ -5536,31 +832,21 @@ etmək, çıxmaq
 
 ötkürünçsiz @ nüfuzsuz
 
-ötləmək @ öyüd vermək, nəsihət
+ötləmək @ öyüd vermək, nəsihət vermək
 
-vermək
-
-ötmək @  @  1, çörək, taxıl, 2. ötmək, keçib getmək; 3. xahiş etmək, diləmək, 4. kəskin olmaq; 5.
-
-qəbəlik olmaq
+ötmək @  @  1, çörək, taxıl, 2. ötmək, keçib getmək; 3. xahiş etmək, diləmək, 4. kəskin olmaq; 5. qəbəlik olmaq
 
 ötmiş @ qurban, qurbanlıq
 
-ötrü @ ötrü, üçün, görə, sonra, o
+ötrü @ ötrü, üçün, görə, sonra, o zaman
 
-zaman
-
-öttrü @ ötrü, üçün, görə, sonra, o
-
-zaman
+öttrü @ ötrü, üçün, görə, sonra, o zaman
 
 ötüg @ qısaboğaz çəkmə, ayaqqabı
 
 ötüg @ 1. dilək, dua, sual; 2. ayaqqabı
 
-ötügçi @ xahişçi, diləkçi, xahiş
-
-edən
+ötügçi @ xahişçi, diləkçi, xahiş edən
 
 ötün @ aciz
 
@@ -5568,9 +854,7 @@ edən
 
 ötürmək @ ayırmaq, seçmək, fərqləndirmək
 
-ötürü @ ötrü, üçün, görə, sonra, o
-
-zaman
+ötürü @ ötrü, üçün, görə, sonra, o zaman
 
 ötürük @ ishal, 
 
@@ -5582,15 +866,15 @@ zaman
 
 övgəlik @ qəzəbli, hiddətli
 
-övkəsiz  @ — kinsiz, qəzəbsiz
+övkəsiz  @ kinsiz, qəzəbsiz
 
-övkəçi  @ —- qəzəblənən, hiddətlənən
+övkəçi  @ qəzəblənən, hiddətlənən
 
-övkiləmək qəzəblənmək, hiddətlənmək
+övkiləmək @ qəzəblənmək, hiddətlənmək
 
-Üy @ ev
+öy @ ev
 
-öymək fikirləşmək
+öymək @ fikirləşmək
 
 üyür @ darı
 
@@ -5604,25 +888,19 @@ zaman
 
 özəki @ fövqəladə, üstün
 
-özələmək @ yüksəlmək, yuxarı
-
-qalxmaq, üsto çıxmaq
+özələmək @ yüksəlmək, yuxarı qalxmaq, üsto çıxmaq
 
 özələnmək @ yüksəlmək
 
 özəlik @ yüksəklik
 
-özəliksiz @ alçaq, yüksək
-
-olmayan, üstün olmayan
+özəliksiz @ alçaq, yüksək olmayan, üstün olmayan
 
 özən @ 1. tam orta, ən içəri, 2. ilk, öz
 
-öz konük @ ruh
+öz konuk @ ruh
 
-özirkənmək @ xahiş etmək, geri
-
-gətirilmək
+özirkənmək @ xahiş etmək, geri gətirilmək
 
 özlük @ canlı
 
@@ -5632,7 +910,7 @@ gətirilmək
 
 özüm @ özüm
 
-özüt ruh, can
+özüt @ ruh, can
 
 pa @ qırmaq; parçalamaq
 
@@ -5648,9 +926,7 @@ pakır @ bağır
 
 paksi @ ustad, alim
 
-pançaki @ pançaki (nə isə rütbə
-
-adıdır)
+pançaki @ pançaki (nə isə rütbə adıdır)
 
 pançanti @ dini mərasim adıdır
 
@@ -5720,7 +996,7 @@ pratikabut @ pratyekabudha
 
 pret @ şeytan
 
-рпапы @ bitki adı
+рnаnы @ bitki adı
 
 prişti @ mələk
 
@@ -5732,7 +1008,7 @@ prnadaşunu @ bir cür oturmaq
 
 tərzidir
 
-ргуар /ргауар/ @ 1. çilə yeri, çilogah, 2. hücrə
+рrуар /рrауар/ @ 1. çilə yeri, çilogah, 2. hücrə
 
 psak @ çələng
 
@@ -5912,9 +1188,7 @@ sakınğu @ təfəkkür, fikir, düşüncə, düşünmə
 
 sakınmak @ düşünmək
 
-Sakırtağam @ Sakırtağam (nə isə
-
-addır)
+Sakırtağam @ Sakırtağam (nə isə addır)
 
 sakış @ düşüncə, maddə, qayğı, hesab
 
@@ -6172,9 +1446,7 @@ səm @ boş, kimsəsiz,
 
 səmək @ meşə, orman
 
-səməkləmək @ yas mərasimi
-
-düzəltmək
+səməkləmək @ yas mərasimi düzəltmək
 
 səmiz @ kök
 
@@ -6316,9 +1588,7 @@ sımtalmak @ getmək, tərk etmək
 
 sın @ 1. məzar, 2. vücud, üzv
 
-sınamak @ sınamaq, tocrübə
-
-etmək
+sınamak @ sınamaq, tocrübə etmək
 
 sınaşmak @ biri-birini sınamaq
 
@@ -6510,9 +1780,7 @@ soğıtmak @ soyutmaq
 
 soğurmak @ әМә etmok, sovurmaq
 
-soğuşmak @ vuruşmaq, döyüş-
-
-mək, çarpışmaq
+soğuşmak @ vuruşmaq, döyüş- mək, çarpışmaq
 
 sok @ həsəd aparan, qısqanc
 
@@ -6526,15 +1794,11 @@ soklunmak @ korlaşmaq, kor
 
 olmaq
 
-sokmak @  @  soxmaq, döymək, əz-
-
-mək, dəlmək, deşmək, basmaq, didmək
+sokmak @  @  soxmaq, döymək, əz- mək, dəlmək, deşmək, basmaq, didmək
 
 sokunmak @ kəsmək
 
-sokuşmak @ 1. saplamaq, tutuş-
-
-maq; 2. vuruşmaq, rastlaşmaq, qarşılamaq
+sokuşmak @ 1. saplamaq, tutuş- maq; 2. vuruşmaq, rastlaşmaq, qarşılamaq
 
 sol @ sol, şərq
 
@@ -6632,17 +1896,13 @@ sönmək @ sönmək. özündən
 
 getmək
 
-söntürmək @ söndürmək, bir yana
-
-atmaq
+söntürmək @ söndürmək, bir yana atmaq
 
 sönük @ sönük, qüvvədən düşmək
 
 söz @ söz, əmr, buyuruq
 
-sözləgülüg @ söyləniləsi, söylən-
-
-məli .
+sözləgülüg @ söyləniləsi, söylən- məli .
 
 sözləmək @ söyləmək
 
@@ -6650,9 +1910,7 @@ sözləməsik @ söylənən pis sözlər
 
 sözlətilmək @ söylədilmək, danışdırılmaq
 
-sözləşmək @ danışmaq, söhbət
-
-etmək, məsləhətləşmək
+sözləşmək @ danışmaq, söhbət etmək, məsləhətləşmək
 
 sözlüg @ sözlü
 
@@ -6662,7 +1920,7 @@ stir @ sikkə növü
 
 stup —— 7
 
-50 —5П
+50 —5n
 
 suburğan @ qəbiristanlıq
 
@@ -6764,9 +2022,7 @@ suvluğ @ sulu
 
 suvlük @ su qabı, səhung
 
-suvsalık @ susama, əyyaş, içki
-
-düşgünü
+suvsalık @ susama, əyyaş, içki düşgünü
 
 suvsamak @ 1 susamaq, susuz-
 
@@ -6784,9 +2040,7 @@ suy @ günah, qəbahət, suç
 
 suyluğ @ günahkar, qəbahətli, suçlu
 
-suyurkamak @ acımaq, mərhəmət
-
-etmək
+suyurkamak @ acımaq, mərhəmət etmək
 
 suvunluk @ parlaqlıq
 
@@ -6894,9 +2148,7 @@ lənmək
 
 şadu @ nərdivan
 
-şahbuhçğan @ Maninin
-
-əsərlərindən birinin adı
+şahbuhçğan @ Maninin əsərlərindən birinin adı
 
 şaki @ qəbilə adıdır
 
@@ -6976,9 +2228,7 @@ itirmək
 
 şirir @ din əlaməti
 
-şiriş @ akasiyaya bənzər ağac
-
-adıdır
+şiriş @ akasiyaya bənzər ağac adıdır
 
 şiş @ şiş, ur, qabarıq
 
@@ -7034,9 +2284,7 @@ tabığsak @ səylə çalışan
 
 tabılku @ bitki adı
 
-tabınmak @ tapınmaq, pənah
-
-aparmaq
+tabınmak @ tapınmaq, pənah aparmaq
 
 tablamak @ tapmaq, xidmət
 
@@ -7050,7 +2298,7 @@ tabranmak @ davranmaq, tələsmək
 
 İaç @ Хас
 
-Садиг @ dana
+Садиr @ dana
 
 tağ @ 1, dağ, sıra dağ, dağ silsiləsi, 2, şimal
 
@@ -7064,7 +2312,7 @@ tağlurmak @ mahnı oxumaq
 
 tağsut —— şer
 
-гады @ toyuq
+rады @ toyuq
 
 tağun @ yaltaqlıq, riya
 
@@ -7110,9 +2358,7 @@ takşut @ şer, nəzm, beyt, mənzumə
 
 takunlamak @ yaltaqlıq etmək
 
-tal @ 1. dal, 2. dalaq; 3. böyük bir
-
-ağac, 4. söyüd ağacı
+tal @ 1. dal, 2. dalaq; 3. böyük bir ağac, 4. söyüd ağacı
 
 talamak @ talan etmək, yağmalamaq, çapmaq
 
@@ -7162,9 +2408,7 @@ tamğalamak @ damğalamaq, möhürləmək
 
 tamğak @ damaq
 
-tamğan @ bir dövlət məmuru
-
-dərəcəsidir
+tamğan @ bir dövlət məmuru dərəcəsidir
 
 tamir @ damar
 
@@ -7214,9 +2458,7 @@ olmaq, şəhadət vermək
 
 tan @ 1. dan, şəfəq, sabah, dan
 
-yeri, 2, ölçü vahidi, 3. dadlı, ləziz, ləzzətli, xoş, nəfis, 4. şaş-
-
-ma, təəssüf, heyrət, 5. xol
+yeri, 2, ölçü vahidi, 3. dadlı, ləziz, ləzzətli, xoş, nəfis, 4. şaş- ma, təəssüf, heyrət, 5. xol
 
 tanağ @ qorxu, sixınti, zor
 
@@ -7236,9 +2478,7 @@ tanlaçığ @ əcayib, heyrətamiz, xariqə
 
 tanlaçık; @ əcayib, heyrətli, heyrətamiz, xariqo, xariqüladə
 
-tanlamaq @ 1. şaşmaq, şaşırmaq, heyrət etmək, təəssüf etmək, 2. şəfəq sökülmək, səhər
-
-açılmaq, 3. sıxılmaq. qorxmaq
+tanlamaq @ 1. şaşmaq, şaşırmaq, heyrət etmək, təəssüf etmək, 2. şəfəq sökülmək, səhər açılmaq, 3. sıxılmaq. qorxmaq
 
 tanmak @ sarmaq
 
@@ -7262,9 +2502,7 @@ tapan @ səkkiz istilikli
 
 cəhənnəmdən altıncısı
 
-tapavan @ 1. zahid, tərki-dünya, guşənişin, 2. zahidlik, torki-
-
-dünyalıq
+tapavan @ 1. zahid, tərki-dünya, guşənişin, 2. zahidlik, torki- dünyalıq
 
 tapığ @ tapma, tapınma, pərəstiş, hörmət
 
@@ -7282,9 +2520,7 @@ tapındurmak @ tapdırmaq
 
 tapınğu @ ftapılası, tapılmalı, tapılacaq
 
-tapınmak @ tapınmaq, pərəstiş
-
-etmək, hörmət etmək
+tapınmak @ tapınmaq, pərəstiş etmək, hörmət etmək
 
 tapışğuluğ @ rastlaşan, qarşılaşan
 
@@ -7302,9 +2538,7 @@ taplamak @ tapmaq, təqdir etmək, haqq vermək; 2. bəyənmək, xoşlamaq
 
 taplığ @ sevimli
 
-tapmak @ 1. tapmaq, pərəsliş
-
-etmək, 2. əldə etmək
+tapmak @ 1. tapmaq, pərəsliş etmək, 2. əldə etmək
 
 tapsız @ arzusuz, istəksiz
 
@@ -7340,9 +2574,7 @@ tarığlığ @ tarla
 
 tarığlığ @ əkmək
 
-tarım @ qadınlara məxsus ictimai
-
-dərəcə
+tarım @ qadınlara məxsus ictimai dərəcə
 
 tarıkarmak @ uzaqlaşdırmaq, sıxışdırmaq, darğıtmaq
 
@@ -7414,9 +2646,7 @@ tasıkmak @ daşmaq, bayıra
 
 çıxmaq, sərhədi aşmaq
 
-tasılmak @ bayıra çıxmaq, sərhədi
-
-aşmaq
+tasılmak @ bayıra çıxmaq, sərhədi aşmaq
 
 taskaru @ dışarı, bayıra
 
@@ -7508,9 +2738,7 @@ tavrama @ tələsmək
 
 tavranmak @ davranmaq, tələsmək, davranış
 
-tavratğuçi @ təşviqalçı, toşviq
-
-edən
+tavratğuçi @ təşviqalçı, toşviq edən
 
 tavratı @ töləsik
 
@@ -7600,9 +2828,7 @@ təgərə @ dairə, haqqında
 
 təgi @ 1. əqrəba, qohum, 2. təki, qədər
 
-təgilmək @ 1. kor olmaq, kor
-
-edilmək, 2. qamaşdırılmaq, toxunulmaq
+təgilmək @ 1. kor olmaq, kor edilmək, 2. qamaşdırılmaq, toxunulmaq
 
 təgim @ sıra, müddət
 
@@ -7622,9 +2848,7 @@ təginmək @ 1. düçar olmaq, 2. yaxmmlaşmaq, çatmaq; 3. sey
 
 göstərmək, 4. hiss etmək, 5. bəyənmək, razılaşmaq
 
-təginmiş @ ziyarətçi, ariz, xahiş
-
-edən
+təginmiş @ ziyarətçi, ariz, xahiş edən
 
 təgintəçi @ səfil, sərkərdan
 
@@ -7668,9 +2892,7 @@ təgşilməksiz @ dəyişməz, dəyişilməyən
 
 təgşülmək @ dəyişdirmək
 
-” təgşürmək @ çatdırmaq, sövq
-
-etmək, gətirmək
+” təgşürmək @ çatdırmaq, sövq etmək, gətirmək
 
 təgşürüşmək @ dəyişdirilmək
 
@@ -7716,9 +2938,7 @@ təksinmək @ dönmək, dolaşmaq, dairə cızmaq
 
 təksinç @ 1. başlıq, fəsil, dairə, mühit, dövr, 2. dalğa
 
-təkşürmək @ gətirmək, sövq
-
-etmək, çatmaq
+təkşürmək @ gətirmək, sövq etmək, çatmaq
 
 təkzin @ pambıq döşək
 
@@ -7806,9 +3026,7 @@ tərkin @ cəld, sürətlə
 
 tərkiş @ dava, müharibə
 
-tərkişləmək @ qazmaq, davam
-
-emək, qəzəblənmək, hiddətlənmək
+tərkişləmək @ qazmaq, davam emək, qəzəblənmək, hiddətlənmək
 
 tərkləmək @ xarab etmək, korlanmaq
 
@@ -7888,13 +3106,9 @@ tidilişmaq @ mane olmaq
 
 tidilmiş @ qadağan edilmiş
 
-tidinmak @ manc olmaq, qadağan
+tidinmak @ manc olmaq, qadağan etdirmək
 
-etdirmək
-
-tidmak @ mane olmaq, qadağan
-
-etmək
+tidmak @ mane olmaq, qadağan etmək
 
 tidulmak @ qadağan edilmək
 
@@ -7912,9 +3126,7 @@ tiıkmak @ tixmaq, tixamaq
 
 til @ dil
 
-tlanqurmak @ natiq olmaq, gözəl
-
-danışmaq
+tlanqurmak @ natiq olmaq, gözəl danışmaq
 
 tiltağ @ səbəb, zərurət
 
@@ -7930,15 +3142,13 @@ olmaq
 
 tiltanmak @ səbəb olmaq
 
-tin @ сап, гаһ, пәҝоз, maddə, cövhər
+tin @ саn, rаһ, nәҝоз, maddə, cövhər
 
 tinçan @ lampa, şam, qəndil
 
 tinçi; @ xəbərçi
 
-tinliğ @ canlı, ruhlu, insan,yaranmış, məxluq, xəlq
-
-edilmiş
+tinliğ @ canlı, ruhlu, insan,yaranmış, məxluq, xəlq edilmiş
 
 tnliğsiz @ cansız, kimsəsiz
 
@@ -7954,9 +3164,7 @@ tmturulmak @ canlandırılmış, Əhya edilmiş
 
 tin, @ səda, səs pördasi , ton
 
-tinlamak @ dinləmək, qulaq
-
-asmaq
+tinlamak @ dinləmək, qulaq asmaq
 
 tinrağ @ pəncə, dimaq
 
@@ -7974,21 +3182,15 @@ titiğsiz @ əngəlsiz, mancəsiz, hüdudsuz
 
 titilmak @ qadağan edilmək
 
-trtinmak @ mane olmaq, qadağan
+trtinmak @ mane olmaq, qadağan etdirmək
 
-etdirmək
-
-titmak @ 1. mane olmaq, qadağan
-
-etmək; 2. uzaqlaşdırmaq
+titmak @ 1. mane olmaq, qadağan etmək; 2. uzaqlaşdırmaq
 
 Titsi @ tələbə, şagird
 
 tivar @ davar, mal
 
-tidinmək @ cəsarət etmək, cürət
-
-etmək
+tidinmək @ cəsarət etmək, cürət etmək
 
 fidmək @ 1. bağışlamaq, vermək; 2. adlandırılmaq, dəyərləndi-
 
@@ -8252,9 +3454,7 @@ toğun @ varlıq
 
 toğurğuluk @ doğurma, doğuş
 
-toğurmak @ 1. doğurmaq; 2.
-
-adlamaq, irəliləmək,təcavüz
+toğurmak @ 1. doğurmaq; 2. adlamaq, irəliləmək,təcavüz
 
 toğut @ günəşin doğması
 
@@ -8266,9 +3466,7 @@ toxum @ doğum
 
 toxurmak @ doğurmaq, atlamaq, iroliləmək
 
-toi @ 1. şəhər, qərargalı, 2.
-
-əyləncə, ziyafət, toy, düyün
+toi @ 1. şəhər, qərargalı, 2. əyləncə, ziyafət, toy, düyün
 
 tok @ tox
 
@@ -8304,13 +3502,9 @@ tokri @ tokarca, toxar dilində
 
 toku @ qanın, mərasim, adət, ənənə
 
-tokuliğ @ qanuni, nizami, ən-
+tokuliğ @ qanuni, nizami, ən- ənəvi
 
-ənəvi
-
-tokuluğ @ qanuni, nizami, ən-
-
-ənəvi
+tokuluğ @ qanuni, nizami, ən- ənəvi
 
 tokum @ doğum, doğuş
 
@@ -8326,9 +3520,7 @@ tolğanmak @ 1. incimək, narahaf
 
 olmaq, 2. dönmək
 
-tolğatmak @ incitmək, narahat
-
-etmək, əziyyət vermək, iztirab
+tolğatmak @ incitmək, narahat etmək, əziyyət vermək, iztirab
 
 vermək
 
@@ -8372,17 +3564,13 @@ tomludu @ doğru, dürüst
 
 tomluğ @ qaş-qabağı sallamaq
 
-tomurmak @ ( £az sözü ilə) qan
-
-axmaq
+tomurmak @ ( £az sözü ilə) qan axmaq
 
 ton @ don, paltar, geyim
 
 tonağu @ don, paltar, geyim
 
-tonamak @ geyindirmək, paltar
-
-almaq
+tonamak @ geyindirmək, paltar almaq
 
 tonanğu @ don, paltar, geyim
 
@@ -8438,9 +3626,7 @@ torpak @ torpaq
 
 tor @ tor, balıq toru, ov toru
 
-torçi @ törçü, ovu tor vasitəsilə
-
-edən
+torçi @ törçü, ovu tor vasitəsilə edən
 
 toriğ @ şərq
 
@@ -8458,9 +3644,7 @@ torulturmak @ duruldurmaq, süzdürmək
 
 toruş —qovğa, dalaşma; nizə
 
-tosğurmak @ yox etmək, məhv
-
-etmək, aradan qaldırmaq
+tosğurmak @ yox etmək, məhv etmək, aradan qaldırmaq
 
 tosku @ mancə, əngəl
 
@@ -8672,9 +3856,7 @@ tudmak @ tutmaq
 
 tudruğ @ əmanət, saxlanılan şey
 
-tudulturmak @ tutulmaq, həbs
-
-etdirilmək
+tudulturmak @ tutulmaq, həbs etdirilmək
 
 tudunç @ həya, abır, utancaqlıq
 
@@ -8794,9 +3976,7 @@ turkurmak @ durdurmaq, durğuzmaq
 
 turma @ turp
 
-turmak @ durmaq, qalxma, ayağa
-
-durmaq
+turmak @ durmaq, qalxma, ayağa durmaq
 
 turpi @ dana
 
@@ -8874,23 +4054,15 @@ tutsukmak @ həbs edilmək
 
 tutuğ —-rohn
 
-tutuzmak @ həvalə etmək, toslim
+tutuzmak @ həvalə etmək, toslim etmək
 
-etmək
+tutuk @ 1. vali, işğal edilmiş ərazini idarə edən, 2. tutulmuş, saxlanmış (nə isə)
 
-tutuk @ 1. vali, işğal edilmiş
-
-ərazini idarə edən, 2. tutulmuş, saxlanmış (nə isə)
-
-tutukluğ  @ . baş komandan, ali
-
-sərkərdə
+tutukluğ  @ . baş komandan, ali sərkərdə
 
 tutulmak @ tutulmaq
 
-tutulturmak @ tutdurulmaq, həbs
-
-etdirilmək
+tutulturmak @ tutdurulmaq, həbs etdirilmək
 
 tutun @ tutum
 
@@ -8920,9 +4092,7 @@ tuyuğ @ duyğu, hiss
 
 tuyuğsuz @ duyğusuz, hissiz
 
-tuyuzmak @ duydurmaq, hiss
-
-etdirmək, anlatmaq
+tuyuzmak @ duydurmaq, hiss etdirmək, anlatmaq
 
 tuyun @ duyğu, hiss
 
@@ -8974,9 +4144,7 @@ tügünlüg @ düyünlü
 
 tük @ 1. tük, saç; 2. yun; 3. on min
 
-tükədi @ 1. tamamilə, 2. tükə-
-
-nincə, bitənədək
+tükədi @ 1. tamamilə, 2. tükənincə, bitənədək
 
 tükədinç @ sonlu, sonu olan, nəhayət
 
@@ -9036,19 +4204,14 @@ tünərig @ zülmət, qaranlıq
 
 tünərmək @ qaranlıqlaşmaq
 
-tünlə @ gecələ, gecə ilə, gecə
-
-vaxtı
+tünlə @ gecələ, gecə ilə, gecə vaxtı
 
 tünləki @ qaranlıq
 
 tünlük @ pəncərə
 
-tünür @ 1. qohum olmaq (qız
-
-verib, qız almaq), 2. şaman
-
-təbili
+tünür @ 1. qohum olmaq (qız verib, qız almaq), 2. şaman təbili
+tünür @ 1. qohum olmaq (qız verib, qız almaq), 2. şaman təbili
 
 tüp @ dib, əsas, təməl, özül, zomin, kök, son
 
@@ -9062,9 +4225,7 @@ tüpsüz @ dibsiz, köksüz, əsassız, toməlsiz
 
 tüpük @ əsas
 
-türçimək @ qurulmaq, tə sis
-
-etmək, təşkil etmək
+türçimək @ qurulmaq, tə sis etmək, təşkil etmək
 
 türçiməksiz @ törəmədən
 
@@ -9080,9 +4241,7 @@ türklüg @ güclü, qüvvətli
 
 türgin @ dəfə, yol, kərə
 
-türgiş @ türgiş, etnonim, qəbilə
-
-adı
+türgiş @ türgiş, etnonim, qəbilə adı
 
 türlüg @ çeşidli, növlü, cinsli, dürlü
 
@@ -9106,9 +4265,7 @@ türün @ qeyrətli, çalışqan, foal
 
 tüs @ 1. mükafat, nəticə, səmərə, fayda, 2. meyvə, ərzaq
 
-tüsəmək @ yuxu görmək, röya
-
-görmək
+tüsəmək @ yuxu görmək, röya görmək
 
 tüsülmək @ düzülmək
 
@@ -9116,9 +4273,7 @@ tüş @ 1, mükafat, nəticə, səmərə, fayda, 2. meyvə, ərzaq, 3. tuş, ist
 
 tüşək @ döşək
 
-tüşəmək @ 1. döşəmək, 2. yuxu
-
-görmək
+tüşəmək @ 1. döşəmək, 2. yuxu görmək
 
 tüşkəlmək @ düşmək, yerləşmək
 
@@ -9136,9 +4291,7 @@ tüşüngüçi @ düşürdən, endirən, sövq edici
 
 tüşürmək @ düşürmək, endirmək, sövq etmək
 
-tüşütlənmək @ xəyal, mülahizə
-
-etməktützük @ tüstü, tüstülənən bir şey
+tüşütlənmək @ xəyal, mülahizə etməktützük @ tüstü, tüstülənən bir şey
 
 tütmək @ tüstülənmək
 
@@ -9152,9 +4305,7 @@ tütsük @ tüstü, tüstülənən bir şey
 
 tütsülüg @ günlük
 
-tütün @ 1. yer vergisi, torpaq
-
-vergisi, 2. duman
+tütün @ 1. yer vergisi, torpaq vergisi, 2. duman
 
 tütünlüg @ tütünlü, dumanlı;
 
@@ -9162,9 +4313,7 @@ tütüş @ tutuş, savaş, hərb, müharibə
 
 tütüşlüg @ düşmən kəsilmə, düşmənlik
 
-tütüşmək @ ttuşmaq, savaşmaq, dalaşmaq, döyüşmək, müharibə
-
-etmək
+tütüşmək @ ttuşmaq, savaşmaq, dalaşmaq, döyüşmək, müharibə etmək
 
 tüü @ 1. saç, qıl; 2. növ, çeşid
 
@@ -9198,7 +4347,7 @@ uç @ 1. uc, baş; 2. uzaq
 
 uça @ quyruq, arxa, kürək
 
-ис̧киг @ mütəxəssis, bilirli adam, bilici
+ис̧киr @ mütəxəssis, bilirli adam, bilici
 
 uçluğ @ uclu
 
@@ -9220,23 +4369,17 @@ uçuz @ ucuz, xəfif, az
 
 uçuzlamak @ qiymətdən düşmək, ucuzlaşmaq
 
-ud —-1. mək, öküz, 2. on iki il
-
-siklli türk təqvimində il adı
+ud @ 1. mək, öküz, 2. on iki il siklli türk təqvimində il adı
 
 udaçı @ qadir, yaradan. gücü çatan
 
-udaqksık @ adlı-sanlı, hörmətə
+udaqksık @ adlı-sanlı, hörmətə layiq, ləyaqətli
 
-layiq, ləyaqətli
-
-udçi @ с̧обап
+udçi @ с̧обаn
 
 udğuratı @ tamamilə
 
-udğurmak @ 1. oyandırmaq, tərəfini saxlmaq; 2. qələbə
-
-çalmaq
+udğurmak @ 1. oyandırmaq, tərəfini saxlmaq; 2. qələbə çalmaq
 
 udu; @ yuxu
 
@@ -9266,45 +4409,31 @@ uduğçi @ hörmət edən
 
 uduğsak @ davranma
 
-идитбаг = incirəbənzər meyvə
-
-ağacı
+идитбаr = incirəbənzər meyvə ağacı
 
 udun —-1. hömət, ehtiram, 2. təslim, təqib
 
 udunmak @ 1. hörmət etmək, ehtiram göstərmək, saymaq; 2. təslim etmək, təqib etmək
 
-udunçu @ 1. hörmət edən, ehtiram
-
-göstərən, 2. təslim edən, təqib
-
-edən
+udunçu @ 1. hörmət edən, ehtiram göstərən, 2. təslim edən, təqib edən
 
 udundurmak @ hörmət etdirmək, saydırmaq
 
 uduru @ tərsinə, əksinə
 
-udusumak @ 1. sövq etmok, götürmək, 2. təqib etməyə
+udusumak @ 1. sövq etmok, götürmək, 2. təqib etməyə məcbur etmək
 
-məcbur etmək
-
-uduş @ təqib etmək, ardınca
-
-düşmək
+uduş @ təqib etmək, ardınca düşmək
 
 uduz @ qaşınma
 
-uduzmak @ 1. sövq etmək, götürmək, 2. təqib etməyə
-
-məcbur etmək
+uduzmak @ 1. sövq etmək, götürmək, 2. təqib etməyə məcbur etmək
 
 ufşaq @ balaca
 
 uğan @ tanrı, allah
 
-uğramak @ arzulamaq, niyyət
-
-etmək
+uğramak @ arzulamaq, niyyət etmək
 
 uğu @ -imkan
 
@@ -9316,9 +4445,7 @@ uğur @ 1. fürsər, təsadüf, 2. uğur
 
 uğurunta @ uğrunda
 
-uğusuz @ imkansız, qeyri-
-
-mümkün
+uğusuz @ imkansız, qeyri- mümkün
 
 uğutlamak @ mayalamaq
 
@@ -9338,17 +4465,13 @@ ukturmak @ anlatmaq, izah etmək
 
 ukunmak @ 1. anlatmaq, qanc
 
-olmaq, 2. etiraf etmək, qəbul
-
-etmək
+olmaq, 2. etiraf etmək, qəbul etmək
 
 ukunçsuz @ tədbirsiz
 
 uküş @ 1. bənzəyiş, 2. qəbilə, tayfa, soy
 
-ulağ @ 1. zəncir, silsilə, sira, 2. ulaq, eşşək, uzunqulaq, yük
-
-heyvanı
+ulağ @ 1. zəncir, silsilə, sira, 2. ulaq, eşşək, uzunqulaq, yük heyvanı
 
 ulalmak @ bağlı olmaq
 
@@ -9366,9 +4489,7 @@ ulığ @ ulama, sızlama, sızıltı
 
 ulik @ sizil
 
-ulmak @ ulamaq, sizlamaq, uca
-
-səslə ağlamaq
+ulmak @ ulamaq, sizlamaq, uca səslə ağlamaq
 
 ulınmak @ 1, çevirmək, 2. qıvrılmaq, inləmək
 
@@ -9410,13 +4531,9 @@ ulyan @ pəncə, daban
 
 uma @ ana
 
-umak @ qadir olmaq, gücü
+umak @ qadir olmaq, gücü çatmaq, bacarmaq
 
-çatmaq, bacarmaq
-
-uman @ qadın üzvü, uşaqlıq
-
-(qadında), doğum sonu
+uman @ qadın üzvü, uşaqlıq (qadında), doğum sonu
 
 umuğ @ umud, ümid
 
@@ -9434,9 +4551,7 @@ umunmak @ ummaq, ümid etmək
 
 umuş @ umma
 
-una @ 1. bax, 2. indi; 3. (kiya sözü
-
-ilə) daha
+una @ 1. bax, 2. indi; 3. (kiya sözü ilə) daha
 
 unamak @ razı olmaq
 
@@ -9450,13 +4565,9 @@ unsuz @ olmaz
 
 upaki @ 1, kişi rahib, kişi mömin; 2, kişi vəkil
 
-upançik @ upançik (dini
+upançik @ upançik (dini dərəcədir)
 
-dərəcədir)
-
-upasanç @ qadın rahib, qadın
-
-mömin
+upasanç @ qadın rahib, qadın mömin
 
 upasi @ kişi rahib, kişi mömin
 
@@ -9506,7 +4617,7 @@ usamağ @ uzunlaşmaq
 
 usanmak @ 1. susamaq; 2. inanmaq, etiqad etmək
 
-изаг @ gücü yetsə
+изаr @ gücü yetsə
 
 usbad @ dərman bitkisinin adı
 
@@ -9562,9 +4673,7 @@ utlisiz @ mükafatsız, qarşılıqsız
 
 utmak @ 1. udmaq, yenmək, qa-
 
-zanmaq, qələbə çalmaq; 2. Tə-
-
-qib etmək, 3. qazanc; 4. təqib
+zanmaq, qələbə çalmaq; 2. Təqib etmək, 3. qazanc; 4. təqib
 
 utmat @ dəlilik, çılğınlıq
 
@@ -9584,9 +4693,7 @@ utrunmak —— qarşı gəlmək, dayanmaq, qarşı qoymaq
 
 utrunuk @ qarşı-qarşıya
 
-utsukmak @ məğlub olmaq, yox
-
-olmaq
+utsukmak @ məğlub olmaq, yox olmaq
 
 uttarabhadrapada @ “ulduz adıdır
 
@@ -9618,7 +4725,7 @@ uvutsuz  @ —. ədəbsiz, tərbiyəsiz, utanmaz
 
 uvşak @ balaca
 
-пу @ çüxür, oyuq
+nу @ çüxür, oyuq
 
 uya @ yuva, çuxur, oyuq
 
@@ -9636,13 +4743,9 @@ uyatmak @ utanmaq
 
 uyğur @ uyğur
 
-uyirkanmak @ qüvvədən düşmək, zəifləmək, yorulmaq, donub
+uyirkanmak @ qüvvədən düşmək, zəifləmək, yorulmaq, donub qalmaq
 
-qalmaq
-
-uymak @ fikrə dalmaq, fikrə
-
-getmək
+uymak @ fikrə dalmaq, fikrə getmək
 
 uyulmak @ uyuşmaq, kəsilmək
 
@@ -9658,9 +4761,7 @@ uzağutmak @ uzatmaq
 
 uzak @ 1. uzaq; 2. necə, 3. hərf
 
-uzakı @ sürəkli, davamlı, uzun
-
-sürən
+uzakı @ sürəkli, davamlı, uzun sürən
 
 uzamak @ uzunlaşmaq
 
@@ -9670,9 +4771,7 @@ uzatı @ daim, sürəkli, davamlı
 
 uzatmak @ 1. uzatmaq; 2, götürmək
 
-uziti @ sürəgli, davam, uzun
-
-sürən
+uziti @ sürəgli, davam, uzun sürən
 
 uzik @ heca, hərif
 
@@ -9802,9 +4901,7 @@ hesabsız, 2. nəsibsiz, qismətsiz
 
 üngir @ mağara
 
-üngürmək @ dcşdirmək, dəlik
-
-açmaq, deşik açmaq
+üngürmək @ dcşdirmək, dəlik açmaq, deşik açmaq
 
 ünkür @ mağara
 
@@ -9874,9 +4971,7 @@ açmaq, deşik açmaq
 
 üstün @ üstdə, yuxarıda
 
-üstünki @ ən üstdəki, ən
-
-yüksəkdəki
+üstünki @ ən üstdəki, ən yüksəkdəki
 
 üstürti @ üstdən, yuxarıdan
 
@@ -9894,9 +4989,7 @@ yüksəkdəki
 
 üştürmək @ zəif soslo demək, pıçıldamaq
 
-üştürü @ eşidilə biləcək bir
-
-şəkildə
+üştürü @ eşidilə biləcək bir şəkildə
 
 üşülmək @ qorxmaq
 
@@ -9904,9 +4997,7 @@ yüksəkdəki
 
 üt @ 1. dəlik, deşik, keçid, 2. zaman, vaxt, 3. öyüd, nəsihət, ehkam
 
-ütləmək @ dərs demək, tədris
-
-etmək, öyrətmək
+ütləmək @ dərs demək, tədris etmək, öyrətmək
 
 ütük @ ütü
 
@@ -9926,7 +5017,7 @@ etmək, öyrətmək
 
 üz biz @ yıxılma, çoxalma
 
-üzə —.. üstdə, yuxarda, üstündə, 2.3lə
+üzə @ üstdə, yuxarda, üstündə, 2.3lə
 
 üzəki @ üstdəki, yuxarıdakı
 
@@ -10056,9 +5147,7 @@ vrhar @ monastir
 
 vrxar @ monastır
 
-vsanpat @ vsanpat (nə isə dini
-
-mərasimdir)
+vsanpat @ vsanpat (nə isə dini mərasimdir)
 
 vu @ tilsim
 
@@ -10100,9 +5189,7 @@ yadçı @ sehirbaz, əfsunçu
 
 yadılmak @ yayılmaq, dağılmaq
 
-yadınmak @ açılmaq, etiraf
-
-etmək
+yadınmak @ açılmaq, etiraf etmək
 
 yadmak @ yaymaq, açmaq
 
@@ -10116,9 +5203,7 @@ yağamak @ qurban vermək
 
 yağar @ ?
 
-yağçırtmak @ yağlamaq, yağ
-
-sürtmək
+yağçırtmak @ yağlamaq, yağ sürtmək
 
 yağı @ yağı, düşmən
 
@@ -10140,9 +5225,7 @@ yağıtmak @ yağdırmaq, yağdırtmaq
 
 yağış @ qurban
 
-yağışlığ @ qurbanlıq, qurban
-
-verilməli (nə isə)
+yağışlığ @ qurbanlıq, qurban verilməli (nə isə)
 
 yağışlık @ qurbanlıq, qurban
 
@@ -10152,9 +5235,7 @@ yağız @ qara, qonur
 
 yağlığ @ yağlı
 
-yağmak @ 1. yağmaq, 2. qurban
-
-vermək
+yağmak @ 1. yağmaq, 2. qurban vermək
 
 yağmur @ yağmur
 
@@ -10164,9 +5245,7 @@ yağukrak @ daha yaxın
 
 yağumak @ yaxınlaşmaq
 
-yağuru – уахлп, елза, уахтпа
-
-doğru
+yağuru – уахлn, елза, уахтnа doğru
 
 yal @ yaz
 
@@ -10178,15 +5257,11 @@ yailık @ yazlıq(ev)
 
 yaka @ 1, mükafat, kirayə haqqı, 2. tərəf, yan
 
-yakalamak @ təzim etmək, ibadət
-
-etmək, yoluna qoymaq
+yakalamak @ təzim etmək, ibadət etmək, yoluna qoymaq
 
 Yakan @ antroponim, şəxs adı
 
-yakçırtmak @ düşünmək, mühakimə yürütmək, təhrik
-
-etmək
+yakçırtmak @ düşünmək, mühakimə yürütmək, təhrik etmək
 
 yakdurmak @ yandırmaq
 
@@ -10194,9 +5269,7 @@ yakılmak @ yaxınlaşmaq
 
 yakın @ yaxın
 
-yakıs @ 1. yağlı, yağlı olan (bir
-
-şey); 2. qurban
+yakıs @ 1. yağlı, yağlı olan (bir şey); 2. qurban
 
 yakirikıya @ lap yaxın
 
@@ -10280,9 +5353,7 @@ yalnuk @ insan
 
 yalnız @ yalnız
 
-yaltırmak @ parlamaq, işiq
-
-saçmaq
+yaltırmak @ parlamaq, işiq saçmaq
 
 yaltrak @ işıq, parıltı
 
@@ -10300,7 +5371,7 @@ yaltrırmak @ aydınlaşmaq
 
 yaltrıtmak @ partlatmaq, aydınlatmaq
 
-уаНгик @ işıq, ziya, parlaqlıq
+уаНrик @ işıq, ziya, parlaqlıq
 
 yalbarmak @ yalvarmaq, diləmək, istəmək, niyaz etmək
 
@@ -10310,13 +5381,7 @@ yaman @ yaman, pis, əclaf, qorxunc, fəna
 
 yamğur @ yağmur, yağış
 
-yamız @ qarının alt hissəsi
-
-(güman ki, Azorbaycan
-
-dilindəki yambız sözü
-
-buradandır)
+yamız @ qarının alt hissəsi (güman ki, Azorbaycan dilindəki yambız sözü buradandır)
 
 yan @ yan, tərof
 
@@ -10326,9 +5391,7 @@ yanak @ bünövrə
 
 yançışmak @ vuruşmaq, döyüşmək
 
-yançmak @ 1, ünah işlətmək, suçlu olmaq, 2. əzmək, qırmaq
-
-parçalamaq
+yançmak @ 1, ünah işlətmək, suçlu olmaq, 2. əzmək, qırmaq parçalamaq
 
 yançuk @ kisə, torba
 
@@ -10340,11 +5403,7 @@ yanlık @ yanlış, səhv, xəta
 
 yanlıuğ @ yanlış, səhv, xəta
 
-yanmak @ 1. qorxutmaq, təhdid
-
-etmək, 2. dönmək, qayıtmaq;
-
-3. yaymaq
+yanmak @ 1. qorxutmaq, təhdid etmək, 2. dönmək, qayıtmaq; 3. yaymaq
 
 yant @ geri
 
@@ -10358,9 +5417,7 @@ yantut @ qarşılıq
 
 yanut @ cavab, qarşılıq
 
-yanut bitig @ keçici ödəmə
-
-müqaviləsi, sazişi
+yanut bitig @ keçici ödəmə müqaviləsi, sazişi
 
 yan @ 1. üsul, adət, ənənə, 2, ölçü, miqdar, hocm, 3, parlaqlıq; 4. fil
 
@@ -10372,43 +5429,31 @@ yanğak @ 1. yan, tərəf; 2. yanaq
 
 yanğu @ təzminat, qarşılıq
 
-yanğurmak @ şaqqıldatmaq, səs
-
-çıxarmaq, cinlətmək, yandırmaq
-
-(məcazi), hirslondirmək
+yanğurmak @ şaqqıldatmaq, səs çıxarmaq, cinlətmək, yandırmaq (məcazi), hirslondirmək
 
 yanı @ 1, yeni, təzə, 2. gün
 
 Yanıçuk @ antroponim, şəxs adı
 
-yanılmaq @ yanılmaq, səhv
-
-etmək
+yanılmaq @ yanılmaq, səhv etmək
 
 yanıluk @ səhv, yanlış, xəta
 
 yanırtı @ yenidən, təzədən, başdan, əvvəldən
 
-yankırmak @ əks etmək, inikas
-
-etmək
+yankırmak @ əks etmək, inikas etmək
 
 yanku @ sos, əks-səda
 
 yankkuluğ @ oks edən, səs çıxaran
 
-yankurmak @ səslənmək, əks
-
-etmək
+yankurmak @ səslənmək, əks etmək
 
 yankurtmak @ səs oks etmək, əks-səda vermək
 
 yankurüş @ səs
 
-yanlığ @ növ, çeşid, vücuda
-
-gəlmiş, törəmiş
+yanlığ @ növ, çeşid, vücuda gəlmiş, törəmiş
 
 yanlık @ yanlış, səhv, xəta
 
@@ -10426,11 +5471,7 @@ yapar @ müşk, rayihə, qoxu
 
 yapı @ qabıq
 
-yapığ @ 1. tikili, bina, 2.
-
-bağlayan, 3. yaradılmış, xəlq
-
-edilmiş
+yapığ @ 1. tikili, bina, 2. bağlayan, 3. yaradılmış, xəlq edilmiş
 
 yapınmak @ hazırlamaq, qapamaq, örtmək
 
@@ -10454,9 +5495,7 @@ yapşınmak @ yapışmaq
 
 yapşurmak @ yapışdırmaq
 
-yar @ 1. irin, çirk, 2 (tuz sözü ilə)
-
-daş duz
+yar @ 1. irin, çirk, 2 (tuz sözü ilə) daş duz
 
 yara @ omuz, kürək(lər)
 
@@ -10466,9 +5505,7 @@ yarağ @ 1. lazım olan, gərək olan, yaradan, yaraq, 2. silah, yaraq
 
 yarağlığ @ 1. yararh, yarayan, uyğun, xoş; 2, silahlı, yaraqlı
 
-yarağsız @ 1. yararsız, uyğun
-
-olmayan, xoş olmayan, 2. silahsız, yaraqsız
+yarağsız @ 1. yararsız, uyğun olmayan, xoş olmayan, 2. silahsız, yaraqsız
 
 yarak @ 1. lazımlı, gərəkli, yarayan , 2. silah, yaraq
 
@@ -10478,9 +5515,7 @@ yaralmak @ yanılmaq
 
 yaramak @ yaranmaq, yaraşmaq
 
-yaranmak @ yaranmaq, xoşa
-
-gəlmək
+yaranmak @ yaranmaq, xoşa gəlmək
 
 yarası @ üzüyola, itaətkar
 
@@ -10490,13 +5525,9 @@ yaraş @ təbiət, yaradılış
 
 yaraşı @ 1. yaradılmış, yaraşıq, gözəllik, yararlı, 2. təbiət, 3. bəzək
 
-yaraşmaz @ yaraşmaz, yaraşıqlı
+yaraşmaz @ yaraşmaz, yaraşıqlı olmayan, yaraşıqsız
 
-olmayan, yaraşıqsız
-
-yaraşmak @ yaraşmaq, uyğun
-
-gəlmək, düz gəlmək
+yaraşmak @ yaraşmaq, uyğun gəlmək, düz gəlmək
 
 yaraşturmak @ yaraşdırmaq, uyğun gəlmək, uyğunlaşdırmaq
 
@@ -10510,9 +5541,7 @@ yaratığ @ 1. bəzək; 2. təşəbbüs, 3, tochizat
 
 yaratığlığ @ təchiz edilmiş, bəzədilmiş
 
-yaratılmak @ yaradılmaq, hazır
-
-edilmək, təchiz edilmək, bəzədilmək
+yaratılmak @ yaradılmaq, hazır edilmək, təchiz edilmək, bəzədilmək
 
 yaratınğu @ tənzim edici, düzəldən
 
@@ -10520,9 +5549,7 @@ yaratınmak @ tənzim etmək, düzəltmək, tərtib etmək
 
 yaratışmak @ yaratmaq
 
-yaratmak @ 1. yaratmaq, düzəltmək, hazırlamaq, 2. bəzəmək, 3. bəyəndirmək, özünü göslərmək, 4. toşviq
-
-etmək
+yaratmak @ 1. yaratmaq, düzəltmək, hazırlamaq, 2. bəzəmək, 3. bəyəndirmək, özünü göslərmək, 4. toşviq etmək
 
 yaratu @ tərəflərin razılığı (ilə)
 
@@ -10544,7 +5571,7 @@ yarın @ yarın, ertəsigün, səhər, sabahısı
 
 yarınçık  @ . mənlür, əclaf
 
-уагаҝ @ 1, zireh, 2. kənar, qıraq
+уаrаҝ @ 1, zireh, 2. kənar, qıraq
 
 yarılmak @ yarılmaq, parçalanmaq
 
@@ -10554,21 +5581,13 @@ yarlığ @ 1. əmr, forman, yarlık, buyuruq, 2. təriqət, tam, 3. lütf, 4. ka
 
 yarlığkamak @ 1. buyurmaq, öyüd vermək, fərman vermək, əmr etmək, 2. iltifat etmək, şəfqət göstərmək
 
-уагик @ 1. əmr, forman, yarlık, buyuruq, 2. təriqət, tale 3. Tütf, 4. kasıb, yoxsul, fağır, aciz, səfil, bədbəxt
+уаrик @ 1. əmr, forman, yarlık, buyuruq, 2. təriqət, tale 3. Tütf, 4. kasıb, yoxsul, fağır, aciz, səfil, bədbəxt
 
-yarhkamak @ 1. buyurmaq, öyüd
-
-vermək, forman vermək, əmr
-
-etmək, 2, iltifat etmək, şəfqət
-
-göstərmək
+yarhkamak @ 1. buyurmaq, öyüd vermək, forman vermək, əmr etmək, 2, iltifat etmək, şəfqət göstərmək
 
 yarhkanmaq @ 1. zireh geymək, 2. şəfqət göstərmək
 
-yarlıkançsız @ mərhəmətsiz, daş
-
-Ürəkli
+yarlıkançsız @ mərhəmətsiz, daş Ürəkli
 
 yarlıkançuçi @ mərhəmətli
 
@@ -10580,9 +5599,9 @@ yarmanmak @ dırmanmaq, dırmaşmaq, çıxmaq
 
 Yaroğlu @ antroponim, şəxs adı
 
-уагр @ sağlam, güclü, qüvvətli
+уаrр @ sağlam, güclü, qüvvətli
 
-yarpsız —— gücsüz, qüvvətsiz, istehkamsız
+yarpsız @ gücsüz, qüvvətsiz, istehkamsız
 
 yarsığak @ mənfur, əclaf, iyrənc, çirkin
 
@@ -10612,9 +5631,7 @@ yarun @ şəfəq, dan sökülməsi
 
 yarutmak @ parlatmaq, aydınlaşdırmaq, görünmək
 
-yas 1. zərər, ziyan, 2. həlim, şəfqətli, 3. yaş, yaşlı; 4. yaş
-
-(adamın), 5. göz yaşı
+yas 1. zərər, ziyan, 2. həlim, şəfqətli, 3. yaş, yaşlı; 4. yaş (adamın), 5. göz yaşı
 
 yasa @ qanun, yasaq
 
@@ -10634,7 +5651,7 @@ yasmak @ əritmək
 
 yas-sönük @ düz, düzən
 
-yastuk -.- sikkə növü, pul
+yastuk @ sikkə növü, pul
 
 yasuk @ işıq, parıltı, ziya
 
@@ -10644,9 +5661,7 @@ yasul @ yoxuş, yoxuşlu, əyri
 
 yasumak @ parlamaq
 
-yaş @ 1. yaş, təzə, yaşıl, ot, ömür; 2. göz yaşı, 3. yaş (adamın);
-
-4. zərər, ziyan.
+yaş @ 1. yaş, təzə, yaşıl, ot, ömür; 2. göz yaşı, 3. yaş (adamın); 4. zərər, ziyan.
 
 yaşağu @  @  yaşayış, həyat, kainat, varlıq, mövcudluğ
 
@@ -10672,9 +5687,7 @@ yaşlağ @ yaşlı, qoca, ixtiyar
 
 yaşlığ @ 1. canlı, 2. yaşlı, qoca, ixliyar, 3. yaşlı (göz)
 
-yaşmak @ silmək, sürünərək
-
-gizlənmək
+yaşmak @ silmək, sürünərək gizlənmək
 
 yaşnamak @ yaşamaq
 
@@ -10700,9 +5713,7 @@ yatğurmak @ yatırmaq, yatızdırmaq, uzatmaq
 
 yatılmak @ etiraf etmək, açılmaq
 
-yatlamak @ yad olmaq, düşmən
-
-olmaq, qaçışmaq, uzaqlaşmaq
+yatlamak @ yad olmaq, düşmən olmaq, qaçışmaq, uzaqlaşmaq
 
 yatlanğuçı @ düşmən
 
@@ -10738,9 +5749,7 @@ yavız @ pis, xəbis, əclaf
 
 yavlak @ pis, oclaf, xəbis, düşmən, qəzəb
 
-yavrımak @ zəifləmək, gücdən
-
-düşmək
+yavrımak @ zəifləmək, gücdən düşmək
 
 yay @ yay
 
@@ -10752,13 +5761,9 @@ yayılmaksız @ tərəddüdsüz
 
 yayıtmak @ sarsılmaq, titrəmək
 
-yaykalmak @ sallanmaq, tərəddüd
+yaykalmak @ sallanmaq, tərəddüd etmək
 
-etmək
-
-yaylamak @ yaylamaq, yayı
-
-keçirmək
+yaylamak @ yaylamaq, yayı keçirmək
 
 yaylık @ yaylıq, yazlıq
 
@@ -10772,13 +5777,9 @@ yazınç @ günah
 
 yazınçsız @ günahsız
 
-yazınmak @ yanılmaq, günah
+yazınmak @ yanılmaq, günah işlətmək, itaət etməmək
 
-işlətmək, itaət etməmək
-
-yazmak @ 1. yanılmaq, günah
-
-etmək, xəta etmək, 2. yazmaq
+yazmak @ 1. yanılmaq, günah etmək, xəta etmək, 2. yazmaq
 
 yazuğ @ günah, suç, xəta, qüsur
 
@@ -10798,9 +5799,7 @@ yekşəmbi @ bazar günü, yekşəmbə
 
 yeg @ yaxşı, çox yaxşı
 
-yegədmək @ yüksəltmək, ucaltmaq, üstün olmaq, qələbə
-
-çalmaq
+yegədmək @ yüksəltmək, ucaltmaq, üstün olmaq, qələbə çalmaq
 
 yegirmi @ iyirmi
 
@@ -10864,9 +5863,7 @@ yığınmak @ toplanmaq
 
 yığıt @ ağlama
 
-yığlavmak @ ağlamaq, şivən
-
-qoparmak
+yığlavmak @ ağlamaq, şivən qoparmak
 
 yığlaşmaq @ ağlaşmaq
 
@@ -10876,9 +5873,7 @@ yuükmak @ 1. yığmaq, toplamaq, qazanmaq, 2. yıxmaq, atmaq
 
 yıl @ i
 
-yuan @ 1, ilan, 2. on iki 1 siklli
-
-türk təqvimində il adı.
+yuan @ 1, ilan, 2. on iki 1 siklli türk təqvimində il adı.
 
 yıldız @ ulduz
 
@@ -10942,9 +5937,7 @@ yıvağu @ ağac növü
 
 yıvılğu @ ağac növü
 
-yıvılmak @ öyülmək, mədh
-
-edilmək, təriflənmək
+yıvılmak @ öyülmək, mədh edilmək, təriflənmək
 
 yıvmak @ öymək, tərifləmək
 
@@ -10962,9 +5955,7 @@ yidinçsiz  @  @ sonluqsuz, sonsuz
 
 yidmək @ 1. yetmək, çatmaq, yüksəlmək, yetişmək, 2. yetmək (sona), yox olmaq, qeyb olmaq
 
-yig @ 1. yaxşt daha yaxşı, 2. üstün; 3. çiy, xam, kal;
-
-4. yonulmamış, qaba, kobud, sırtıq, üzlü
+yig @ 1. yaxşt daha yaxşı, 2. üstün; 3. çiy, xam, kal; 4. yonulmamış, qaba, kobud, sırtıq, üzlü
 
 yigdə @ iydə
 
@@ -10974,9 +5965,7 @@ gəlmək
 
 yigən @ qardaşoğlu, bacıoğlu
 
-yigənə yig @ yaxşıdan yaxşı, ən
-
-yaxşı
+yigənə yig @ yaxşıdan yaxşı, ən yaxşı
 
 yigi—six, sixi
 
@@ -11032,9 +6021,7 @@ yimə @ yenə, təkrar, yenidən
 
 yimə tügəl @ tamamilə, büsbütün
 
-yimirmək @ yıxmaq, parça-parça
-
-etmək
+yimirmək @ yıxmaq, parça-parça etmək
 
 yimiş @ yemiş, meyvə
 
@@ -11050,17 +6037,11 @@ yinçgə @ incə
 
 yinçkə @ incə
 
-yinçirmək @ əyilmək, baş
-
-əymək, təzim etmək, hörmət
-
-etmək
+yinçirmək @ əyilmək, baş əymək, təzim etmək, hörmət etmək
 
 yincü @ inci
 
-yinçülüg @ incili, inci ilə
-
-bəzənmiş
+yinçülüg @ incili, inci ilə bəzənmiş
 
 yinçürmək @ hörmət etmək, təzim etmək, baş əymək, əyilmək
 
@@ -11106,9 +6087,7 @@ yirdəki @ yerdəki
 
 yirinmək @ yaralanmaq, irinləmak
 
-yirintürdəçi @ hərəkət etdirən
-
-(adam), yoldan çıxaran
+yirintürdəçi @ hərəkət etdirən (adam), yoldan çıxaran
 
 yirintürmək @ hərəkət etmək
 
@@ -11124,9 +6103,7 @@ yirinlig @ irinh, yaralı
 
 yirin ümək @ 1. ağlamaq, 2. təzələnmək, 3. iyrənmək
 
-yirmək @ 1. pis olmaq, xarab
-
-olmaq, əksilmək, 2. qızmaq, hiddətlənmək, özündən çıxmaq
+yirmək @ 1. pis olmaq, xarab olmaq, əksilmək, 2. qızmaq, hiddətlənmək, özündən çıxmaq
 
 yirməksiz @ qəzəbsiz
 
@@ -11146,9 +6123,7 @@ yismək @ keçmək, ötmək
 
 yitəgü @ yeddi-yeddi
 
-yitərü @ yetəcək qədər, kifayət
-
-qədər
+yitərü @ yetəcək qədər, kifayət qədər
 
 yiti @ 1. yeddi, 2. kəskin
 
@@ -11162,19 +6137,13 @@ yitigü @ yeddi-yeddi
 
 yitinçsiz @ çatılmayan
 
-yitirü @ çatacaq qədər, kifayət
-
-qədər
+yitirü @ çatacaq qədər, kifayət qədər
 
 Yütikən @ Böyük Ayı (bürcü)
 
-yitlinmək @ (sona) yetmək, məhv
+yitlinmək @ (sona) yetmək, məhv olmaq, yox olmaq
 
-olmaq, yox olmaq
-
-yitlintürmək @ yox etmək, məhv
-
-etmək
+yitlintürmək @ yox etmək, məhv etmək
 
 yitmək @ 1. yetmək, çatmaq, yüksəlmək, 2. (sona) yetmək, yox olmaq
 
@@ -11196,9 +6165,7 @@ yivətmək @ təchiz etmək
 
 yivik @ əmlak, mülk
 
-yiviklig @ (zizök/ig sözü 1lə)
-
-bərabər
+yiviklig @ (zizök/ig sözü 1lə) bərabər
 
 yivig @ 1. tochizat, əmlak, mülk, 2. boyunbağı, həmail
 
@@ -11222,17 +6189,13 @@ yoda @ bacanın üst tərəfi
 
 yodmak @ sona çatmaq
 
-yodun @ dağıtma, qırma, məhv
-
-etmə
+yodun @ dağıtma, qırma, məhv etmə
 
 Yoğ @ bir şastranın adıdır
 
 yoğ @ 1, yox, 2. ehsan, matəmi, yas, dəfn
 
-yoğadmak @ yox etmək, dəfn
-
-etmək, ölmək, məhv olmaq
+yoğadmak @ yox etmək, dəfn etmək, ölmək, məhv olmaq
 
 Yoğalum @ bir şastranın adıdır
 
@@ -11246,15 +6209,11 @@ yoğunatmak @ yoğunlaşdırmaq, qalınlaşdırmaq
 
 yoğurkan @ üst paltar, geyim, örtü
 
-yoğurmak @ 1. yoğurmaq; 2. yumşaltmaq, təskinlik
-
-vermək, 3, əksinə getmək
+yoğurmak @ 1. yoğurmaq; 2. yumşaltmaq, təskinlik vermək, 3, əksinə getmək
 
 yoğuz @ lüzumsuz
 
-yok @ 1. yox, fona, 2. (çiğay sözü
-
-ilə) yoxsul, kasıb fağır, səfil
+yok @ 1. yox, fona, 2. (çiğay sözü ilə) yoxsul, kasıb fağır, səfil
 
 yokadmak @ yox etmək, ölmək, dəfn etmək, məhv etmək
 
@@ -11266,9 +6225,7 @@ yokatdurmak @ məhv etmək, məhv etdirmək, yox etdirmək
 
 yokatkuluğ @ öldürmə
 
-yokatmak @ yox etmək, öldürmək, dəfn etmək, məhv
-
-etmək
+yokatmak @ yox etmək, öldürmək, dəfn etmək, məhv etmək
 
 yokça @ yox kimi
 
@@ -11286,9 +6243,7 @@ yokuru @ yaxın
 
 yol @ 1. yol, səyahət, gəzinti, 2. şöhrət, səs, ün
 
-yolamak @ tösadüf etmək, yo;
-
-, göslərmək, rast gəlmək, rastlaşmaq, qarşısına çıxmaq, sövq etmək
+yolamak @ təsadüf etmək, yol göstərmək, rast gəlmək, rastlaşmaq, qarşısına çıxmaq, sövq etmək
 
 yolçı @ yolçu, bələdçi, rəhbər
 
@@ -11300,9 +6255,7 @@ yolluğ @ xoşbəxt
 
 yoluğ @ yoluq, yolunmuş
 
-yolunmak @ yoxlamaq, baş
-
-çəkmək, yoluxmaq
+yolunmak @ yoxlamaq, baş çəkmək, yoluxmaq
 
 yolunmak @ 1. yolda olmaq, yəla
 
@@ -11320,25 +6273,19 @@ siklli türk təqvimində il adı
 
 yonağ @ sftira, böhtan
 
-yonamak @ böhtan atmaq, iftira
-
-demək
+yonamak @ böhtan atmaq, iftira demək
 
 yonlağılığ @ xərciənmahi olan
 
 yonlak @ istifadə
 
-yonlaklığ @ istifadə etmək üçün
-
-olan
+yonlaklığ @ istifadə etmək üçün olan
 
 yonlamak @ istifadə etmək, işlətmək
 
 yookşastr @ Yoğa şastr
 
-yoramak @ yuxu yozmaq, yuxu
-
-yormaq
+yoramak @ yuxu yozmaq, yuxu yormaq
 
 yorçi @ yolçu, bələdçi, rəhbər
 
@@ -11364,11 +6311,9 @@ yorunçka @ yonca
 
 yosun @ nizam, üsul, qanun, qayda
 
-yota  @ . bacanın üst tərəfi
+yota  @ bacanın üst tərəfi
 
-yotuz @ rəfiqə, arvad, həyat
-
-yoldaşı
+yotuz @ rəfiqə, arvad, həyat yoldaşı
 
 yögərü @ yuxarı
 
@@ -11382,9 +6327,7 @@ yöləşmək @ bənzəmək
 
 yöləştrüg @ bərabər, eyni
 
-yöləştürmək -—-
-
-bərabərləşdirmək, eyniləşdirmək
+yöləştürmək @ bərabərləşdirmək, eyniləşdirmək
 
 yöntüşmək @ müharibə etmək
 
@@ -11408,9 +6351,7 @@ yörün @ ağ, bəyaz, açıq rəng
 
 yötül @ öskürək, öskürmə
 
-yratınmak @ tənzim etmək, tərtib
-
-etmək, düzəltmək
+yratınmak @ tənzim etmək, tərtib etmək, düzəltmək
 
 yraşı @ 1. yaradılış, 2. təbiət, 3. bəzək
 
@@ -11422,9 +6363,7 @@ vermək, 2. iltifat etmək
 
 yrlıkançaçı @ mərhəmətli
 
-yrlıkançasız @ mərhəmətsiz, daş
-
-ürəkli
+yrlıkançasız @ mərhəmətsiz, daş ürəkli
 
 yruk @ işıq, aydınlıq
 
@@ -11434,9 +6373,7 @@ yrvalmak @ yalvarmaq
 
 yuçul @ bayağı
 
-yudmak @ yıxmaq, silmək, tohrif
-
-etmək
+yudmak @ yıxmaq, silmək, tohrif etmək
 
 yuduknak @ bitirmək, silmək, son vermək
 
@@ -11466,7 +6403,7 @@ yulamak @ almaq, qoparmaq, zorla əldə etmək
 
 yulat -—çay yatağı, arx
 
-yulduz @ 1. ulduz, 2. bürc, 3. роапе1, зәууагә
+yulduz @ 1. ulduz, 2. bürc, 3. роаnе1, зәууаrә
 
 yulğak @  @  ticarət
 
@@ -11480,13 +6417,9 @@ yultuz @ 1. ulduz, 2. bürc, 3. planet, səyyaro
 
 yultuzçı @ münəccim, astronom
 
-yuluğ @ 1. satın alma; 2. (5/rin?
+yuluğ @ 1. satın alma; 2. (5/rin? sözü ilə) vergi növü
 
-sözü ilə) vergi növü
-
-yuluğçı @ 1. alıcı, satın alan, 2.
-
-vergi toplayan, 3. vergi verən
+yuluğçı @ 1. alıcı, satın alan, 2. vergi toplayan, 3. vergi verən
 
 yumak @ yumaq (fel), təmizləmək, qaldırmaq
 
@@ -11534,9 +6467,7 @@ yurum @ 051
 
 yutun @ son
 
-yutuz @ rəfiqə, arvad, həyat
-
-yoldaşı
+yutuz @ rəfiqə, arvad, həyat yoldaşı
 
 yuul @ 1. dərə, 2. çay; 3. bulaq
 
@@ -11544,17 +6475,13 @@ yuyulmak @ ohato etmək
 
 yüdmək @ yükləmək
 
-yügünmək @ əyilmək, səcdə
-
-etmək, təzim etmək
+yügünmək @ əyilmək, səcdə etmək, təzim etmək
 
 yügürmək @ yüyürmək, yürümək, qaçmaq
 
 yügürük @ sürətli, cəld, təcili
 
-yügünmək @ əyilmək, səcdə
-
-etmək, təzim etmək
+yügünmək @ əyilmək, səcdə etmək, təzim etmək
 
 yügürmək @ yüyürmək, yürümək, qaçmaq
 
@@ -11564,9 +6491,7 @@ yük @ yük
 
 yükləmək @ yükləmək
 
-yükmək @ 1. toplamaq; 2. yığın.
-
-topa? 3, pislik, 4. gübrə
+yükmək @ 1. toplamaq; 2. yığın. topa? 3, pislik, 4. gübrə
 
 yüksək @ yüksək
 
@@ -11574,9 +6499,7 @@ yükün @ yüyən; xətt
 
 yükünç @ səcdə, ehtiram, hörmət, təzim
 
-yükünmək @ səcdə etmək, diz
-
-çökmək, əyilmək, təzim etmək
+yükünmək @ səcdə etmək, diz çökmək, əyilmək, təzim etmək
 
 yüləgi @ ülgüc, xəncər
 
@@ -11640,9 +6563,7 @@ yüzkən @ aramsız, durmadan, mütəmadi
 
 yüzlənmək @ üz çevirmək
 
-yüzlüg @ 1. qohum-əqrəba, 2.
-
-əziz, möhtərəm, adlı-sanlı, 3.
+yüzlüg @ 1. qohum-əqrəba, 2. əziz, möhtərəm, adlı-sanlı, 3.
 
 yüzlük; 4. üzlü; 5. sırtıq, üzlü
 
@@ -11658,6 +6579,4 @@ zəkət @ zəkat
 
 zira @ bilki adı
 
-zmuğtuğ @ soğd ayının iyirmi
-
-səkkizinci günü
+zmuğtuğ @ soğd ayının iyirmi səkkizinci günü
